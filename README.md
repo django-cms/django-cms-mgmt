@@ -6,7 +6,7 @@
     
 - Tech Committee
    - [About the Tech Committee (mission, tasks & processes)](/tech-committee/about.md)
-   - [Task & Decision Log](/tech-committee/tasks-and-decisions.md)
+   - [Task & Decision Log](/tech-committee/tasks-and-decisions-log.md)
    
 - django CMS
    - [Technical Roadmap](/django-cms/roadmap.md)
