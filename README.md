@@ -1,11 +1,9 @@
 # django CMS Association
 
-- News & Updates
-   - django CMS Association News
-   - django CMS & packages News
-   - Tech Committee News
-   
-   
+- django CMS Association
+   - About dCA (mission, tasks & processes)
+   - Task & Decision Log
+    
 - Tech Committee
    - About the Tech Committee (mission, tasks & processes)
    - Task & Decision Log
