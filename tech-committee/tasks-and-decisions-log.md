@@ -2,7 +2,7 @@
 
 <small>The Tech Committee meetings documentation must follow the format of the [Tech Committee Log Entry Template](/tech-committee/tasks-and-decisions-log-entry-template.md)</small>
 
-ℹ️ [See here for all Tech Committee tasks](https://github.com/django-cms/django-cms-mgmt/projects/1)
+ℹ️  [See here for all Tech Committee tasks](https://github.com/django-cms/django-cms-mgmt/projects/1)
 
 
 ## Friday 18.09.2020
