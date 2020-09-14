@@ -11,8 +11,8 @@
 3. pull requests to process
 4. feature requests and issues to process
 5. Varia: further points raised by Tech Committee members
-   - ...
-   - ...
+   - RFP / Feature request process: Propose to use discourse and [discourse voting plugin](https://meta.discourse.org/t/discourse-voting/40121) - this would completely replace the [Fider setup](https://gitlab.com/what-digital/django-cms-association/-/issues/184)
+      - all feature requests that are posted as issues on the respective repositories would be tagged as feature requests, a discourse topic would be opened and the link referenced in the issue, the issue would be tentatively closed in the repo, and a discussion period would start on discourse, in which everyone would participate, including members of the tech committee. The tech committee then would review the results from the discussion period and would then either discard or accept into the roadmap.
 6. review log entry together, approve and post
 
 <small>After the meeting, create and link tasks and update the entry</small>
