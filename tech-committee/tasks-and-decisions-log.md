@@ -4,8 +4,7 @@
 
 [ℹ️ See here for all Tech Committee tasks](https://github.com/django-cms/django-cms-mgmt/projects/1)
 
-
-## Friday 18.09.2020
+## Friday 25.09.2020
 #### Agenda Points
 <small>TBD in in the first 5 min of the meeting</small>
 1. add new entry for next meeting from template
@@ -13,8 +12,8 @@
 3. pull requests to process
 4. feature requests and issues to process
 5. Varia: further points raised by Tech Committee members
-   - RFP / Feature request process: Propose to use discourse and [discourse voting plugin](https://meta.discourse.org/t/discourse-voting/40121) - this would completely replace the [Fider setup](https://gitlab.com/what-digital/django-cms-association/-/issues/184)
-      - all feature requests that are posted as issues on the respective repositories would be tagged as feature requests, a discourse topic would be opened and the link referenced in the issue, the issue would be tentatively closed in the repo, and a discussion period would start on discourse, in which everyone would participate, including members of the tech committee. The tech committee then would review the results from the discussion period and would then either discard or accept into the roadmap.
+   - ...
+   - ...
 6. review log entry together, approve and post
 
 <small>After the meeting, create and link tasks and update the entry</small>
@@ -35,6 +34,31 @@
 - ...
 - ...
 
+
+## Friday 17.09.2020
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+1. add new entry for next meeting from template
+2. tasks to review
+3. pull requests to process
+4. feature requests and issues to process
+5. Varia: further points raised by Tech Committee members
+   - RFP / Feature request process: Propose to use discourse and [discourse voting plugin](https://meta.discourse.org/t/discourse-voting/40121) - this would completely replace the [Fider setup](https://gitlab.com/what-digital/django-cms-association/-/issues/184)
+      - all feature requests that are posted as issues on the respective repositories would be tagged as feature requests, a discourse topic would be opened and the link referenced in the issue, the issue would be tentatively closed in the repo, and a discussion period would start on discourse, in which everyone would participate, including members of the tech committee. The tech committee then would review the results from the discussion period and would then either discard or accept into the roadmap.
+6. review log entry together, approve and post
+
+<small>After the meeting, create and link tasks and update the entry</small>
+#### Tasks to review
+- [ ] [respond to open merge requests on the core](https://github.com/django-cms/django-cms-mgmt/issues/1) - postponed
+- [ ] [create a definition of what changes are required in v4 to switch community efforts to v4 and abandon v3](https://github.com/django-cms/django-cms-mgmt/issues/2) - postponed
+#### New Pull Requests
+- This is for the moment handled via the pending cleanup task
+#### Feature Requests and Issues
+- We will postpone issue mgmt to after we've cleaned up the pending PRs.
+#### Decisions taken
+- we will set up Discourse with a voting plugin for feature voting
+- we will abandon the idea to use fider since Discourse can do that well via feature voting plugin
+- moving meeting back to 14:00 because Divio team members already have weekly meetings at 15:00
 
 
 ## Friday 11.09.2020
