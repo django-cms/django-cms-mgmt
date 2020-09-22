@@ -10,7 +10,8 @@
 5. Varia: further points raised by Tech Committee members
    - ...
    - ...
-6. review log entry together, approve and post
+6. Inputs from Guests
+7. review log entry together, approve and post
 
 <small>After the meeting, create and link tasks and update the entry</small>
 #### Tasks to review
