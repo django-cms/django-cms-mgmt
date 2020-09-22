@@ -2,6 +2,13 @@
 
 ## Mission
 
+The Technical Committee is headed by the dCA Project Management & Technology Officer who must be represented with a board seat. 
+
+The Technical Committee, represented by the Head Tech Committee consults the Executive Board on technical matters. 
+
+It prepares and updates the technical roadmap for approval by the Executive Board and/or the General Assembly, manages incoming feature requests and proposals and takes decisions on awarding credits for work submitted by members.
+
+
 ## Tasks
 
 - Tasks & Decisions Log
