@@ -14,7 +14,7 @@
 
 Anyone can join the TC meetings as a guest.
 
-Membership on the Tech Committee will grant 
+Membership on the Tech Committee will grant:
 - the right to set the TC agenda (via PR) before TC meetings
 - write access to the django CMS Github repo which is useful for the following:
    - review and accept PRs
