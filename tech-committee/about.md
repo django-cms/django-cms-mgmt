@@ -8,10 +8,24 @@ The Technical Committee, represented by the Head Tech Committee consults the Exe
 
 It prepares and updates the technical roadmap for approval by the Executive Board and/or the General Assembly, manages incoming feature requests and proposals and takes decisions on awarding credits for work submitted by members.
 
+## Team
+The the Technical Committee (TC) will include key developers from companies and others in the django CMS development community - developers who work with django CMS, as well as developers of django CMS - in order to help ensure that all perspectives are represented in important decisions about the software and the project.
+
+The TC may also include representatives of the django CMS community who are not developers but who have a valuable expertise in key fields (user experience, design, content management, etc).
+
+The current members of the TC are:
+- Mario Colombo (Project Management & Technology Officer)
+- Angelo Dini 
+- Victor Yunenko
+- Andrew Aikman 
+
+Want to joint the TC? Please see below.
+
+
 
 ## Tasks
 
-- Tasks & Decisions Log
+- [Tasks & Decisions Log](/tech-committee/tasks-and-decisions-log.md)
 
 ## Processes
 
