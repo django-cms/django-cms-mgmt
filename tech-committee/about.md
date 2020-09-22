@@ -26,6 +26,7 @@ Want to joint the TC? Please see below.
 ## Tasks
 
 - [Tasks & Decisions Log](/tech-committee/tasks-and-decisions-log.md)
+- [Kanban Board](https://github.com/django-cms/django-cms-mgmt/projects/1)
 
 ## Processes
 
