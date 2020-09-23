@@ -16,7 +16,11 @@ As non-profit organization, the dCA is dependent on donations from the django CM
 
 You can also contribute to the dCA through work contribution. Find out more *[here](https://github.com/django-cms/django-cms-mgmt/blob/master/tech-committee/about.md#processes)*
 
-## Executive Board
+## Statutes
+
+Read more about the different organs (General Assembly, Executive Committee, etc.), the voting rights and other regulations of the association in our [statutes
+](https://www.django-cms.org/dca-bylaws)
+## Executive Committee
 
 The Executive Committee represents the Association externally and manages ongoing business operations.
 
@@ -28,7 +32,6 @@ Members
 - [Luke Szkudlarek | Communications & Marketing Officer](https://www.linkedin.com/in/szkudlarek/)
 - [Daniele Procida | Community & Events Officer](https://www.linkedin.com/in/danieleprocida/)
 - [Nicolai Ridani | Growth & Community Manager](https://www.linkedin.com/in/nicolai-ridani/)
-
 
 
 ## Tasks
