@@ -1,5 +1,19 @@
 # Tasks and Decisions Log
 
+
+## Monday 28.09.2020
+
+Present: Adam, Joel, Mario, Bhavesh, Nicolai
+
+**Decisions**
+* We want to start every committee meeting with a sales report of the most relevant activities of the last week
+
+**Tasks**
+* Marcus to check with the Swiss Commercial Register to see whether notarized documents from abroad are accepted. 
+* Case study opportunities to be identified for new case studies articles that are going to be published in Q4 2020. 
+
+
+
 ## Monday 21.09.2020
 
 Present: Adam, Joel, Mario, Nicolai
