@@ -11,3 +11,11 @@
 - django CMS
    - [Technical Roadmap](/django-cms/roadmap.md)
    
+- Development 
+   - [Development policies](http://docs.django-cms.org/en/latest/contributing/development-policies.html)
+   - [Contributing code](http://docs.django-cms.org/en/latest/contributing/code.html)
+   - [Contributing documentation](http://docs.django-cms.org/en/latest/contributing/development-policies.html)
+   - [Code and project management](http://docs.django-cms.org/en/latest/contributing/management.html)
+   - [Running and writing tests](http://docs.django-cms.org/en/latest/contributing/testing.html)
+   - [Code of conduct](http://docs.django-cms.org/en/latest/contributing/code_of_conduct.html)
+   
