@@ -11,6 +11,7 @@
 #### Agenda Points
 <small>TBD in in the first 5 min of the meeting</small>
 1. add new entry for next meeting from template
+1. Guest intro
 1. news & updates for MarCom
 1. tasks to review
 1. pull requests to process
