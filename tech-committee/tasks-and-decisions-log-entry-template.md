@@ -4,6 +4,7 @@
 #### Agenda Points
 <small>TBD in in the first 5 min of the meeting</small>
 1. add new entry for next meeting from template
+1. Guest intro
 1. news & updates for MarCom
 2. tasks to review
 3. pull requests to process
@@ -11,7 +12,6 @@
 5. Varia: further points raised by Tech Committee members
    - ...
    - ...
-6. Inputs from Guests
 7. review log entry together, approve and post
 
 <small>After the meeting, create and link tasks and update the entry</small>
