@@ -4,6 +4,39 @@
 
 [ℹ️ See here for all Tech Committee tasks](https://github.com/django-cms/django-cms-mgmt/projects/1)
 
+
+
+## Friday 02.10.2020
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+1. add new entry for next meeting from template
+2. tasks to review
+3. pull requests to process
+4. feature requests and issues to process
+5. Varia: further points raised by Tech Committee members
+   - proposal to accept guests in TC meetings
+6. review log entry together, approve and post
+
+#### Tasks to review
+- [ ] [respond to open merge requests on the core](https://github.com/django-cms/django-cms-mgmt/issues/1)
+- [ ] [create a definition of what changes are required in v4 to switch community efforts to v4 and abandon v3](https://github.com/django-cms/django-cms-mgmt/issues/2)
+
+#### New Pull Requests
+<small>The Tech Committee decides what to do with them, thereafter a task is created to process them.</small>
+- [PR 1](https://)
+- ...
+
+#### Feature Requests and Issues
+<small>The Tech Committee decides what to do with them, thereafter a task is created to process them.</small>
+- ...
+- ...
+
+#### Decisions taken
+- ...
+- ...
+
+
 ## Friday 25.09.2020
 #### Agenda Points
 <small>TBD in in the first 5 min of the meeting</small>
@@ -12,27 +45,18 @@
 3. pull requests to process
 4. feature requests and issues to process
 5. Varia: further points raised by Tech Committee members
-   - ...
-   - ...
+   - Mario: to conduct a survey about the headless proposal
 6. review log entry together, approve and post
 
-<small>After the meeting, create and link tasks and update the entry</small>
 #### Tasks to review
-<small>Tasks are added during the meeting to the log entry of the next meeting. After the meeting, the task is added to the [django CMS management board](https://github.com/django-cms/django-cms-mgmt/projects/1) as an issue and linked here.</small>
 - [ ] [respond to open merge requests on the core](https://github.com/django-cms/django-cms-mgmt/issues/1)
 - [ ] [create a definition of what changes are required in v4 to switch community efforts to v4 and abandon v3](https://github.com/django-cms/django-cms-mgmt/issues/2)
-#### New Pull Requests
-<small>The Tech Committee decides what to do with them, thereafter a task is created to process them.</small>
-- [PR 1](https://)
-- ...
-#### Feature Requests and Issues
-<small>The Tech Committee decides what to do with them, thereafter a task is created to process them.</small>
-- ...
-- ...
+
 #### Decisions taken
 <small>Any other decisions taken during the meeting are documented here, since all decisions must be actionable, a task must be created from it.</small>
-- ...
-- ...
+- set up forum at discourse.django-cms.org
+- process for feature requests (including UX / Design guidelines) to be documented (volunteers needed)
+- conduct survey on django CMS headless proposal
 
 
 ## Friday 17.09.2020
