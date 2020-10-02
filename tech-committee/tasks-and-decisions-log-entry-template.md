@@ -4,6 +4,7 @@
 #### Agenda Points
 <small>TBD in in the first 5 min of the meeting</small>
 1. add new entry for next meeting from template
+1. news & updates for MarCom
 2. tasks to review
 3. pull requests to process
 4. feature requests and issues to process
