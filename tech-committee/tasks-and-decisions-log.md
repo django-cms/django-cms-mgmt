@@ -4,45 +4,68 @@
 
 [ℹ️ See here for all Tech Committee tasks](https://github.com/django-cms/django-cms-mgmt/projects/1)
 
+[ℹ️ See here for the live version](https://hackmd.io/ddhvq_aqS6my9gwhLddyPg)
+
+## Friday 09.10.2020 (WiP, upcoming Meeting)
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+1. add new entry for next meeting from template
+1. Guest intro
+1. Varia: further points raised by Tech Committee members
+   - Mario presents mid-/long-term roadmap (features / improvements) for publication on the website (for marcom / Nicolai)
+   - Victor reports on 3.8 CMS testing
+   - Victor / Andrew report on djangocms-url-manager / djangocms-link rewrite plans
+   - Mario reports on django CMS v4 demo schedule
+1. news & updates for MarCom
+1. review log entry together, approve and post
+
+<small>After the meeting, create and link tasks and update the entry</small>
+
+#### Decisions taken
+<small>Any other decisions taken during the meeting are documented here, since all decisions must be actionable, a task must be created from it.</small>
+- ...
+- ...
 
 
 ## Friday 02.10.2020
 
 #### Agenda Points
-<small>TBD in in the first 5 min of the meeting</small>
 1. add new entry for next meeting from template
 1. Guest intro
-1. news & updates for MarCom
 1. tasks to review
-1. pull requests to process
-1. feature requests and issues to process
 1. Varia: further points raised by Tech Committee members
+   - 3.8 RC testing
    - proposal to accept guests in TC meetings
    - looking for owners for the following areas of responsibilities:
+      - Release mgmt & QA
       - PR expert assignment
-      - website improvements
+      - django-cms.org improvements
       - django CMS demo maintenance + improvements
       - technical support (SO, discourse, github issues)
-1. review log entry together, approve and post
+      - Discourse
+   - Nicolai: Populate roadmap with features
+   - Mario: remove PR and feature requests / issues from the agenda points
+   - Victor: Can I djangocms-links and djangocms-picture?
+1. news & updates for MarCom
+   - areas of ownership: some filled, for some we need call for volunteers
+1. review log entry together and approve
 
 #### Tasks to review
 - [ ] [respond to open merge requests on the core](https://github.com/django-cms/django-cms-mgmt/issues/1)
 - [ ] [create a definition of what changes are required in v4 to switch community efforts to v4 and abandon v3](https://github.com/django-cms/django-cms-mgmt/issues/2)
 
-#### New Pull Requests
-<small>The Tech Committee decides what to do with them, thereafter a task is created to process them.</small>
-- [PR 1](https://)
-- ...
-
-#### Feature Requests and Issues
-<small>The Tech Committee decides what to do with them, thereafter a task is created to process them.</small>
-- ...
-- ...
 
 #### Decisions taken
-- ...
-- ...
-
+- Victor volunteered to do RC 3.8 testing next week
+- TC guests and guest process approved
+- Victor to be owner of area of responsibility "django CMS demo maintenance + improvements"
+- deprecate and phase out Google mailing list
+- officially announce discourse.django-cms.org
+- areas of ownership approved as per Varia
+- Andrew to be owner of area of responsibility "technical support (SO, discourse, github issues)" and "PR expert assignment"
+- Approved: remove PR and feature requests / issues from the agenda points
+- Regarding Victor's request: djangocms-link is part of LTS, any change to it must be backward compatible, Victor & Andrew to sync on djangocms-url-manager, to report on it.
+- Regarding Victor's request: djangocms-picture is part of LTS, any change to it must be backward compatible.
 
 ## Friday 25.09.2020
 #### Agenda Points
