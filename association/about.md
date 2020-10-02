@@ -33,6 +33,11 @@ Members
 - [Daniele Procida | Community & Events Officer](https://www.linkedin.com/in/danieleprocida/)
 - [Nicolai Ridani | Growth & Community Manager](https://www.linkedin.com/in/nicolai-ridani/)
 
+## Roles & Responsibilties 
+
+The responsibility for the django CMS project is shared on the shoulders of many. According to their expertise, the members are responsible for their respective area. The different areas can change according to the needs and situation of the django CMS project. The django CMS is open to suggestions for new areas of responsibility and allows everyone to take over their own field and to actively participate. 
+
+- [Roles & Responsibilities](https://docs.google.com/document/d/1UPnQ81s0EaXfOJ3gggj31U-TLGmMUv33aFecEcf0nag/edit?ts=5f71d9cb#)  
 
 ## Tasks
 
