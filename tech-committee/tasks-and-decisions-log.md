@@ -11,12 +11,13 @@
 #### Agenda Points
 <small>TBD in in the first 5 min of the meeting</small>
 1. add new entry for next meeting from template
-2. tasks to review
-3. pull requests to process
-4. feature requests and issues to process
-5. Varia: further points raised by Tech Committee members
+1. news & updates for MarCom
+1. tasks to review
+1. pull requests to process
+1. feature requests and issues to process
+1. Varia: further points raised by Tech Committee members
    - proposal to accept guests in TC meetings
-6. review log entry together, approve and post
+1. review log entry together, approve and post
 
 #### Tasks to review
 - [ ] [respond to open merge requests on the core](https://github.com/django-cms/django-cms-mgmt/issues/1)
