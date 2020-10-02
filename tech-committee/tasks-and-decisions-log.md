@@ -17,6 +17,11 @@
 1. feature requests and issues to process
 1. Varia: further points raised by Tech Committee members
    - proposal to accept guests in TC meetings
+   - looking for owners for the following areas of responsibilities:
+      - PR expert assignment
+      - website improvements
+      - django CMS demo maintenance + improvements
+      - technical support (SO, discourse, github issues)
 1. review log entry together, approve and post
 
 #### Tasks to review
