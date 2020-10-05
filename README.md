@@ -19,7 +19,7 @@
    - [Running and writing tests](http://docs.django-cms.org/en/latest/contributing/testing.html)
    - [Code of conduct](http://docs.django-cms.org/en/latest/contributing/code_of_conduct.html)
    
-- Community (Events, contribution, etc.) & Support 
-  - Weekly tech committee meeting (open for all)
+- Community & Support 
+  - Weekly event: Tech committee meeting (open for all)
   - Support channels 
   
