@@ -5,8 +5,9 @@ and takes decisions on awarding credits for work submitted by members.
 
 # Join as a guest listener 
 
-Anyone can join the tech committee (TC) meeting and get a first hand look at the work of the tech committee and the status of django CMS development. We encourage everyone who want to contribute to django CMS to attend our weekly meeting and introduce yourself. If you are interested in joining the meeting, please get in touch with Nicolai (nicolai@django-cms.org) and he will happily guide you through the process. 
-We are happy to meet you! 
+Anyone can join the tech committee (TC) meeting and get a first hand look at the work of the tech committee and the status of django CMS development. We encourage everyone who wants to contribute to django CMS to attend our weekly meeting and introduce yourself. We are happy to meet you! 
+If you are interested in joining the meeting, please get in touch with Nicolai (nicolai@django-cms.org) and he will happily guide you through the process. 
+
 
 # How to become a regular member of the tech committee
 
