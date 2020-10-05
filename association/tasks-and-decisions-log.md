@@ -1,5 +1,17 @@
 # Tasks and Decisions Log
 
+## Monday 05.10.2020
+
+Present: Bhavesh, Joel, Nicolai
+
+**Decisions**
+* After last weeks community activation brainstorming session, where the board discussed various measures for community activation, a proposal that summarizes the results of the session and the next steps was approved. Agreement on focusing on events like hackathons, guest slots in weekly tech committee as well as introduction of a new discussion forum. 
+* In order to help Nicolai focus on member acqusition and community activation, different roles and responsibilities were defined and owners for said areas defined. The proposal for roles & responsibilities was approved by everbody present. 
+* Due to absence of dCA president Mario it was decided to postpone the approval of budget Q4 to tuesday 06.10.2020 
+
+**Tasks**
+* Board to check Nicolai's Q4 goals for approval in next weekly Monday meeting 
+
 
 ## Monday 28.09.2020
 
