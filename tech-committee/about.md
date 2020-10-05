@@ -34,7 +34,7 @@ Want to joint the TC? Please see below.
 - Anyone can become a core contributor. Core contributors fork a django CMS repo into their own organisation and create a PR back into the official repository while following the django CMS instructions for creating PRs.
 - A list of existing core contributors can be found in the repo's `CONTRIBUTORS.rst`
 
-### Become am member of the Tech Committee
+### Become a member of the Tech Committee
 
 Anyone can join the Tech Committee (TC) meetings as a guest.
 
