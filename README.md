@@ -20,6 +20,6 @@
    - [Code of conduct](http://docs.django-cms.org/en/latest/contributing/code_of_conduct.html)
    
 - Community & Support 
-  - Weekly event: Tech committee meeting (open for all)
+  - Weekly event: [Tech committee meeting (open for all)](https://github.com/django-cms/django-cms-mgmt/blob/master/community%20and%20support/weekly%20tech%20committee%20meeting.md) 
   - Support channels 
   
