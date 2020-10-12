@@ -6,18 +6,50 @@
 
 [ℹ️ See here for the live version](https://hackmd.io/ddhvq_aqS6my9gwhLddyPg)
 
-## Friday 09.10.2020 (WiP, upcoming Meeting)
+## Friday 16.10.2020 (WiP, upcoming Meeting)
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. add new entry for next meeting from template
+1. Guest intro
+1. Varia: further points raised by Tech Committee members
+    - Review of Assignment: Andrew and Nicolai to look at and clarify left-over PRs and propose workgroups from them
+    - Review all proposed workgroups together in this TC meeting
+    - Review of Assignment: Mario presents proposal for mid-/long-term roadmap (features / improvements) for publication on the website (for marcom / Nicolai)
+    - Review of Assignment: Victor reports on 3.8 CMS testing, Victor to onboard Lisa for testing
+    - Review of Assignment: Victor / Andrew report on djangocms-url-manager / djangocms-link rewrite plans (3.7 compatibility is confirmed) -> Nicolai to create workgroup(s) with Andrew / Victor on it.
+    - Review of Assignment: Andrew to do an intro with his contact for a django CMS 4 demo. Mario reports on django CMS v4 demo schedule
+    - django CMS 3.8.0 release schedule
+1. news & updates for dCA MarCom
+1. review log entry together, approve and post
+
+
+## Friday 09.10.2020 (WiP, current Meeting)
 #### Agenda Points
 <small>TBD in in the first 5 min of the meeting</small>
 1. add new entry for next meeting from template
 1. Guest intro
+    - Samuel: specific painpoints > Nicolai to set up workgroups and appoint TC members
+        - caching issues (docs / using django cache) Iacopo would like to join
+        - page tree page in django admin scalability issues and broken search for sub-pages (Jacob Rief has insights here regarding scalability, we need to ask him to join this workgroup, Andrew has done a lot of pagetree changes incl. SQL optimisations for dCMS v4 and could advise on this as well)
 1. Varia: further points raised by Tech Committee members
-   - Mario presents mid-/long-term roadmap (features / improvements) for publication on the website (for marcom / Nicolai)
-   - Victor reports on 3.8 CMS testing
-   - Victor / Andrew report on djangocms-url-manager / djangocms-link rewrite plans
-   - Mario reports on django CMS v4 demo schedule
-1. news & updates for MarCom
+   - review areas of responsibility and fill in : https://docs.google.com/document/d/1UPnQ81s0EaXfOJ3gggj31U-TLGmMUv33aFecEcf0nag/edit
+   - Group discussion: How do we organize volunteers / contributors?
+       - contribution process
+           - welcome contributors and show the "clubhouse" > Nicolai
+           - show them the different workgroups
+           - use existing google spreadsheet as workgroup directory
+           - one person of each workgroup should come to the TC meeting every once in a while (TBD)
+       - workgroups examples:
+           - pressing issues (ready for implementation) 
+               - workgroup "xy"
+           - django CMS v4 review workgroup
+           - headless market research workgroup
+           - ...
+1. news & updates for dCA MarCom
+   - discourse.django-cms.org setup is finished and can officially be launched
 1. review log entry together, approve and post
+1. django CMS 3.8.0 release schedule
 
 <small>After the meeting, create and link tasks and update the entry</small>
 
@@ -131,10 +163,4 @@
 - get free slack account for django CMS Association
 - create a definition of what changes are required in v4 to switch community efforts to v4 and abandon v3.
 - Andrew to look at two pending PRs on django CMS core
-
-
-
-
-
-
 
