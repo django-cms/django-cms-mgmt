@@ -35,4 +35,5 @@ Very simple. Check out the work group list and choose a topic you want to work o
 See [here](https://docs.google.com/spreadsheets/d/1gfI8IKz84u-YvE61eePCD-lAbn1haghOiqkvSdO-1yg/edit#gid=0) 
 
 
-Do you have questions about work contribution  or work groups, feel free to contact us via info@django-cms.org 
+
+Do you have questions about work contribution  or work groups, feel free to contact Nicolai via nicolai@django-cms.org
