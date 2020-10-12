@@ -8,18 +8,22 @@
    - [About the Tech Committee (mission, tasks & processes)](/tech-committee/about.md)
    - [Tasks & Decisions Log](/tech-committee/tasks-and-decisions-log.md)
    
-- django CMS
-   - [Technical Roadmap](/django-cms/roadmap.md)
+- Work Contribution
+   - Work Groups
    
-- Development 
+- Community Events & Support
+   - Weekly event: [Tech committee meeting (open for all)](https://github.com/django-cms/django-cms-mgmt/blob/master/community%20and%20support/weekly%20tech%20committee%20meeting.md) 
+   - Support channels 
+  
+- Product Management
+   - Product Guidelines 
+   - [Technical Roadmap](/django-cms/roadmap.md)
+  
+- Documentation  
    - [Development policies](http://docs.django-cms.org/en/latest/contributing/development-policies.html)
    - [Contributing code](http://docs.django-cms.org/en/latest/contributing/code.html)
    - [Contributing documentation](http://docs.django-cms.org/en/latest/contributing/development-policies.html)
    - [Code and project management](http://docs.django-cms.org/en/latest/contributing/management.html)
    - [Running and writing tests](http://docs.django-cms.org/en/latest/contributing/testing.html)
-   - [Code of conduct](http://docs.django-cms.org/en/latest/contributing/code_of_conduct.html)
-   
-- Community & Support 
-  - Weekly event: [Tech committee meeting (open for all)](https://github.com/django-cms/django-cms-mgmt/blob/master/community%20and%20support/weekly%20tech%20committee%20meeting.md) 
-  - Support channels 
+   - [Code of conduct](http://docs.django-cms.org/en/latest/contributing/code_of_conduct.html)  
   
