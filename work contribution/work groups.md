@@ -2,7 +2,7 @@
 
 ## What is a work group?
 
-A work group is a temporary or permanent group of volunteers who would like to work together on open feature requests, bugs or improvements. The creation of a work group can be spontaneous and only last for the duration of the work tasks or for long-term cooperation on a specific topic group. 
+A work group is a temporary or permanent group of brave volunteers who work together on open feature requests, bugs or feature improvements. The creation of a work group can be spontaneous and only last for the duration of the work tasks or for long-term cooperation on a specific topic group. 
 
 Anyone can join a work group or create a new work group for a topic that does not yet exist. 
 
