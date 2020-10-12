@@ -16,8 +16,9 @@
    - Support channels 
   
 - Product Management
-   - Product Guidelines 
+   - [Product Guidelines](https://docs.google.com/presentation/d/1axCv5HuMIIFzP1MNbwCUen7M0pEapxuXRMLEC70NXiU/edit#slide=id.p)
    - [Technical Roadmap](/django-cms/roadmap.md)
+ 
   
 - Documentation  
    - [Development policies](http://docs.django-cms.org/en/latest/contributing/development-policies.html)
