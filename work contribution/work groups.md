@@ -4,6 +4,10 @@
 
 A work group is a temporary or permanent group of brave volunteers who work together on open feature requests, bugs or feature improvements. The creation of a work group can be spontaneous and only last for the duration of the task(s) or for long-term cooperation on a specific topic group. 
 
+
+## Who can join a work group?
+
+
 Anyone can join a work group or create a new work group for a topic that does not yet exist. 
 
 The basis for the work groups is this [spreadsheet](https://docs.google.com/spreadsheets/d/1gfI8IKz84u-YvE61eePCD-lAbn1haghOiqkvSdO-1yg/edit#gid=0) 
