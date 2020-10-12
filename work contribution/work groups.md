@@ -11,6 +11,7 @@ The basis for the work groups is this [spreadsheet](https://docs.google.com/spre
 This document lists all current features, issues and bugs with the corresponding working groups. 
 
 
+
 ## How do work groups organize their collaboration?
 
 This is up to the group members. The django CMS Association provides various tools for this. These include:
@@ -22,9 +23,11 @@ This is up to the group members. The django CMS Association provides various too
 Working Groups should attend the Technical Committee meeting once a month and report on the status of their tasks.
 
 
+
 ## How do I join a work group?
 
 Very simple. Check out the work group list and choose a topic you want to work on by adding your name to the volunteer column. Contact Nicolai (nicolai@django-cms.org), our Community Manager, and he will guide you through the process and get you in touch with the work group.
+
 
 
 ## Overview of active work groups 
