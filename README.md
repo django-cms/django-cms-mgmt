@@ -9,7 +9,7 @@
    - [Tasks & Decisions Log](/tech-committee/tasks-and-decisions-log.md)
    
 - Work Contribution
-   - Work Groups
+   - [Work Groups](https://github.com/django-cms/django-cms-mgmt/blob/master/work%20contribution/work%20groups.md)
    
 - Community Events & Support
    - Weekly event: [Tech committee meeting (open for all)](https://github.com/django-cms/django-cms-mgmt/blob/master/community%20and%20support/weekly%20tech%20committee%20meeting.md) 
