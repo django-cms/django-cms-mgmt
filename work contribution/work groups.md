@@ -8,11 +8,11 @@ A workgroup is a temporary or permanent group of volunteers who work together on
 ## Who can join a workgroup?
 
 
-Anyone can join a workgroup or create a new work group for an issue that does not yet exist. 
+Anyone can join a workgroup or propose the creation of a new work group for an issue that does not yet exist. 
 
 The basis for the workgroups is this [spreadsheet](https://docs.google.com/spreadsheets/d/1gfI8IKz84u-YvE61eePCD-lAbn1haghOiqkvSdO-1yg/edit#gid=0) 
 
-This document lists all current new feature suggestions, improvements, issues and bugs with the corresponding workgroups. 
+This document lists all current new feature suggestions, improvements, issues and bugs with the corresponding workgroups. In case you want to create a new workgroup for a topic you deem importatn, please contact Nicolai (nicolai@django-cms.org), our Community Manager. 
 
 
 
