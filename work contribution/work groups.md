@@ -26,7 +26,7 @@ In case you want to create a new workgroup for a topic you deem important, pleas
 
 ## How do workgroups organize their work collaboration?
 
-The organization of work collaboration in workgroups is up to the group members. They can decide how they want to collaborate on their assigned tasks. However, the django CMS Association provides various collaboration tools that can be freely used by the group members;
+The organization of work collaboration in workgroups is up to the group members. They can decide how they want to collaborate on their assigned tasks. However, the django CMS Association provides various collaboration tools that can be freely used by the group members:
 
 - [Slack](https://www.django-cms.org/slack) 
 - [Discourse Forum](https://discourse.django-cms.org/)
@@ -39,7 +39,7 @@ In order to sync on the work progress of the workgroups, one member of the workg
 
 ## I have a conflict with my workgroup. What do I do?
 
-We trust the group members that the work within the working groups is characterized by mutual respect and a constructive feedback culture (see also our [Code of Conduct](http://docs.django-cms.org/en/latest/contributing/code_of_conduct.html). However, if there is a conflict within a workgroup that cannot be solved by the members, please contact Nicolai and he will help you. 
+We trust the group members that the work within the working groups is characterized by mutual respect and a constructive feedback culture (see also our [Code of Conduct](http://docs.django-cms.org/en/latest/contributing/code_of_conduct.html). However, if there is a conflict within a workgroup that cannot be solved by the members, please contact Nicolai (nicolai@django-cms.org) and he will help you. 
 
 
 ## Overview of all active workgroups 
