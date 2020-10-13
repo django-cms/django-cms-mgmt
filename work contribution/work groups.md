@@ -31,7 +31,7 @@ In order to sync on the work progress of the workgroups, one member of the workg
 
 ## How do I join a workgroup?
 
-Very simple. Check out the workgroup list and choose a topic you want to work on by adding your name to the volunteer column. Contact Nicolai (nicolai@django-cms.org), our Community Manager, and he will guide you through the process and get you in touch with the workgroup.
+Very simple. Check out [workgroup list](https://docs.google.com/spreadsheets/d/1gfI8IKz84u-YvE61eePCD-lAbn1haghOiqkvSdO-1yg/edit#gid=0) and choose a topic you want to work on by adding your name to the volunteer column. Contact Nicolai (nicolai@django-cms.org), our Community Manager, and he will guide you through the process and get you in touch with the workgroup.
 
 
 ## I have a conflict with my workgroup. What do I do?
