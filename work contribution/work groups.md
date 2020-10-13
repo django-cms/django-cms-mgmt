@@ -36,7 +36,7 @@ Very simple. Check out [workgroup list](https://docs.google.com/spreadsheets/d/1
 
 ## I have a conflict with my workgroup. What do I do?
 
-We trust the group members that the work of the group members within the working groups is characterized by mutual respect and a constructive feedback culture (see also our [Code of Conduct](http://docs.django-cms.org/en/latest/contributing/code_of_conduct.html). However, if there is a conflict within a working group that cannot be solved within the group, please contact Nicolai (nicolai@django-cms.org), our Community Manager and he will help you. 
+We trust the group members that the work within the working groups is characterized by mutual respect and a constructive feedback culture (see also our [Code of Conduct](http://docs.django-cms.org/en/latest/contributing/code_of_conduct.html). However, if there is a conflict within a workgroup that cannot be solved by the members, please contact Nicolai (nicolai@django-cms.org), our Community Manager and he will help you. 
 
 
 ## Overview of active workgroups 
