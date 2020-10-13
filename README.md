@@ -8,8 +8,9 @@
    - [About the Tech Committee (mission, tasks & processes)](/tech-committee/about.md)
    - [Tasks & Decisions Log](/tech-committee/tasks-and-decisions-log.md)
    
-- Work Contribution
+- Contribution 
    - [Workgroups](https://github.com/django-cms/django-cms-mgmt/blob/master/work%20contribution/work%20groups.md)
+   - [dCA membership](https://www.django-cms.org/en/about-us/)
    
 - Community Events & Support
    - Weekly event: [Tech committee meeting (open for all)](https://github.com/django-cms/django-cms-mgmt/blob/master/community%20and%20support/weekly%20tech%20committee%20meeting.md) 
