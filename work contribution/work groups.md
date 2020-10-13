@@ -2,23 +2,23 @@
 
 ## What is a workgroup?
 
-A workgroup is a temporary or permanent group of volunteers who work together on open feature requests, bugs or feature improvements. The creation of a workgroup can be spontaneous and only last for the duration of the assigned task(s) or for long-term cooperation on a specific topic group. 
+A workgroup is a temporary or permanent group of volunteers who work together on a single or several open feature requests, bugs or feature improvements. The creation of a workgroup can be spontaneous and only last for the duration of the assigned task(s) or for long-term cooperation on a specific topic group. 
 
 
 ## Who can join a workgroup?
 
 
-Anyone can join a workgroup or create a new work group for a topic that does not yet exist. 
+Anyone can join a workgroup or create a new work group for an issue that does not yet exist. 
 
 The basis for the workgroups is this [spreadsheet](https://docs.google.com/spreadsheets/d/1gfI8IKz84u-YvE61eePCD-lAbn1haghOiqkvSdO-1yg/edit#gid=0) 
 
-This document lists all current features, issues and bugs with the corresponding workgroups. 
+This document lists all current new feature suggestions, improvements, issues and bugs with the corresponding workgroups. 
 
 
 
-## How do workgroups organize their collaboration?
+## How do workgroups organize their work collaboration?
 
-The organization of work collaboration in workgroups is up to the group members. They can decide how they collaborate on their assigned tasks. However, the django CMS Association provides various collaboration tools that can be used by the group members;
+The organization of work collaboration in workgroups is up to the group members. They can decide how they want to collaborate on their assigned tasks. However, the django CMS Association provides various collaboration tools that can be freely used by the group members;
 
 - [Slack](https://www.django-cms.org/slack) 
 - [Discourse Forum](https://discourse.django-cms.org/)
@@ -26,7 +26,7 @@ The organization of work collaboration in workgroups is up to the group members.
 
 ## How can workgroups keep others informed about your work progress? 
 
-In order to sync on the work progress of the workgroups, one member of the workgroup should attend the weekly tech committee meeting every once in a while to report on the work progress. 
+In order to sync on the work progress of the workgroups, one member of the workgroup should attend the [weekly tech committee meeting](https://github.com/django-cms/django-cms-mgmt/blob/master/community%20and%20support/weekly%20tech%20committee%20meeting.md) every once in a while to report on the work progress. In case you want to join the weekly tech committee to report on your work progress please get in touch with Nicolai (nicolai@django-cms.org), who will guide you through the process. 
 
 
 ## How do I join a workgroup?
