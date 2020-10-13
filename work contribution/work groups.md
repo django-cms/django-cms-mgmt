@@ -37,7 +37,7 @@ The organization of work collaboration in workgroups is up to the group members.
 In order to sync on the work progress of the workgroups, one member of the workgroup should attend the [weekly tech committee meeting](https://github.com/django-cms/django-cms-mgmt/blob/master/community%20and%20support/weekly%20tech%20committee%20meeting.md) every once in a while to report on the work progress. In case you want to join the weekly tech committee to report on your work progress please get in touch with Nicolai (nicolai@django-cms.org), who will guide you through the process. 
 
 
-## I have a conflict with my workgroup. What do I do?
+## I have a conflict with members of my workgroup. What do I do?
 
 We trust the group members that the work within the working groups is characterized by mutual respect and a constructive feedback culture (see also our [Code of Conduct](http://docs.django-cms.org/en/latest/contributing/code_of_conduct.html). However, if there is a conflict within a workgroup that cannot be solved by the members, please contact Nicolai (nicolai@django-cms.org) and he will help you. 
 
