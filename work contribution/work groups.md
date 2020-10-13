@@ -2,7 +2,7 @@
 
 ## What is a workgroup?
 
-A workgroup is a temporary or permanent group of volunteers who work together on a single or several open feature requests, bugs or feature improvements. The creation of a workgroup can be spontaneous and only last for the duration of the assigned task(s) or for long-term cooperation on a specific topic group. 
+A workgroup is a temporary or permanent group of contributors who work together on a single or several open feature requests, bugs or feature improvements. The creation of a workgroup can be spontaneous and only last for the duration of the assigned task(s) or for long-term cooperation on a specific topic group. 
 
 The basis for the workgroups is this [spreadsheet](https://docs.google.com/spreadsheets/d/1gfI8IKz84u-YvE61eePCD-lAbn1haghOiqkvSdO-1yg/edit#gid=0) 
 
