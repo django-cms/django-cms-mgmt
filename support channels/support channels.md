@@ -6,7 +6,7 @@
 - [Discourse](https://discourse.django-cms.org/)
 - [Stackoverflow](https://stackoverflow.com/questions/tagged/django-cms)
 
-Slack is the right platform for short questions, suggestions or exchanges. 
+Slack is the right platform for short questions, suggestions and direct communication with community members. 
 
 Questions that might be interesting for others and should be included as FAQs should be posted on Discourse. This is also the right place for feature requests and bug reports. 
 
