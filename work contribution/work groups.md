@@ -32,7 +32,7 @@ The organization of work collaboration in workgroups is up to the group members.
 - [Discourse Forum](https://discourse.django-cms.org/)
 
 
-## How can workgroups keep others informed about your work progress? 
+## How can workgroups keep others informed about their work progress? 
 
 In order to sync on the work progress of the workgroups, one member of the workgroup should attend the [weekly tech committee meeting](https://github.com/django-cms/django-cms-mgmt/blob/master/community%20and%20support/weekly%20tech%20committee%20meeting.md) every once in a while to report on the work progress. In case you want to join the weekly tech committee to report on your work progress please get in touch with Nicolai (nicolai@django-cms.org), who will guide you through the process. 
 
