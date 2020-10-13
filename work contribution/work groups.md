@@ -2,7 +2,7 @@
 
 ## What is a workgroup?
 
-A workgroup is a temporary or permanent group of brave volunteers who work together on open feature requests, bugs or feature improvements. The creation of a workgroup can be spontaneous and only last for the duration of the task(s) or for long-term cooperation on a specific topic group. 
+A workgroup is a temporary or permanent group of volunteers who work together on open feature requests, bugs or feature improvements. The creation of a workgroup can be spontaneous and only last for the duration of the assigned task(s) or for long-term cooperation on a specific topic group. 
 
 
 ## Who can join a workgroup?
@@ -18,14 +18,15 @@ This document lists all current features, issues and bugs with the corresponding
 
 ## How do workgroups organize their collaboration?
 
-This is up to the group members. The django CMS Association provides various tools for this. These include:
+The organization of work collaboration in workgroups is up to the group members. They can decide how they collaborate on their assigned tasks. However, the django CMS Association provides various collaboration tools that can be used by the group members;
 
-- Slack 
-- Discourse Forum 
-- weekly calls 
+- [Slack](https://www.django-cms.org/slack) 
+- [Discourse Forum](https://discourse.django-cms.org/)
 
-Workgroups should attend the Technical Committee meeting once a month and report on the status of their tasks.
 
+## How can workgroups keep others informed about your work progress? 
+
+In order to sync on the work progress of the workgroups, one member of the workgroup should attend the weekly tech committee meeting every once in a while to report on the work progress. 
 
 
 ## How do I join a workgroup?
@@ -33,10 +34,15 @@ Workgroups should attend the Technical Committee meeting once a month and report
 Very simple. Check out the workgroup list and choose a topic you want to work on by adding your name to the volunteer column. Contact Nicolai (nicolai@django-cms.org), our Community Manager, and he will guide you through the process and get you in touch with the workgroup.
 
 
+## I have a conflict with my workgroup. What do I do?
+
+We trust the group members that the work of the group members within the working groups is characterized by mutual respect and a constructive feedback culture (see also our [Code of Conduct](http://docs.django-cms.org/en/latest/contributing/code_of_conduct.html). However, if there is a conflict within a working group that cannot be solved within the group, please contact Nicolai (nicolai@django-cms.org), our Community Manager and he will help you. 
+
 
 ## Overview of active workgroups 
 
 See [here](https://docs.google.com/spreadsheets/d/1gfI8IKz84u-YvE61eePCD-lAbn1haghOiqkvSdO-1yg/edit#gid=0) 
+
 
 
 
