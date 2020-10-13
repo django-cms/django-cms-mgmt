@@ -19,7 +19,7 @@ Anyone can join a workgroup or propose the creation of a new workgroup for an is
 Very simple. Check out the [workgroup list](https://docs.google.com/spreadsheets/d/1gfI8IKz84u-YvE61eePCD-lAbn1haghOiqkvSdO-1yg/edit#gid=0) and choose a topic you want to work on by adding your name to the contributor column. After that pease contact Nicolai (nicolai@django-cms.org), our Community Manager and he will guide you through the next steps. 
 
 
-## How do I create a new workgrou?
+## How do I create a new workgroup?
 
 In case you want to create a new workgroup for a topic you deem important, please contact Nicolai and he will guide you through the process. 
 
