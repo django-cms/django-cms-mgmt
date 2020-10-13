@@ -8,7 +8,7 @@ Present: Adam, Mario, Joel, Nicolai
 * Nicolai's Q4 Goals were approved by all members present 
 * Before a new demo request process is introduced, progress of experiment is to be assessed and results are to be reviewed 
 * Job portal to be setup on the django CMS Website and all dCA members to be informed that they can also list their job ads on the page 
-* A new role & responsibility for security subjects was created
+* A new role that takes over security topics was created and soon to be filled by someone with the respective expertise 
 
 
 **Tasks**
