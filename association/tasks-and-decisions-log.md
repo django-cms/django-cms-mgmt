@@ -1,5 +1,20 @@
 # Tasks and Decisions Log
 
+## Monday 12.10.2020
+
+Present: Adam, Mario, Joel, Nicolai
+
+**Decisions**
+* Nicolai's Q4 Goals were approved by all members present 
+* Before a new demo request process is introduced, progress of experiment is to be assessed and results are to be reviewed 
+* Job portal to be setup on the django CMS Website and all dCA members to be informed that they can also list their job ads on the page 
+* A new role & responsibility for security subjects was created
+
+
+**Tasks**
+* Job portal page to be setup by Nicolai 
+
+
 ## Monday 05.10.2020
 
 Present: Bhavesh, Joel, Nicolai
