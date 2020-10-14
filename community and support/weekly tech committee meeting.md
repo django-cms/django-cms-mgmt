@@ -3,6 +3,11 @@
 The tech committee’s job is to prepare and update the technical roadmap. It manages incoming feature requests and proposals
 and takes decisions on awarding credits for work submitted by members. 
 
+# Agenda 
+
+- [Tech Committee - Tasks and Decisions Log](https://github.com/django-cms/django-cms-mgmt/blob/master/tech-committee/tasks-and-decisions-log.md)
+
+
 # Join as a guest listener 
 
 Anyone can join the tech committee (TC) meeting and get a first hand look at the work of the tech committee and the status of django CMS development. We encourage everyone who wants to contribute to django CMS to attend our weekly meeting and introduce yourself. We are happy to meet you! 
