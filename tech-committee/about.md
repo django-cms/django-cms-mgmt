@@ -28,6 +28,11 @@ Want to joint the TC? Please see below.
 - [Tasks & Decisions Log](/tech-committee/tasks-and-decisions-log.md)
 - [Kanban Board](https://github.com/django-cms/django-cms-mgmt/projects/1)
 
+## Meetings & Events
+
+- [Weekly Tech Committee meeting](https://github.com/django-cms/django-cms-mgmt/blob/master/community%20and%20support/weekly%20tech%20committee%20meeting.md)
+
+
 ## Processes
 
 ### Become a core contributor
@@ -36,7 +41,7 @@ Want to joint the TC? Please see below.
 
 ### Become a member of the Tech Committee
 
-Anyone can join the Tech Committee (TC) meetings as a guest.
+Anyone can join the Tech Committee (TC) meetings as a [guest](https://github.com/django-cms/django-cms-mgmt/blob/master/community%20and%20support/weekly%20tech%20committee%20meeting.md).
 
 Membership on the TC will grant:
 - the right to set the TC agenda (via PR) before TC meetings
