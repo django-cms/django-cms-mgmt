@@ -44,18 +44,18 @@
                 - https://gitlab.com/what-digital/djangocms-template
         - Next steps: Nicolai to help onboard Lisa in order to upgrade django-cms demo to 3.8
     - Review of Assignment: Victor / Andrew report on djangocms-url-manager / djangocms-link rewrite plans (3.7 compatibility is confirmed) -> Nicolai to create workgroup(s) with Andrew / Victor on it.
-        - Next steps
-         - Andrew: to attach a link to a working cms 4 server
-         - Victor: to share a url to a public server with djangocms-link-all
-         - we created a new channel on slack `workgroup-new-link-plugin` - the details are there
+        - Next steps:
+            - Andrew: to attach a link to a working cms 4 server
+            - Victor: to share a url to a public server with djangocms-link-all
+            - we created a new channel on slack `workgroup-new-link-plugin` - the details are there
     - Review of Assignment: Andrew to do an intro with his contact for a django CMS 4 demo. Mario reports on django CMS v4 demo schedule
         - Next steps: Demo scheduled to be presented to Victor 
     - django CMS 3.8.0 release schedule
         - Next steps: TC to give Go for Gold Release next TC meeting. Release scheduled for Wednesday after TC meeting
     - New feature request: Iacopo updates regarding a feature request (export / import of page trees) from a client
-        - Next steps
-         - Victor: to invite Vlad to dca slack channel, create a workgroup channel for it, ask him to find the existing codebase
-         - Iacopo to update TC on feature request after more exploration/analysis
+        - Next steps:
+            - Victor: to invite Vlad to dca slack channel, create a workgroup channel for it, ask him to find the existing codebase
+            - Iacopo to update TC on feature request after more exploration/analysis
     - Support enquiry regarding get_translatable_content removed in https://github.com/django-cms/django-cms/commit/b1d1d50fac1532dfa650fe7ea2dfa8e85727fec0
         - Next steps
          - Iacopo will get in contact with the person who closed the PR and report back on the status to the next TC meeting. 
