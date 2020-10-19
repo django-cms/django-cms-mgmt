@@ -1,5 +1,7 @@
 # Workgroups 
 
+ℹ️ See all active workgroups [here](https://docs.google.com/spreadsheets/d/1gfI8IKz84u-YvE61eePCD-lAbn1haghOiqkvSdO-1yg/edit#gid=0) 
+
 ## What is a workgroup?
 
 A workgroup is a temporary or permanent group of contributors who work together on a single or several open feature requests, bugs or feature improvements. The creation of a workgroup can be spontaneous and only last for the duration of the assigned task(s) or for long-term cooperation on a specific topic group. 
@@ -11,7 +13,7 @@ This document lists all current new feature suggestions, improvements, issues an
 
 ## Who can join a workgroup?
 
-Anyone can join a workgroup or propose the creation of a new workgroup for an issue that is not on the list yet. 
+Anyone can join a workgroup or propose the creation of a new workgroup for an issue that is not on the list yet. Members of the django CMS Association who are involved in workgroups receive voting rights for their work contributions. 
 
 
 ## How do I join a workgroup?
@@ -42,6 +44,4 @@ In order to sync on the work progress of the workgroups, one member of the workg
 We trust the group members that the work within the working groups is characterized by mutual respect and a constructive feedback culture (see also our [Code of Conduct](http://docs.django-cms.org/en/latest/contributing/code_of_conduct.html). However, if there is a conflict within a workgroup that cannot be solved by the members, please contact Nicolai (nicolai@django-cms.org) and he will help you. 
 
 
-## Overview of all active workgroups 
 
-See [here](https://docs.google.com/spreadsheets/d/1gfI8IKz84u-YvE61eePCD-lAbn1haghOiqkvSdO-1yg/edit#gid=0) 
