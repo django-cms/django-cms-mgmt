@@ -13,13 +13,11 @@
 1. add new entry for next meeting from template
 1. Guest intro
 1. Varia: further points raised by Tech Committee members
+    - Go or No Go: Release 3.8.0
     - Review of Assignment: Andrew and Nicolai to look at and clarify left-over PRs and propose workgroups from them
-    - Review all proposed workgroups together in this TC meeting
     - Review of Assignment: Mario presents proposal for mid-/long-term roadmap (features / improvements) for publication on the website (for marcom / Nicolai)
-    - Review of Assignment: Victor reports on 3.8 CMS testing, Victor to onboard Lisa for testing
-    - Review of Assignment: Victor / Andrew report on djangocms-url-manager / djangocms-link rewrite plans (3.7 compatibility is confirmed) -> Nicolai to create workgroup(s) with Andrew / Victor on it.
-    - Review of Assignment: Andrew to do an intro with his contact for a django CMS 4 demo. Mario reports on django CMS v4 demo schedule
-    - django CMS 3.8.0 release schedule
+    - django CMS 4 workgroup setup & announcement
+    - Update Iacopo regarding regarding get_translatable_content enquiry
 1. news & updates for dCA MarCom
 1. review log entry together, approve and post
 
