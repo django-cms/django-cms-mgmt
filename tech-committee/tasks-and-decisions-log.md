@@ -12,12 +12,13 @@
 
 1. add new entry for next meeting from template
 1. Guest intro
+    - Narender 
 1. Varia: further points raised by Tech Committee members
     - Go or No Go: Release 3.8.0
     - Review of Assignment: Andrew and Nicolai to look at and clarify left-over PRs and propose workgroups from them
     - Review of Assignment: Mario presents proposal for mid-/long-term roadmap (features / improvements) for publication on the website (for marcom / Nicolai)
     - django CMS 4 workgroup setup & announcement
-    - Update Iacopo regarding regarding get_translatable_content enquiry
+    - Update Iacopo regarding get_translatable_content enquiry
 1. news & updates for dCA MarCom
 1. review log entry together, approve and post
 
