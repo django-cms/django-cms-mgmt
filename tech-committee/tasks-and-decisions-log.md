@@ -6,21 +6,52 @@
 
 [ℹ️ See here for the live version](https://hackmd.io/ddhvq_aqS6my9gwhLddyPg)
 
-## Friday 23.10.2020 (WiP, upcoming Meeting)
+
+
+## Friday 30.10.2020 (WiP, upcoming Meeting)
 #### Agenda Points
 <small>TBD in in the first 5 min of the meeting</small>
 
 1. add new entry for next meeting from template
 1. Guest intro
-    - Narender 
-1. Varia: further points raised by Tech Committee members
-    - Go or No Go: Release 3.8.0
+3. Varia: further points raised by Tech Committee members
+    - ...
+5. news & updates for dCA MarCom
+6. review log entry together, approve and post
+
+#### Tasks
+- [ ] Nicolai to give Narender an intro into workgroups and how to contribute
+- [ ] take a decision regarding the fate of AAA and BBB (epic issues to be completed by Andrew) - do we want to have them on our roadmap? If yes, please name the workgroups.
+- [ ] Nicolai to organize leaders for workgroups
+- [ ] Nicolai to get roadmaps for each workgroup from the workgroup leaders
+- [ ] Nicolai to build an overall django CMS ecosystem roadmap based on the workgroup roadmaps with the following big picture
+   - django CMS v4 Community Release
+   - headless django CMS (tentative / proposal)
+- [ ] Nicolai to create a workgroup and add team members to it: Iacopo about get_translatable_content enquiry: https://github.com/django-cms/django-cms/commit/b1d1d50fac1532dfa650fe7ea2dfa8e85727fec0 - (add Andrew for django CMS 4 vision, also ask Paulo)
+
+## Friday 23.10.2020
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. add new entry for next meeting from template
+1. Guest intro
+    - Narender
+1. Varia - further points raised by Tech Committee members
+    - Go or No Go: Release 3.8.0 (Victor has it in production on several websites) 
     - Review of Assignment: Andrew and Nicolai to look at and clarify left-over PRs and propose workgroups from them
     - Review of Assignment: Mario presents proposal for mid-/long-term roadmap (features / improvements) for publication on the website (for marcom / Nicolai)
-    - django CMS 4 workgroup setup & announcement
-    - Update Iacopo regarding get_translatable_content enquiry: https://github.com/django-cms/django-cms/commit/b1d1d50fac1532dfa650fe7ea2dfa8e85727fec0
-1. news & updates for dCA MarCom
-1. review log entry together, approve and post
+    - django CMS 4 workgroup setup & announcement 
+    - Update Iacopo about get_translatable_content enquiry: https://github.com/django-cms/django-cms/commit/b1d1d50fac1532dfa650fe7ea2dfa8e85727fec0 - Nicolai to create a workgroup and add team members to it
+1. news & updates for dCA MarCom (Board / Community)
+   - django CMS 3.8
+   - Workgroups
+3. review log entry together, approve and post
+
+
+#### Decisions
+- decision to release 3.8.0 this Wednesday / Thursday, Angelo will do the release, Nicolai will do the blog post, Andrew will monitor SO / Discourse / Github Issues
+- Decision to close one outdated epic (an issue that reference other issues) on django-cms github. Andrew will close it.
 
 
 ## Friday 16.10.2020 (WiP, current Meeting)
@@ -35,37 +66,41 @@
     - Review all proposed [workgroups](https://docs.google.com/spreadsheets/d/1gfI8IKz84u-YvE61eePCD-lAbn1haghOiqkvSdO-1yg/edit#gid=1074764488) together in this TC meeting. Also check [workgroups documentation](https://github.com/django-cms/django-cms-mgmt/blob/master/work%20contribution/work%20groups.md)
         - Approved by everyone present
     - [Update PR closing process](https://docs.google.com/document/d/1TaJ0dIBuA_8_k2FphOFatNkQjhNSKj9qSFZ_rSEOJj0/edit) -> [Example](https://github.com/django-cms/django-cms/pull/6758#event-3756117723)
-        - Next steps: Nicolai to check whether to add another scenario to the template that fits to the example case (ask Andrew)
+        - Next steps
+            - Nicolai to check whether to add another scenario to the template that fits to the example case (ask Andrew)
     - Review of Assignment: Victor reports on 3.8 CMS testing, Victor to onboard Lisa for testing
         - djangocms 3.8 & django 3.0 has been deployed to 3 projects on the last week
             - the codebase utilized
                 - https://gitlab.com/effective-altruism/ea-cms-template
                 - https://gitlab.com/what-digital/djangocms-template
-        - Next steps: Nicolai to help onboard Lisa in order to upgrade django-cms demo to 3.8
+        - Next steps
+            - Nicolai to help onboard Lisa in order to upgrade django-cms demo to 3.8
     - Review of Assignment: Victor / Andrew report on djangocms-url-manager / djangocms-link rewrite plans (3.7 compatibility is confirmed) -> Nicolai to create workgroup(s) with Andrew / Victor on it.
-        - Next steps:
+        - Next steps
             - Andrew: to attach a link to a working cms 4 server
             - Victor: to share a url to a public server with djangocms-link-all
-            - we created a new channel on slack `workgroup-new-link-plugin` - the details are there
+                - we created a new channel on slack `workgroup-new-link-plugin` - the details are there
     - Review of Assignment: Andrew to do an intro with his contact for a django CMS 4 demo. Mario reports on django CMS v4 demo schedule
-        - Next steps: Demo scheduled to be presented to Victor 
+        - Next steps
+            - Demo scheduled to be presented to Victor 
     - django CMS 3.8.0 release schedule
-        - Next steps: TC to give Go for Gold Release next TC meeting. Release scheduled for Wednesday after TC meeting
+        - Next steps
+            - TC to give Go for Gold Release next TC meeting. Release scheduled for Wednesday after TC meeting
     - New feature request: Iacopo updates regarding a feature request (export / import of page trees) from a client
-        - Next steps:
+        - Next steps
             - Victor: to invite Vlad to dca slack channel, create a workgroup channel for it, ask him to find the existing codebase
             - Iacopo to update TC on feature request after more exploration/analysis
     - Support enquiry regarding get_translatable_content removed in https://github.com/django-cms/django-cms/commit/b1d1d50fac1532dfa650fe7ea2dfa8e85727fec0
         - Next steps
-         - Iacopo will get in contact with the person who closed the PR and report back on the status to the next TC meeting. 
+            - Iacopo will get in contact with the person who closed the PR and report back next TC meeting. 
     - Feedback on guest post topics https://docs.google.com/spreadsheets/d/1jNCtIUDmsj-qZZPe7yq73umR7FGra_3H39hqTjgvyAQ/edit#gid=1394201430
         - No feedback 
 4. news & updates for dCA MarCom
-        - Workgroup announcement 
+        - Workgroup announcement next week 
 6. review log entry together, approve and post
 
 
-## Friday 09.10.2020 (WiP, current Meeting)
+## Friday 09.10.2020 
 #### Agenda Points
 <small>TBD in in the first 5 min of the meeting</small>
 1. add new entry for next meeting from template
