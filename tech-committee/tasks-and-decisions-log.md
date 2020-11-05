@@ -6,7 +6,7 @@
 
 [ℹ️ See here for the live version](https://hackmd.io/ddhvq_aqS6my9gwhLddyPg)
 
-## Day 12.11.2020
+## Friday 13.11.2020 (WiP, upcoming Meeting)
 
 #### Agenda Points
 <small>TBD in in the first 5 min of the meeting</small>
@@ -32,7 +32,7 @@
 - Enter first decision here
 
 
-## Thursday 05.11.2020 (WiP, upcoming Meeting)
+## Thursday 05.11.2020
 
 #### Agenda Points
 <small>TBD in in the first 5 min of the meeting</small>
@@ -59,7 +59,7 @@
 - 
 
 
-## Friday 30.10.2020 (WiP, todays Meeting)
+## Friday 30.10.2020
 
 #### Agenda Points
 <small>TBD in in the first 5 min of the meeting</small>
