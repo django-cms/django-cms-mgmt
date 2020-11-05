@@ -6,13 +6,12 @@
 
 [ℹ️ See here for the live version](https://hackmd.io/ddhvq_aqS6my9gwhLddyPg)
 
+## Day 12.11.2020
 
-
-## Friday 30.10.2020 (WiP, upcoming Meeting)
 #### Agenda Points
 <small>TBD in in the first 5 min of the meeting</small>
 
-1. add new entry for next meeting from template
+1. Add new entry for next meeting from template
 1. Guest intro
 3. Varia: further points raised by Tech Committee members
     - ...
@@ -20,14 +19,81 @@
 6. review log entry together, approve and post
 
 #### Tasks
-- [ ] Nicolai to give Narender an intro into workgroups and how to contribute
-- [ ] take a decision regarding the fate of AAA and BBB (epic issues to be completed by Andrew) - do we want to have them on our roadmap? If yes, please name the workgroups.
-- [ ] Nicolai to organize leaders for workgroups
-- [ ] Nicolai to get roadmaps for each workgroup from the workgroup leaders
+- [ ] Mario to create pypi@django-cms.org and django CMS pypi account, ask Angelo to add pypi packages to it, invite TC members to it.
+- [ ] Define the test structure / installation for Django CMS
+- [ ] Mario to ask travis-ci.org for open source sponsorship
+- [ ] Mario to work with Andrew on roadmap for django CMS v4 (10.11.2020)
+- [ ] Nicolai to complete workgroup roadmap process
+- [ ] Nicolai to build an overall django CMS ecosystem roadmap based on the workgroup roadmaps with the following big picture
+- [ ] Nicolai to organize design / ux direction (initially for django-filer svg enhancement, but with a bigger perspective in the mid term)
+   - django CMS v4 Community Release
+   - headless django CMS (tentative / proposal)
+#### Decisions
+- Enter first decision here
+
+
+## Thursday 05.11.2020 (WiP, upcoming Meeting)
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Guest intro
+3. Varia: further points raised by Tech Committee members
+    - 30 packages on pypi: TC members should be able to manage pypi. How? User permissions on pypi.
+    - Discuss options/plans for adding/maintaining/improving documentation
+    - Why are we using Travis: Andrew / Angelo: We currently use Travis because it allows to ignore specific tests for simplicity. 
+    - Jacob Rief on django-filer: asking for testing feedback.
+    - Jacob Rief to ask about UX / Design direction
+5. news & updates for dCA MarCom
+6. review log entry together, approve and post
+
+#### Tasks
+- [x] Discuss in the meeting the PyPi packages access to accounts, should probably be a DCA account. Angelo and Andrew to discuss.
+- [x] Discuss future security defect patching and the process
+- [x] Organise milestones on github from the Django cms issues (Andrew)
+- [ ] Iacopo about get_translatable_content enquiry: https://github.com/django-cms/django-cms/commit/b1d1d50fac1532dfa650fe7ea2dfa8e85727fec0 - (add Andrew for django CMS 4 vision, also ask Paulo). - Iacopo to follow up on this outside the scope of the TC meeting
+- [x] Andrew to add Iacopo to the discussions regarding cms v4 with Mario
+
+
+#### Decisions
+- 
+
+
+## Friday 30.10.2020 (WiP, todays Meeting)
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+1. Guest intro
+3. Varia: further points raised by Tech Committee members
+    - Victor stated that Mario will be taking control of Victors responibilities in the workgroups due to work load. 
+    - Andrew presented a list of milestones added to categorise issues remaining that can be allocated to the relevant workgroups
+        - Requires workgroup allocation: https://github.com/django-cms/django-cms/milestone/65
+        - Requires validation: https://github.com/django-cms/django-cms/milestone/66
+        - Requires documentation improvements, could be seperated into relevant workgroups: https://github.com/django-cms/django-cms/milestone/67
+    - Iacopo raised interest in undertanding the changes in V4 and what would be required in various packages for compatibility. 
+5. news & updates for dCA MarCom
+6. review log entry together, approve and post
+
+#### Tasks
+- [x] Nicolai to give Narender an intro into workgroups and how to contribute
+- [x] take a decision regarding the fate of AAA and BBB (epic issues to be completed by Andrew) - do we want to have them on our roadmap? If yes, please name the workgroups.
+ https://github.com/django-cms/django-cms/milestone/65
+- [x] Nicolai to organize leaders for workgroups
+- [x] Nicolai to get roadmaps for each workgroup from the workgroup leaders
 - [ ] Nicolai to build an overall django CMS ecosystem roadmap based on the workgroup roadmaps with the following big picture
    - django CMS v4 Community Release
    - headless django CMS (tentative / proposal)
+       - Next Steps
+           - Carry over to next meeting due to not getting feedback required by the workgroup members.
 - [ ] Nicolai to create a workgroup and add team members to it: Iacopo about get_translatable_content enquiry: https://github.com/django-cms/django-cms/commit/b1d1d50fac1532dfa650fe7ea2dfa8e85727fec0 - (add Andrew for django CMS 4 vision, also ask Paulo)
+        - Next steps
+            - Awaiting feedback from Paulo regarding why the feature was removed. Carried over to the next meeting. 
+
+#### Decisions
+- Various tasks carried over to the next meeting due to delays on dependant tasks.
+
 
 ## Friday 23.10.2020
 
