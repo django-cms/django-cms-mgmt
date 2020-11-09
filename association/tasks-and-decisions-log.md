@@ -1,5 +1,43 @@
 # Tasks and Decisions Log
 
+
+## 02.11.2020 Committee Meeting
+
+Present: Adam, Bhavesh, Joel, Mario, Nicolai
+
+**Decisions**
+* Bounty program was approved.
+* Increase workgroup activity by focusing on workgroup onboarding and getting workgroup members together. More leadership necessary.
+
+**Tasks**
+* Reach out to all workgroup leaders and suggest workgroup kick off meetings.
+
+
+## 26.10.2020 Committee Meeting
+
+Present: Adam, Joe, Mario, Nicolai
+
+**Decisions**
+* To create a proposal for marketplace strategy - How do we incorporate the marketplace into the dCA? 
+
+**Tasks**
+* Create marketplace proposal (Nicolai)
+
+
+
+## 19.10.2020 Committee Meeting
+
+Present: Bhavesh, Adam, Joel, Mario, Nicolai
+
+**Decisions**
+* Prospect meeting to be set on hold until further notice
+
+**Tasks**
+* Joel, Daniele, Bhavesh and Nicolai to send high res picture for gallery to Nicolai
+* CK Editor workgroup to appoint workgroup leader
+
+
+
 ## Monday 12.10.2020
 
 Present: Adam, Mario, Joel, Nicolai
