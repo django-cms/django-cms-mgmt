@@ -1,7 +1,7 @@
-# Tasks and Decisions Log
+# Board Meeting Tasks and Decisions Log 
 
 
-## 02.11.2020 Committee Meeting
+## Monday 02.11.2020
 
 Present: Adam, Bhavesh, Joel, Mario, Nicolai
 
@@ -13,7 +13,7 @@ Present: Adam, Bhavesh, Joel, Mario, Nicolai
 * Reach out to all workgroup leaders and suggest workgroup kick off meetings.
 
 
-## 26.10.2020 Committee Meeting
+## Monday 26.10.2020 
 
 Present: Adam, Joe, Mario, Nicolai
 
@@ -25,7 +25,7 @@ Present: Adam, Joe, Mario, Nicolai
 
 
 
-## 19.10.2020 Committee Meeting
+## Monday 9.10.2020 
 
 Present: Bhavesh, Adam, Joel, Mario, Nicolai
 
