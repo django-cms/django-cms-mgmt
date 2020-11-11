@@ -11,9 +11,9 @@
 - Contribution 
    - [django CMS workgroups](https://github.com/django-cms/django-cms-mgmt/blob/master/work%20contribution/work%20groups.md)
    - [Roles & Responsibilities in the dCA](https://docs.google.com/document/d/1UPnQ81s0EaXfOJ3gggj31U-TLGmMUv33aFecEcf0nag/edit?ts=5f71d9cb#)
-   - [dCA membership](https://www.django-cms.org/en/about-us/)
    - [A list of our company members](https://www.django-cms.org/en/our-members)
-   
+   - [Our dCA memberships](https://www.django-cms.org/en/about-us/)
+
 - Community Events & Support
    - Weekly event: [Tech committee meeting (open for all)](https://github.com/django-cms/django-cms-mgmt/blob/master/community%20and%20support/weekly%20tech%20committee%20meeting.md) 
    - [Support channels](https://github.com/django-cms/django-cms-mgmt/blob/master/support%20channels/support%20channels.md) 
