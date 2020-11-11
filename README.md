@@ -10,6 +10,7 @@
    
 - Contribution 
    - [Workgroups](https://github.com/django-cms/django-cms-mgmt/blob/master/work%20contribution/work%20groups.md)
+   - [Roles & Responsibilities](https://docs.google.com/document/d/1UPnQ81s0EaXfOJ3gggj31U-TLGmMUv33aFecEcf0nag/edit?ts=5f71d9cb#)
    - [dCA membership](https://www.django-cms.org/en/about-us/)
    - [A list of our company members](https://www.django-cms.org/en/our-members)
    
