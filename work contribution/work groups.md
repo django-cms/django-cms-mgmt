@@ -25,6 +25,12 @@ Very simple. Check out the [workgroup list](https://docs.google.com/spreadsheets
 
 In case you want to create a new workgroup for a topic you deem important, please contact Nicolai and he will guide you through the process. 
 
+Please make sure to deliver the following information:
+
+- Title of the workgroup
+- Description of the workroup (bullet points)
+- Tentative timeline 
+
 
 ## How do workgroups organize their work collaboration?
 
