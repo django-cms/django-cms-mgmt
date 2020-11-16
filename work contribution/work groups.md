@@ -8,7 +8,7 @@ Workgroups are the heart of our open-source project. A workgroup is a temporary 
 
 The list shows all current new feature suggestions, improvements, issues and bugs with the corresponding workgroups. 
 
-# Processes
+## Processes
 
 ## Join a workgroup
 
