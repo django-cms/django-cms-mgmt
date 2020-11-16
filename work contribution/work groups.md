@@ -1,35 +1,46 @@
 # Workgroups 
 
+## General Information
+
+Workgroups are the heart of our open-source project. It is a temporary or permanent group of contributors who work together on a single or several open feature requests, bugs or feature improvements. The creation of a workgroup can be spontaneous and only last for the duration of the assigned task(s) or for long-term cooperation on a specific topic group. 
+
 ℹ️ See all active workgroups [here](https://docs.google.com/spreadsheets/d/1gfI8IKz84u-YvE61eePCD-lAbn1haghOiqkvSdO-1yg/edit#gid=0) 
 
-## What is a workgroup?
+The list shows all current new feature suggestions, improvements, issues and bugs with the corresponding workgroups. 
 
-A workgroup is a temporary or permanent group of contributors who work together on a single or several open feature requests, bugs or feature improvements. The creation of a workgroup can be spontaneous and only last for the duration of the assigned task(s) or for long-term cooperation on a specific topic group. 
+# Process 
 
-The basis for the workgroups is this [spreadsheet](https://docs.google.com/spreadsheets/d/1gfI8IKz84u-YvE61eePCD-lAbn1haghOiqkvSdO-1yg/edit#gid=0) 
+## Join a workgroup
 
-This document lists all current new feature suggestions, improvements, issues and bugs with the corresponding workgroups. 
+1. Check out the [workgroup list](https://docs.google.com/spreadsheets/d/1gfI8IKz84u-YvE61eePCD-lAbn1haghOiqkvSdO-1yg/edit#gid=0) and choose a topic you want to work on 
+2. Add your name to the contributor column. 
+3. Contact Nicolai via Email (nicolai@django-cms.org), our Community Manager and he will guide you through the next steps. 
 
+## Create a workgroup 
+
+1. Have an idea for a workgroup, or a suggestion for an improvement or new feature that you want to work on with others. 
+2. Contact Nicolai via Email (nicolai@django-cms.org) and report your interest in starting a workgroup. 
+3. Make sure to deliver the following information:
+
+- Title of the workgroup
+- Description of the workroup (bullet points)
+- Tentative timeline of the workrgroup roadmap 
+
+
+# Reporting of workgroup progress 
+
+In order to coordinate and keep the django CMS community informed of the progress in the workgroups, workgroup  leaders should visit the weekly Technical Committee meeting from time to time and report on the status of the workgroup. If the workgroup has made significant progress or even completed a task, please report it to Nicolai (nicolai@django-cms.org) so he can create a community blog post. 
+
+
+# Workgroup FAQ
 
 ## Who can join a workgroup?
 
 Anyone can join a workgroup or propose the creation of a new workgroup for an issue that is not on the list yet. Members of the django CMS Association who are involved in workgroups receive voting rights for their work contributions. 
 
 
-## How do I join a workgroup?
-
-Very simple. Check out the [workgroup list](https://docs.google.com/spreadsheets/d/1gfI8IKz84u-YvE61eePCD-lAbn1haghOiqkvSdO-1yg/edit#gid=0) and choose a topic you want to work on by adding your name to the contributor column. After that pease contact Nicolai (nicolai@django-cms.org), our Community Manager and he will guide you through the next steps. 
-
-
 ## How do I create a new workgroup?
 
-In case you want to create a new workgroup for a topic you deem important, please contact Nicolai and he will guide you through the process. 
-
-Please make sure to deliver the following information:
-
-- Title of the workgroup
-- Description of the workroup (bullet points)
-- Tentative timeline 
 
 
 ## How do workgroups organize their work collaboration?
