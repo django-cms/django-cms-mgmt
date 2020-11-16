@@ -39,10 +39,6 @@ In order to coordinate and keep the django CMS community informed of the progres
 Anyone can join a workgroup or propose the creation of a new workgroup for an issue that is not on the list yet. Members of the django CMS Association who are involved in workgroups receive voting rights for their work contributions. 
 
 
-## How do I create a new workgroup?
-
-
-
 ## How do workgroups organize their work collaboration?
 
 The organization of work collaboration in workgroups is up to the group members. They can decide how they want to collaborate on their assigned tasks. However, the django CMS Association provides various collaboration tools that can be freely used by the group members:
