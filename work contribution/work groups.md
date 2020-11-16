@@ -30,7 +30,7 @@ The list shows all current new feature suggestions, improvements, issues and bug
 
 For workgroup leaders:
 - Visit the weekly [Technical Committee meeting](https://github.com/django-cms/django-cms-mgmt/blob/master/community%20and%20support/weekly%20tech%20committee%20meeting.md) from time to time and report on the status of the workgroup. 
-- Please notify Nicolai (nicolai@django-cms.org) when the working group has made significant progress or even completed a task so that he can create a community blog post. 
+- Please notify Nicolai (nicolai@django-cms.org) when the workgroup has made significant progress or even completed a task so that he can create a community blog post. 
 
 
 # Workgroup FAQ
