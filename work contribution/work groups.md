@@ -8,7 +8,7 @@ Workgroups are the heart of our open-source project. A workgroup is a temporary 
 
 The list shows all current new feature suggestions, improvements, issues and bugs with the corresponding workgroups. 
 
-# Process 
+# Processes
 
 ## Join a workgroup
 
@@ -26,10 +26,11 @@ The list shows all current new feature suggestions, improvements, issues and bug
 - Description of the workroup (bullet points)
 - Tentative timeline of the workrgroup roadmap 
 
+## Reporting of workgroup progress 
 
-# Reporting of workgroup progress 
-
-In order to coordinate and keep the django CMS community informed of the progress in the workgroups, workgroup  leaders should visit the weekly Technical Committee meeting from time to time and report on the status of the workgroup. If the workgroup has made significant progress or even completed a task, please report it to Nicolai (nicolai@django-cms.org) so he can create a community blog post. 
+For workgroup leaders:
+- Visit the weekly Technical Committee meeting from time to time and report on the status of the workgroup. 
+- Please notify Nicolai (nicolai@django-cms.org) when the working group has made significant progress or even completed a task so that he can create a community blog post. 
 
 
 # Workgroup FAQ
