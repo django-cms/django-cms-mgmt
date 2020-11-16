@@ -1,5 +1,23 @@
 # Board Meeting Tasks and Decisions Log 
 
+## Monday 16.11.2020
+
+Present: Mario, Bhavesh, Nicolai 
+
+**Decisions**
+* Further automate demo request process by having a webform integration to pipedrive and mailchimp 
+
+**Tasks**
+* Create a django CMS FAQ for people who are shopping for a CMS
+
+
+## Monday 09.11.2020 
+
+Present: Marcus, Mario, Adam, Joel, Bhavesh
+
+**Decisions**
+* Check business register possibilities in other cantons and consult a lawyer (Mario)
+
 
 ## Monday 02.11.2020
 
