@@ -12,14 +12,14 @@ The list shows all current new feature suggestions, improvements, issues and bug
 
 ## Join a workgroup
 
-1. Check out the [workgroup list](https://docs.google.com/spreadsheets/d/1gfI8IKz84u-YvE61eePCD-lAbn1haghOiqkvSdO-1yg/edit#gid=0) and choose a topic you want to work on 
-2. Add your name to the contributor column. 
-3. Contact Nicolai via Email (nicolai@django-cms.org), our Community Manager and he will guide you through the next steps. 
+1. Check out the [workgroup list](https://docs.google.com/spreadsheets/d/1gfI8IKz84u-YvE61eePCD-lAbn1haghOiqkvSdO-1yg/edit#gid=0) and choose a topic you want to work on. 
+2. Add your name to the contributor column.
+3. Contact Nicolai via Email (nicolai@django-cms.org), our Community Manager and he will guide you through the next steps.
 
 ## Create a workgroup 
 
 1. Have an idea for a workgroup, or a suggestion for an improvement or new feature that you want to work on with others. 
-2. Contact Nicolai via Email (nicolai@django-cms.org) and report your interest in starting a workgroup. 
+2. Contact Nicolai via Email (nicolai@django-cms.org) and report your interest in starting a workgroup.
 3. Make sure to deliver the following information:
 
 - Title of the workgroup
@@ -30,7 +30,7 @@ The list shows all current new feature suggestions, improvements, issues and bug
 
 For workgroup leaders:
 - Visit the weekly [Technical Committee meeting](https://github.com/django-cms/django-cms-mgmt/blob/master/community%20and%20support/weekly%20tech%20committee%20meeting.md) from time to time and report on the status of the workgroup. 
-- Please notify Nicolai (nicolai@django-cms.org) when the workgroup has made significant progress or even completed a task so that he can create a community blog post. 
+- Please notify Nicolai (nicolai@django-cms.org) when the workgroup has made significant progress or even completed a task so that he can create a community blog post.
 
 
 # Workgroup FAQ
