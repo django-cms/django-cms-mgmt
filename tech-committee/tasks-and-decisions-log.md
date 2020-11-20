@@ -6,7 +6,55 @@
 
 [ℹ️ See here for the live version](https://hackmd.io/ddhvq_aqS6my9gwhLddyPg)
 
-## Friday 13.11.2020 (WiP, upcoming Meeting)
+## 27.11.2020 (upcoming meeting)
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Guest intro
+3. Varia: further points raised by Tech Committee members
+4. Review Tasks
+6. News & updates for / from dCA Board and MarCom
+7. Review approve and post the meeting notes
+
+#### Tasks
+- [ ] Nicolai to organize design / ux direction (initially for django-filer svg enhancement, but with a bigger perspective in the mid term)
+       - django CMS v4 Community Release
+       - headless django CMS (tentative / proposal)
+- [ ] set up search workgroup and onboard workgroup members (proposal: focus on https://github.com/divio/djangocms-internalsearch for django CMS 4?)
+- [ ] merge and release https://github.com/django-cms/djangocms-admin-style/pull/426
+- [ ] think about QA / PM resourcing
+   - CI - quickly spin up a testing instance. There is a django CMS demo org where we can set up projects in arbitrary configuration for testing / QA) - ask mario@django-cms.org
+- [ ] Nicolai will create a directory of DCA members and volunteers and sign people up.
+- [ ] define 3.9 release scope
+
+## 20.11.2020 (today's meeting)
+
+#### Agenda Points
+
+1. Add new entry for next meeting from template
+1. Guest intro
+    - welcome Mike (Compound Partners)
+3. Varia: further points raised by Tech Committee members
+    - Pages admin Workgroup update: Search results improvements in admin interface  (Mehdi)
+    - Andrew: [djangocms-internalsearch rewrite](https://github.com/divio/djangocms-internalsearch) (haystack is only Elastic search <= 2.5 compatible)
+    - Jean-Baptiste: allow deactivating unsorted uploads in django filer
+    - Victor: a directory of DCA members and volunteers, eg on discourse.django-cms.org or a spreadsheet, which would help anyone to know a bit more about each other - decision: yes, we do this.
+    - 3.8.0 readme is missing http://docs.django-cms.org/en/latest/upgrade/ (Nicolai), issue: https://github.com/django-cms/django-cms/issues/6948, assigned to Iacopo
+6. news & updates for / from dCA Board and MarCom - none
+7. Review approve and post the meeting notes - done
+
+#### Tasks
+- [ ] Updates on next steps regarding django CMS installer from Iacopo
+- [ ] Nicolai to organize design / ux direction (initially for django-filer svg enhancement, but with a bigger perspective in the mid term)
+       - django CMS v4 Community Release
+       - headless django CMS (tentative / proposal)
+
+#### Decisions
+
+
+## 12.11.2020
 
 #### Agenda Points
 <small>TBD in in the first 5 min of the meeting</small>
@@ -14,25 +62,38 @@
 1. Add new entry for next meeting from template
 1. Guest intro
 3. Varia: further points raised by Tech Committee members
-    - ...
+    - FYI - Workgroup update: django CMS v4 Roadmap has been created: https://hackmd.io/5Sj6X5XhTJOmZgNj8e_KCw
+    - Victor: CKEditor5 workgroup
+        - do we want to implement the url rest api within the core?
+            - from Andrew: analyze further the importance of the existing in-text plugins, whether we can replace them with ckeditor5 es6 plugins
+        - do we want to use the 3.X branch
+            - we can spec it out and then decide, but probably yes since we don't want to wait for 4.0
+            - Victor to create a follow up call with Alex and Andrew, points:
+                - Victor to write a rough set of specs in a github ticket for the call that we can discuss together
+    - "How to contribute to the documentation"-Training (Nicolai)
+        - Everyone who is involved in django CMS development has to write documentation and should be trained in how to do it
+        - Offer training for documentation tools and documentation writing 
+        - Create documentation training workshop 
+            - 1h sessions / once a week / 4 weeks
+            - only dCA members 
+            - record on video (?)
+        - Schedule follow up meeting -> documentation workgroup 
+    - Somebody contact wants to create their own versioning on top of django CMS. Can we use any synergies.
 5. news & updates for dCA MarCom
-6. review log entry together, approve and post
+    - djangocms Pypi is now up and running - key fact: as of now more people can release django cms packages on pypi and updates on github will be published on pypi much faster, this is great news for anyone using pypi (which is, everyone) - see https://pypi.org/user/djangocms/
+    - if there are packages you would like to move under the umbrella of the pypi djangocms user or there are updates to packages already under control of djangocms on pypi pleaes get in touch with the Tech Committee <contact>credentials here</contact>
+        - "keep it in good shape" - high visibly on Google 
+7. review log entry together, approve and post
 
 #### Tasks
-- [ ] Mario to create pypi@django-cms.org and django CMS pypi account, ask Angelo to add pypi packages to it, invite TC members to it.
-- [ ] Define the test structure / installation for Django CMS
-- [ ] Mario to ask travis-ci.org for open source sponsorship
-- [ ] Mario to work with Andrew on roadmap for django CMS v4 (10.11.2020)
-- [ ] Nicolai to complete workgroup roadmap process
-- [ ] Nicolai to build an overall django CMS ecosystem roadmap based on the workgroup roadmaps with the following big picture
-- [ ] Nicolai to organize design / ux direction (initially for django-filer svg enhancement, but with a bigger perspective in the mid term)
-   - django CMS v4 Community Release
-   - headless django CMS (tentative / proposal)
-#### Decisions
-- Enter first decision here
+- [x] Mario to create pypi@django-cms.org and django CMS pypi account, ask Angelo to add pypi packages to it, invite TC members to it.
+- [x] Mario to ask travis-ci.org for open source sponsorship
+- [x] Mario to work with Andrew on roadmap for django CMS v4 (10.11.2020)
+- [x] Nicolai to complete workgroup roadmap process
+- [x] Nicolai to build an overall django CMS ecosystem roadmap based on the workgroup roadmaps with the following big picture
 
 
-## Thursday 05.11.2020
+## Thursday 05.11.2020 (WiP, upcoming Meeting)
 
 #### Agenda Points
 <small>TBD in in the first 5 min of the meeting</small>
@@ -59,7 +120,7 @@
 - 
 
 
-## Friday 30.10.2020
+## Friday 30.10.2020 (WiP, todays Meeting)
 
 #### Agenda Points
 <small>TBD in in the first 5 min of the meeting</small>
