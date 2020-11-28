@@ -2,34 +2,78 @@
 
 <small>The Tech Committee meetings documentation must follow the format of the [Tech Committee Log Entry Template](/tech-committee/tasks-and-decisions-log-entry-template.md)</small>
 
-[ℹ️ See here for all Tech Committee tasks](https://github.com/django-cms/django-cms-mgmt/projects/1)
+- [Tech Committee task board](https://github.com/django-cms/django-cms-mgmt/projects/1)
+- [this doc's hackmd url](https://hackmd.io/ddhvq_aqS6my9gwhLddyPg)
+- [this doc's github repo url](https://github.com/django-cms/django-cms-mgmt/blob/master/tech-committee/tasks-and-decisions-log.md)
 
-[ℹ️ See here for the live version](https://hackmd.io/ddhvq_aqS6my9gwhLddyPg)
-
-## 27.11.2020 (upcoming meeting)
+## 04.12.2020 (upcoming meeting)
 
 #### Agenda Points
 <small>TBD in in the first 5 min of the meeting</small>
 
 1. Add new entry for next meeting from template
 2. Guest intro
-3. Varia: further points raised by Tech Committee members
-4. Review Tasks
-6. News & updates for / from dCA Board and MarCom
-7. Review approve and post the meeting notes
+    - Vinit Kunar
+4. Varia: further points raised by Tech Committee members
+    - dcmsv4 demo report (Andrew)
+    - Workgroup updates (Nicolai)
+    - Member & Volunteers directory (Nicolai)
+6. Review Tasks
+7. News & updates for / from dCA Board and MarCom
+   - from TC: announce Testing & QA Contribution Program for service providers (for Nicolai)
+9. Review approve and post the meeting notes
 
 #### Tasks
-- [ ] Nicolai to organize design / ux direction (initially for django-filer svg enhancement, but with a bigger perspective in the mid term)
-       - django CMS v4 Community Release
-       - headless django CMS (tentative / proposal)
-- [ ] set up search workgroup and onboard workgroup members (proposal: focus on https://github.com/divio/djangocms-internalsearch for django CMS 4?)
-- [ ] merge and release https://github.com/django-cms/djangocms-admin-style/pull/426
-- [ ] think about QA / PM resourcing
-   - CI - quickly spin up a testing instance. There is a django CMS demo org where we can set up projects in arbitrary configuration for testing / QA) - ask mario@django-cms.org
-- [ ] Nicolai will create a directory of DCA members and volunteers and sign people up.
-- [ ] define 3.9 release scope
+- [ ] document list of core dependencies (LTS 3.7 scope) to be defined (it already exists, Angelo has it) for the setup of django CMS v3 demo project (Nicolai)
+- [ ] document testing checklist (let's make it available) - Nicolai
+- [ ] set up testing log (google spreadsheet?) - Nicolai
+- [ ] get sponsorship for a VPS for the CI/CD pipeline on gitlab (Jacob Rief)
+- [ ] Set up CI/CD Pipeline (Jacob Rief)
+- [ ] Provide db/media dump to Jacob Rief (Jacob Rief to ask Victor)
+- [ ] Nicolai to check with Angelo on 3.9 release scope
+- [ ] Unlock sponsorshop for TravisCI 
+- [ ] Proposal for move to Github Action 
+- [ ] Nicolai to present the directory of active contributors
+- [ ] set up search workgroup and onboard workgroup members (proposal: focus on https://github.com/divio/djangocms-internalsearch for django CMS 4?) - Nicolai/Andrew
+- [ ] Workgroup updates - let's organize some for next TC meeting - Nicolai
+- [ ] Nicolai to onboard 2 devs from Compound Partners
+- [ ] Nicolai to organize design / ux direction (initially for django-filer svg enhancement, but with a bigger perspective in the mid term for django CMS v4 Community Release and headless django CMS initiatives
 
-## 20.11.2020 (today's meeting)
+## 27.11.2020
+
+#### Agenda Points
+
+1. Add new entry for next meeting from template
+2. Guest intro
+3. Varia: further points raised by Tech Committee members
+   - think about QA / PM resourcing: We'll be making a lot of changes as the project gets busier. Need to make sure we're testing adequately to protect dependent packages / projects.
+       - Describe the sanity check after major upgrade
+       - there is a testing checklist (let's make it available) 
+       - on top of that - describe user stories, testing procedures and tasks
+       - the dcmsv4 workgroup is working on a demo project for v4 (Andrew)
+       - we have a djangocms-template for v3 which we can use based on 3.7 LTS core packages
+       - Set up a CI/CD Release Apps pipeline
+           - also for dependencies (packages)?
+       - Testing & QA Contribution Program for service providers
+   - define next 3.9 scopes
+       - Jacob: drop python 3.5 support (py3.5 is End Of Live)?
+       - Nicolai to check with Angelo on further points
+   - workgroup updates - let's organize some for next TC meeting (Nicolai?)?
+5. Review Tasks
+6. News & updates for / from dCA Board and MarCom
+    - from Nicolai: Bounty Program Update
+8. Review approve and post the meeting notes
+
+#### Tasks
+- [x] merge and release https://github.com/django-cms/djangocms-admin-style/pull/426
+    - Released: https://github.com/django-cms/djangocms-admin-style/commit/ff21ae56bdcfbaa546b6c36e7e294edb56fc5d9a
+- [x] think about QA / PM resourcing
+   - CI - quickly spin up a testing instance. There is a django CMS demo org where we can set up projects in arbitrary configuration for testing / QA) - ask mario@django-cms.org
+- [x] Nicolai will create a directory of DCA members and volunteers and sign people up.
+
+
+
+## 20.11.2020 
 
 #### Agenda Points
 
