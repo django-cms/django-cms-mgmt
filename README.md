@@ -16,7 +16,7 @@
 
 - Community Events & Support
    - Weekly event: [Tech committee meeting (open for all)](https://github.com/django-cms/django-cms-mgmt/blob/master/community%20and%20support/weekly%20tech%20committee%20meeting.md) 
-   - [Developer Bounty Program] (https://www.django-cms.org/en/)
+   - [Developer Bounty Program](https://www.django-cms.org/en/)
    - [Support channels](https://github.com/django-cms/django-cms-mgmt/blob/master/support%20channels/support%20channels.md) 
   
 - Product Management
