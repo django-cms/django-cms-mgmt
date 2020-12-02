@@ -1,5 +1,30 @@
 # Board Meeting Tasks and Decisions Log 
 
+## Monday 30.11.2020
+
+**Executive Summary**
+
+Present: Adam, Bhavesh, Mario, Joel 
+
+**Decisions
+* To create a QA program for service providers to spend QA ressources for the django CMS project during downtime 
+* To include updates of the Technical Committee in the Board Meeting regularly
+
+**Tasks
+* Joel to deal with the General Assembly formalities and start planning in early January 
+
+
+## Monday 23.11.2020
+
+Executive Summary
+
+Present: Mario, Adam, Bhavesh, (Joel)
+
+**Decisions
+
+* To have a discussion about QA ressource for django CMS in the next board meeting
+
+
 ## Monday 16.11.2020
 
 Present: Mario, Bhavesh, Nicolai 
