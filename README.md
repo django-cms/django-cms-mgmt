@@ -22,6 +22,7 @@
 - Product Management
    - [Product Guidelines](https://docs.google.com/presentation/d/1axCv5HuMIIFzP1MNbwCUen7M0pEapxuXRMLEC70NXiU/edit#slide=id.p)
    - [Technical Roadmap](/django-cms/roadmap.md)
+   - [Testing Checklist](https://www.notion.so/CMS-core-a90e440827294064a4dc380e3edd9dc5)
  
 - Documentation  
    - [Development policies](http://docs.django-cms.org/en/latest/contributing/development-policies.html)
