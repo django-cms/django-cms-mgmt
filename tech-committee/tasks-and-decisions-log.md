@@ -6,38 +6,63 @@
 - [this doc's hackmd url](https://hackmd.io/ddhvq_aqS6my9gwhLddyPg)
 - [this doc's github repo url](https://github.com/django-cms/django-cms-mgmt/blob/master/tech-committee/tasks-and-decisions-log.md)
 
-## 04.12.2020 (upcoming meeting)
+## 11.12.2020 (NEXT WEEK)
 
 #### Agenda Points
 <small>TBD in in the first 5 min of the meeting</small>
 
 1. Add new entry for next meeting from template
 2. Guest intro
-    - Vinit Kunar
+3. Review agenda and add missing points
 4. Varia: further points raised by Tech Committee members
-    - dcmsv4 demo report (Andrew)
-    - Workgroup updates (Nicolai)
-    - Member & Volunteers directory (Nicolai)
 6. Review Tasks
 7. News & updates for / from dCA Board and MarCom
+   - from the dCA Board: https://github.com/django-cms/django-cms-mgmt/blob/master/association/tasks-and-decisions-log.md  
+9. Review approve and post the meeting notes
+
+#### Tasks & Initiatives
+- [ ] announce Testing & QA Contribution Program for service providers (for Nicolai)
+- [ ] Formally phase out python 3.5 for `develop` branch (Jacob Rief)
+- [ ] Unlock sponsorshop for TravisCI / Github Actions (Mario) 
+- [ ] Mario / Andrew to add code to v4 demo project repo
+- [ ] set up testing log (google spreadsheet?) - Nicolai
+- [x] get sponsorship for a VPS for the CI/CD pipeline on gitlab (Jacob Rief)
+- [ ] Set up CI/CD Pipeline (Jacob Rief)
+- [ ] Provide db/media dump to Jacob Rief (Jacob Rief to ask Victor)
+- [ ] Proposal for move to Github Action (Vinit)
+- [ ] set up search workgroup and onboard workgroup members (proposal: focus on https://github.com/divio/djangocms-internalsearch for django CMS 4?) - Nicolai/Andrew
+- [ ] Nicolai to onboard 2 devs from Compound Partners
+- [ ] Nicolai to organize design / ux direction (initially for django-filer svg enhancement, but with a bigger perspective in the mid term for django CMS v4 Community Release and headless django CMS initiatives
+
+## 04.12.2020
+
+#### Agenda Points
+
+1. Add new entry for next meeting from template
+2. Guest intro
+    - Vinit Kunar
+3. Review agenda and add missing points
+4. Varia: further points raised by Tech Committee members
+    - Workgroup updates (Nicolai)
+    - dcmsv4 demo report (Andrew) - working demo: https://django-cms-40x-community-demo-stage.us.aldryn.io/ (ask andrew@django-cms.org or mario@what.digital to get access)
+    - Update django-cms documenation (Iacopo)
+    - Update workgroup "release" to find scope for 3.9
+    - Update testing checklist (Nicolai) - https://www.notion.so/CMS-core-a90e440827294064a4dc380e3edd9dc5
+    - [New directory of active contributors](https://docs.google.com/spreadsheets/d/1TRwb65boIPt80Q4JJ6isgz9x8aeoz6dah6jzm5ixamU/edit#gid=0)  
+    - Bounty program was launched - Update?
+    - Drop python 3.5 support (Jacob Rief)
+6. Review Tasks
+7. News & updates for / from dCA Board and MarCom
+   - from the dCA Board: https://github.com/django-cms/django-cms-mgmt/blob/master/association/tasks-and-decisions-log.md  
    - from TC: announce Testing & QA Contribution Program for service providers (for Nicolai)
 9. Review approve and post the meeting notes
 
-#### Tasks
-- [ ] document list of core dependencies (LTS 3.7 scope) to be defined (it already exists, Angelo has it) for the setup of django CMS v3 demo project (Nicolai)
-- [ ] document testing checklist (let's make it available) - Nicolai
-- [ ] set up testing log (google spreadsheet?) - Nicolai
-- [ ] get sponsorship for a VPS for the CI/CD pipeline on gitlab (Jacob Rief)
-- [ ] Set up CI/CD Pipeline (Jacob Rief)
-- [ ] Provide db/media dump to Jacob Rief (Jacob Rief to ask Victor)
-- [ ] Nicolai to check with Angelo on 3.9 release scope
-- [ ] Unlock sponsorshop for TravisCI 
-- [ ] Proposal for move to Github Action 
-- [ ] Nicolai to present the directory of active contributors
-- [ ] set up search workgroup and onboard workgroup members (proposal: focus on https://github.com/divio/djangocms-internalsearch for django CMS 4?) - Nicolai/Andrew
-- [ ] Workgroup updates - let's organize some for next TC meeting - Nicolai
-- [ ] Nicolai to onboard 2 devs from Compound Partners
-- [ ] Nicolai to organize design / ux direction (initially for django-filer svg enhancement, but with a bigger perspective in the mid term for django CMS v4 Community Release and headless django CMS initiatives
+#### Tasks & Initiatives
+- [x] document list of core dependencies (LTS 3.7 scope) to be defined (it already exists, Angelo has it) for the setup of django CMS v3 demo project (Nicolai)
+- [x] document testing checklist (let's make it available) - Nicolai
+- [x] Nicolai to check with Angelo on 3.9 release scope
+- [x] Nicolai to present the directory of active contributors
+- [x] Workgroup updates - let's organize some for next TC meeting - Nicolai
 
 ## 27.11.2020
 
