@@ -6,7 +6,68 @@
 - [this doc's hackmd url](https://hackmd.io/ddhvq_aqS6my9gwhLddyPg)
 - [this doc's github repo url](https://github.com/django-cms/django-cms-mgmt/blob/master/tech-committee/tasks-and-decisions-log.md)
 
-## 11.12.2020 (NEXT WEEK)
+
+## 08.01.2021 (Next Meeting)
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Guest intro
+3. Review agenda and add missing points
+4. Varia: further points raised by Tech Committee members
+   - Mario: django CMS Roadmap / Vision / Strategy 2021 Update from the dCA board
+6. Review Tasks
+7. News & updates for / from dCA Board and MarCom
+8. Review approve and post the meeting notes
+
+#### Tasks & Initiatives
+- [ ] Mario / Andrew to add code to v4 demo project repo
+- [ ] announce Testing & QA Contribution Program for service providers (for Nicolai)
+- [ ] Nicolai to onboard 2 devs from Compound Partners
+- [ ] Nicolai to organize design / ux direction (initially for django-filer svg enhancement, but with a bigger perspective in the mid term for django CMS v4 Community Release and headless django CMS initiatives
+- [ ] set up testing log (google spreadsheet?) - Nicolai
+- [ ] Formally phase out python 3.5 for `develop` branch (for upcoming v3.9) (Jacob Rief)
+- [ ] Set up CI/CD Pipeline (Jacob Rief)
+- [ ] Provide db/media dump to Jacob Rief (Jacob Rief to ask Victor)
+- [ ] set up "search" workgroup and onboard workgroup members (proposal: focus on https://github.com/divio/djangocms-internalsearch for django CMS 4?) (Nicolai/Andrew)
+- [ ] search result workgroup to create a test link (Jean-Baptiste)
+- [ ] Create a PR review workgroup (Nicolai)
+- [ ] Andrew to have a look at PR process documentation (Andrew)
+- [ ] Write copy for documentation and send to Daniele for merging into production (Nicolai)
+- [ ] Record basic demo videos/a series of django CMS 4.0 to recruit volunteers for the workgroup (Andrew)
+- [ ] Invite django CMS 4 developers to documenation workshop (Andrew) 
+
+## 18.12.2020 
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Guest intro
+3. Review agenda and add missing points
+4. Varia: further points raised by Tech Committee members
+    * Update from search result workgroup (Jean-Baptiste)
+        * A PR has been submitted this morning for review. I still have some tests to write and update translation files (need help on these topics) but I would like to get some feedbacks about changes introduced by this new feature
+        * Notes: Provide test link 
+    * Update from CKeditor5 workgroup (Victor)
+        * Alex has pushed an example ckeditor5 demo plugin to the PR and the stage server :tada:  - https://django-cms-ckeditor5-stage.us.aldryn.io/en/ (login/password - test@django-cms.org/test@django-cms.org)
+        * we discussed several ways of integrating the ckeditor5 plugins into the main djangocms-text-ckeditor package and documented it in the brief
+        * we set up another call on Monday to specify djangocms-url-manager integration 
+    * PR code review process (Iacopo)
+        * is any workgroup responsible for this or do we need a dedicated workgroup?
+        * How do we handle features proposed by the community?
+        * Should they all be brought in the TC for discussion or only when deemed necessary during the code review? 
+     * django CMS documentation (Daniele)
+6. Review Tasks
+7. News & updates for / from dCA Board and MarCom
+8. Review approve and post the meeting notes
+
+#### Tasks & Initiatives
+- [x] Update Vinit about Github Actions and schedule kick off meeting for next steps together Jacob 
+
+
+## 11.12.2020 
 
 #### Agenda Points
 <small>TBD in in the first 5 min of the meeting</small>
