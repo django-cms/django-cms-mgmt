@@ -20,11 +20,15 @@ The list shows all current new feature suggestions, improvements, issues and bug
 
 1. Have an idea for a workgroup, or a suggestion for an improvement or new feature that you want to work on with others. 
 2. Contact Nicolai via Email (nicolai@django-cms.org) and report your interest in starting a workgroup.
-3. Make sure to deliver the following information:
+3. Please deliver a tech brief (you can use this [template](https://hackmd.io/qpbPescXSLawip-NxH4pqw) that includes the following information and add it to the workgroup list:
 
 - Title of the workgroup
-- Description of the workroup (bullet points)
-- Tentative timeline of the workrgroup roadmap 
+- Goal of the workroup 
+- Milestones
+- Tentative workgroup roadmap 
+- Specification 
+
+4. We recommend that you create a channel for your workgroup in our [public Slack workspace](https://www.django-cms.org/slack)
 
 ## Reporting of workgroup progress 
 
