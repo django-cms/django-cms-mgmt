@@ -19,7 +19,7 @@ The current members of the TC are:
 - Victor Yunenko
 - Andrew Aikman 
 
-Want to joint the TC? Please see below.
+Want to join the TC? Please see below.
 
 
 
