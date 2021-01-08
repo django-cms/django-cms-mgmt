@@ -19,6 +19,7 @@ This is an overview of all the people who volunteer to make the open source djan
 - Daniele
 - Angelo 
 - Vinit 
+- Simon
 
 ## Do you also want to become a Community Hero? 
 
