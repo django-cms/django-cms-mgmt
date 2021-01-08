@@ -19,7 +19,7 @@ This is an overview of all the people who volunteer to make the open source djan
 - Daniele
 - Angelo 
 - Vinit 
-- Simon
+- [Simon](https://github.com/crydotsnake)
 
 ## Do you also want to become a Community Hero? 
 
