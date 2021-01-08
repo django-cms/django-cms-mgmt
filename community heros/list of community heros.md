@@ -20,3 +20,9 @@ This is an overview of all the people who volunteer to make the open source djan
 - Angelo 
 - Vinit 
 
+## Do you also want to become a Community Hero? 
+
+No matter if you are a developer, usability enthusiast, designer or copywriter. Young or old. Experienced or inexperienced. Every helping hand is welcome. Join a workgroup and help us take django CMS to the next level. The easiest way to get involved with us is to join a workgroup. 
+
+[Here you can learn more about our workgroups and how to join a working group.](
+https://github.com/django-cms/django-cms-mgmt/blob/master/work%20contribution/work%20groups.md)
