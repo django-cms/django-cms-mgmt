@@ -26,3 +26,7 @@ No matter if you are a developer, usability enthusiast, designer or copywriter. 
 
 [Here you can learn more about our workgroups and how to join a working group.](
 https://github.com/django-cms/django-cms-mgmt/blob/master/work%20contribution/work%20groups.md)
+
+## Contribute to django CMS and win rewards!
+
+After you have decided to become a Community Hero, you should take a look at our [Developer Bounty Program](https://www.django-cms.org/en/bounty-program/). 
