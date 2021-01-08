@@ -6,8 +6,7 @@
 - [this doc's hackmd url](https://hackmd.io/ddhvq_aqS6my9gwhLddyPg)
 - [this doc's github repo url](https://github.com/django-cms/django-cms-mgmt/blob/master/tech-committee/tasks-and-decisions-log.md)
 
-
-## 08.01.2021 (Next Meeting)
+## 15.01.2021 (Next Meeting)
 
 #### Agenda Points
 <small>TBD in in the first 5 min of the meeting</small>
@@ -16,29 +15,61 @@
 2. Guest intro
 3. Review agenda and add missing points
 4. Varia: further points raised by Tech Committee members
-   - Mario: django CMS Roadmap / Vision / Strategy 2021 Update from the dCA board
+    - Approval of TC membership applications
+    - What template format the developers would need (Victor) - it was meant for "Varia"
+        - we could aim to provide
+            - a CLI
+            - a project example as djangocms-template
+            - both CLI and a project example?
+            - a project example with cookiecutter
+        - adding it to a general community survey could be a good idea
+        - tech brief draft - https://hackmd.io/@django-cms/workgroup-project-template
 6. Review Tasks
 7. News & updates for / from dCA Board and MarCom
 8. Review approve and post the meeting notes
 
 #### Tasks & Initiatives
+- [ ] Give Vinit access to github org (Mario)
+- [ ] Record basic demo videos/a series of django CMS 4.0 to recruit volunteers for the workgroup (Andrew)
+- [ ] Mario to review https://jazzband.co/ and report on standardization strategies in next TC
 - [ ] Mario / Andrew to add code to v4 demo project repo
+- [ ] Andrew to release 3to4 script in repo
 - [ ] announce Testing & QA Contribution Program for service providers (for Nicolai)
-- [ ] Nicolai to onboard 2 devs from Compound Partners
+- [ ] Nicolai to onboard 2 devs from Compound Partners into v4 workgroup
 - [ ] Nicolai to organize design / ux direction (initially for django-filer svg enhancement, but with a bigger perspective in the mid term for django CMS v4 Community Release and headless django CMS initiatives
 - [ ] set up testing log (google spreadsheet?) - Nicolai
 - [ ] Formally phase out python 3.5 for `develop` branch (for upcoming v3.9) (Jacob Rief)
-- [ ] Set up CI/CD Pipeline (Jacob Rief)
 - [ ] Provide db/media dump to Jacob Rief (Jacob Rief to ask Victor)
+- [ ] Set up CI/CD Pipeline (Jacob Rief) for PR and branch test servers
 - [ ] set up "search" workgroup and onboard workgroup members (proposal: focus on https://github.com/divio/djangocms-internalsearch for django CMS 4?) (Nicolai/Andrew)
 - [ ] search result workgroup to create a test link (Jean-Baptiste)
-- [ ] Create a PR review workgroup (Nicolai)
-- [ ] Andrew to have a look at PR process documentation (Andrew)
-- [ ] Write copy for documentation and send to Daniele for merging into production (Nicolai)
-- [ ] Record basic demo videos/a series of django CMS 4.0 to recruit volunteers for the workgroup (Andrew)
-- [ ] Invite django CMS 4 developers to documenation workshop (Andrew) 
+- [x] Invite django CMS 4 developers to documenation workshop (Andrew) 
 
-## 18.12.2020 
+
+## 08.01.2021 (Today)
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Guest intro
+3. Review agenda and add missing points
+4. Varia: further points raised by Tech Committee members
+   - Andrew: Progress update from CI workgroup kick-off call
+   - Nicolai: Request admin access to djangocms github org for Vinit for setting up github actions
+   - Nicolai: Update PR Review workgroup - Information needed (Tech Brief etc.) - I nominate Iacopo as workgroup lead 
+   - Mario: switch django CMS Slack org to use google meet for calls (slack call is disabled anyways due to free plan restrictions)
+   - Andrew: django CMS 4 Migration
+5. Review Tasks
+6. News & updates for / from dCA Board and MarCom
+   - Mario: [django CMS Roadmap / Vision / Strategy 2021 Update from the dCA board](https://docs.google.com/presentation/d/1P-CObPTKt6dodqYhYJKNBFE4mb3jv0jVr17iOfBBcl0/)
+8. Review approve and post the meeting notes
+
+#### Tasks & Initiatives
+- [x] Create a PR review workgroup (Nicolai)
+- [x] Write copy for documentation and send to Daniele for merging into production (Nicolai)
+
+## 18.12.2020
 
 #### Agenda Points
 <small>TBD in in the first 5 min of the meeting</small>
@@ -75,25 +106,34 @@
 1. Add new entry for next meeting from template
 2. Guest intro
 3. Review agenda and add missing points
-4. Varia: further points raised by Tech Committee members
+4. Varia: further points raised by Tech Committee members 
+   - (Mario) Travis has paused its OSS program indefinitely. I suggest the new CI workgroup try Github Actions.
+       - consenus to try Github Actions. Next steps: Update Vinit about Github Actions and schedule kick off meeting for next steps together Jacob 
+   - (Mario)Release Management Update
+       - Proposal was approved 
+   - Adopting autoformatted code style (pre-commit + black) (for v4+ only)
+       - Stay consistent, agreed as a group that a package should keep the package readable. Ideally we would use Flake8.  
+   - (Victor) djangocms-text-ckeditor versioning + dropping the in-text plugins backward compatibility
+       - Angelo is in favor of creating a new package
+       - Andrew wouldn't like to tie it to a specific ckeditor version (eg 5), since that kills the default migration path
+       - We might have a naming issue, since we can't just name it djangocms-text-ckeditor-new
+       - We will review it and come back with several propositions in the future, there's no rush at the moment
+   - (Iacopo)PR code review process:
+           - is any workgroup responsible for this or do we need a dedicated workgroup?
+           - How do we handle features proposed by the community?
+           - Should they all be brought in the TC for discussion or only when deemed necessary during the code review? 
 6. Review Tasks
-7. News & updates for / from dCA Board and MarCom
-   - from the dCA Board: https://github.com/django-cms/django-cms-mgmt/blob/master/association/tasks-and-decisions-log.md  
-9. Review approve and post the meeting notes
+7. News & updates for / from dCA Board and 
+    - Releases about 3.x -> put on roadmap / announcem 
+8. Review approve and post the meeting notes
 
 #### Tasks & Initiatives
-- [ ] announce Testing & QA Contribution Program for service providers (for Nicolai)
-- [ ] Formally phase out python 3.5 for `develop` branch (Jacob Rief)
-- [ ] Unlock sponsorshop for TravisCI / Github Actions (Mario) 
-- [ ] Mario / Andrew to add code to v4 demo project repo
-- [ ] set up testing log (google spreadsheet?) - Nicolai
+
+
+- [x] Unlock sponsorshop for TravisCI / Github Actions (Mario) 
 - [x] get sponsorship for a VPS for the CI/CD pipeline on gitlab (Jacob Rief)
-- [ ] Set up CI/CD Pipeline (Jacob Rief)
-- [ ] Provide db/media dump to Jacob Rief (Jacob Rief to ask Victor)
-- [ ] Proposal for move to Github Action (Vinit)
-- [ ] set up search workgroup and onboard workgroup members (proposal: focus on https://github.com/divio/djangocms-internalsearch for django CMS 4?) - Nicolai/Andrew
-- [ ] Nicolai to onboard 2 devs from Compound Partners
-- [ ] Nicolai to organize design / ux direction (initially for django-filer svg enhancement, but with a bigger perspective in the mid term for django CMS v4 Community Release and headless django CMS initiatives
+- [x] Proposal for move to Github Action (Vinit)
+
 
 ## 04.12.2020
 
