@@ -5,6 +5,7 @@
 Present: Adam, Bhavesh, Joel, Mario, Marcus, Nicolai
 
 **Decisions**
+
 Budget
 * Budget approved in principle
 * Add cash reporting
