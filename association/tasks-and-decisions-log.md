@@ -1,5 +1,67 @@
 # Board Meeting Tasks and Decisions Log 
 
+## Monday 11.01.2020
+
+Executive Summary
+
+Present: Adam, Bhavesh, Joel, Mario, Marcus, Nicolai
+
+**Decisions
+
+Budget
+* Budget approved in principle
+* Add cash reporting
+* Quarterly review of the budget to adjust if needed
+* Approved Founding Member contributions for platinum membership
+* Decision on contingency budget delayed
+
+* Follow up on suggestion about new membership benefit: Security information one day in advance for members
+
+**Tasks
+
+* Nicolai to schedule meeting on voting rights policy
+
+
+
+## Monday 04.01.2021 (dCA Strategy 2021 Workshop)
+
+Executive Summary
+
+Present: Adam, Joel, Nicolai, Daniele, Iacopo, Jacob, Mario, Marcus, Luke
+
+**Decisions
+**Tasks 
+
+## Monday 28.12.2020
+
+Executive Summary
+
+Present: Mario & Nicolai
+
+**Decisions
+
+* Include marketing roadmap proposal into next week’s strategy workshop
+* Create attendance policy - suggestion: no board meetings during holiday season 
+
+**Tasks
+
+* Setup attendance policy on github and share with board
+
+## Monday 07.12.2020
+
+Executive Summary
+
+Present: Adam, Bhavesh, Mario, Joel 
+
+**Decisions
+
+* Joel to start preparing GA first week of January
+* Remind pending deals of budget planning to get deals closed in Q4
+
+**Tasks
+
+* Prepare Budget Report for GA (Marcus)
+
 ## Monday 30.11.2020
 
 **Executive Summary**
