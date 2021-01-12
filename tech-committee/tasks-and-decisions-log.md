@@ -46,7 +46,7 @@
 - [x] Invite django CMS 4 developers to documenation workshop (Andrew) 
 
 
-## 08.01.2021 (Today)
+## 08.01.2021 
 
 #### Agenda Points
 <small>TBD in in the first 5 min of the meeting</small>
