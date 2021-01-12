@@ -2,12 +2,9 @@
 
 ## Monday 11.01.2020
 
-Executive Summary
-
 Present: Adam, Bhavesh, Joel, Mario, Marcus, Nicolai
 
-**Decisions
-
+**Decisions**
 Budget
 * Budget approved in principle
 * Add cash reporting
@@ -17,62 +14,49 @@ Budget
 
 * Follow up on suggestion about new membership benefit: Security information one day in advance for members
 
-**Tasks
-
+**Tasks**
 * Nicolai to schedule meeting on voting rights policy
 
 
 
 ## Monday 04.01.2021 (dCA Strategy 2021 Workshop)
 
-Executive Summary
-
 Present: Adam, Joel, Nicolai, Daniele, Iacopo, Jacob, Mario, Marcus, Luke
 
-**Decisions
-**Tasks 
+**Decisions**
+**Tasks**
 
 ## Monday 28.12.2020
 
-Executive Summary
-
 Present: Mario & Nicolai
 
-**Decisions
-
+**Decisions**
 * Include marketing roadmap proposal into next week’s strategy workshop
 * Create attendance policy - suggestion: no board meetings during holiday season 
 
-**Tasks
-
+**Tasks**
 * Setup attendance policy on github and share with board
 
 ## Monday 07.12.2020
 
-Executive Summary
-
 Present: Adam, Bhavesh, Mario, Joel 
 
-**Decisions
-
+**Decisions**
 * Joel to start preparing GA first week of January
 * Remind pending deals of budget planning to get deals closed in Q4
 
-**Tasks
-
+**Tasks**
 * Prepare Budget Report for GA (Marcus)
 
 ## Monday 30.11.2020
 
-**Executive Summary**
-
 Present: Adam, Bhavesh, Mario, Joel 
 
-**Decisions
+**Decisions**
 * To create a QA program for service providers to spend QA ressources for the django CMS project during downtime 
 * To include updates of the Technical Committee in the Board Meeting regularly
 
-**Tasks
+**Tasks**
 * Joel to deal with the General Assembly formalities and start planning in early January 
 
 
@@ -82,8 +66,7 @@ Executive Summary
 
 Present: Mario, Adam, Bhavesh, (Joel)
 
-**Decisions
-
+**Decisions**
 * To have a discussion about QA ressource for django CMS in the next board meeting
 
 
