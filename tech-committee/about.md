@@ -18,6 +18,9 @@ The current members of the TC are:
 - Angelo Dini 
 - Victor Yunenko
 - Andrew Aikman 
+- Iacopo Spalleti 
+- Jacob Rief
+- Narender Bongoni 
 
 Want to join the TC? Please see below.
 
