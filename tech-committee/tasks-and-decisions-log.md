@@ -6,7 +6,8 @@
 - [this doc's hackmd url](https://hackmd.io/ddhvq_aqS6my9gwhLddyPg)
 - [this doc's github repo url](https://github.com/django-cms/django-cms-mgmt/blob/master/tech-committee/tasks-and-decisions-log.md)
 
-## 15.01.2021 (Next Meeting)
+
+## 15.01.2021
 
 #### Agenda Points
 <small>TBD in in the first 5 min of the meeting</small>
@@ -15,36 +16,26 @@
 2. Guest intro
 3. Review agenda and add missing points
 4. Varia: further points raised by Tech Committee members
-    - Approval of TC membership applications
-    - What template format the developers would need (Victor) - it was meant for "Varia"
-        - we could aim to provide
-            - a CLI
-            - a project example as djangocms-template
-            - both CLI and a project example?
-            - a project example with cookiecutter
-        - adding it to a general community survey could be a good idea
-        - tech brief draft - https://hackmd.io/@django-cms/workgroup-project-template
+    - [Announcement: New Tech Committee Members](https://github.com/django-cms/django-cms-mgmt/blob/master/tech-committee/about.md) 
+        - Approved by Tech Committee 
+        - Notes: Decision to give an update on how to become a TC member to the other regular TC weekly guests that were not on the call 
+    - If time left: [Review demo script](https://hackmd.io/fLGKNjtLTpu70k_xUV0r7A) (Andrew) 
+        - Notes: Nicolai to give feedback on the script and have a follow up meeting with Andrew to help with video recording etc. 
 6. Review Tasks
 7. News & updates for / from dCA Board and MarCom
-8. Review approve and post the meeting notes
+    - Andrew released a 3to4 migration script - community call for testing (Nicolai) 
+    - Daniele held a documentation workshop - send a summary to the community with quick wins / 1-2-3 docs instructions 
+9. Review approve and post the meeting notes
+
+
 
 #### Tasks & Initiatives
-- [ ] Give Vinit access to github org (Mario)
-- [ ] Record basic demo videos/a series of django CMS 4.0 to recruit volunteers for the workgroup (Andrew)
-- [ ] Mario to review https://jazzband.co/ and report on standardization strategies in next TC
-- [ ] Mario / Andrew to add code to v4 demo project repo
-- [ ] Andrew to release 3to4 script in repo
-- [ ] announce Testing & QA Contribution Program for service providers (for Nicolai)
-- [ ] Nicolai to onboard 2 devs from Compound Partners into v4 workgroup
-- [ ] Nicolai to organize design / ux direction (initially for django-filer svg enhancement, but with a bigger perspective in the mid term for django CMS v4 Community Release and headless django CMS initiatives
-- [ ] set up testing log (google spreadsheet?) - Nicolai
-- [ ] Formally phase out python 3.5 for `develop` branch (for upcoming v3.9) (Jacob Rief)
-- [ ] Provide db/media dump to Jacob Rief (Jacob Rief to ask Victor)
-- [ ] Set up CI/CD Pipeline (Jacob Rief) for PR and branch test servers
-- [ ] set up "search" workgroup and onboard workgroup members (proposal: focus on https://github.com/divio/djangocms-internalsearch for django CMS 4?) (Nicolai/Andrew)
-- [ ] search result workgroup to create a test link (Jean-Baptiste)
+- [x] Give Vinit access to github org (Nicolai)
+- [x] Mario to review https://jazzband.co/ and report on standardization strategies in next TC (Mario)
+- [X] Andrew to release 3to4 script in repo (Andrew) 
+- [X] Nicolai to onboard 2 devs from Compound Partners into v4 workgroup (Nicolai) 
+- [x] search result workgroup to create a test link (Jean-Baptiste)
 - [x] Invite django CMS 4 developers to documenation workshop (Andrew) 
-
 
 ## 08.01.2021 
 
