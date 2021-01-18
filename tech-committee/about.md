@@ -60,3 +60,4 @@ Membership on the TC will grant:
 - candidate will be informed about the outcome of the voting
 - candidate will be sent a dCA membership application if not a dCA member yet
 
+Do you have questions? Please reach out to nicolai@django-cms.org 
