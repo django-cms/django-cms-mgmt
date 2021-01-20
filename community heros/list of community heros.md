@@ -12,13 +12,13 @@ This is an overview of all the people who volunteer to make the open source djan
   - [@what.digital](https://what.digital), Switzerland
   - Python, django and django CMS full stack developer
 - Victor Yunenko
-  - ([@what.digital](https://what.digital), Ukraine
+  - [@what.digital](https://what.digital), Ukraine
   - Kotlin, Python, TypeScript, Rust, Django, Spring, VueJS, Angular
 - Andrew Aikman 
   - [@Eliga Services](https://eliga.services), UK
   - Python, Django, djangoCMS, Django Rest Framework, React, ES6
 - Iacopo Spalleti ([yakky](https://github.com/yakky))
-  - ([@Nephila](https://www.nephila.digital/en/)
+  - [@Nephila](https://www.nephila.digital/en/)
   - Python, Django, VueJS
 - Jacob Rief
 - Samuel Paccoud
