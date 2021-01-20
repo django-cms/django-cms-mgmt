@@ -9,7 +9,7 @@ This is an overview of all the people who volunteer to make the open source djan
 
 - Daniele Procida
 - Angelo Dini 
-- Mario [macolo](https://github.com/macolo)
+- Mario ([macolo](https://github.com/macolo))
   - [@what.digital](https://what.digital), Switzerland
   - Python, django and django CMS full stack developer
 - Victor Yunenko
