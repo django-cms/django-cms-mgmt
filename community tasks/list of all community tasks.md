@@ -19,8 +19,6 @@ This is an overview of all the tasks in the django CMS community. As you can see
 - Review [Pull Requests on Github](https://github.com/django-cms/django-cms/pulls)  
 - Host a workshop 
 
-
-
 ## How to sign up for a task
 
 1. Choose a community task 
@@ -30,6 +28,10 @@ This is an overview of all the tasks in the django CMS community. As you can see
 3. Get onboarded and start with the task
 
 4. Become a Community Hero
+
+## Our Community Heros
+
+These are the amazing [people](https://github.com/django-cms/django-cms-mgmt/blob/master/community%20heros/list%20of%20community%20heros.md) who contribute to the django CMS project
 
 
 ## Contribute to django CMS and win rewards!
