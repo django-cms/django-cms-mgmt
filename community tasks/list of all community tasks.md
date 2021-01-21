@@ -34,5 +34,5 @@ This is an overview of all the tasks in the django CMS community. As you can see
 
 ## Contribute to django CMS and win rewards!
 
-After you have decided to become a Community Hero, you should take a look at our [Developer Bounty Program](https://www.django-cms.org/en/bounty-program/). 
+After you have decided to contribute, you should take a look at our [Developer Bounty Program](https://www.django-cms.org/en/bounty-program/). 
 
