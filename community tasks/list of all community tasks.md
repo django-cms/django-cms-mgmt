@@ -13,10 +13,10 @@ This is an overview of all the tasks in the django CMS community. As you can see
   - Webinars
   - Podcasts
 - User Support
-  - In our #support Channel on Slack
-  - Stackoverflow 
-  - Github 
-- Review Pull Requests on Github 
+  - In our #support Channel on [Slack](www.django-cms.org/slack)
+  - [Stackoverflow ](https://stackoverflow.com/questions/tagged/django-cms)
+  - [Github](https://github.com/django-cms/django-cms) 
+- Review [Pull Requests on Github](https://github.com/django-cms/django-cms/pulls)  
 - Host a workshop 
 
 
