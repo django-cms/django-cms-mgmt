@@ -10,13 +10,15 @@ This is an overview of all the tasks in the django CMS community.
   - (Video) Tutorials
   - How to Guides 
   - Case Studies 
+  - Webinars
+  - Podcasts
 - User Support
   - In our #support Channel on Slack
   - Stackoverflow 
   - Github 
-- Review Pull Requests 
+- Review Pull Requests on Github 
 - Host a workshop 
-- Create a podcast 
+
 
 
 ## How to sign up for a task
