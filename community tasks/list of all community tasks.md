@@ -5,7 +5,7 @@ This is an overview of all the tasks in the django CMS community. As you can see
 ## Community Tasks 
 
 - Develop django CMS 
-- Create Content for django-cms.org
+- Create Content for django CMS and release it on www.django-cms.org
   - Articles about django CMS 
   - (Video) Tutorials
   - How to Guides 
