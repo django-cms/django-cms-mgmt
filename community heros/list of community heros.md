@@ -23,6 +23,7 @@ This is an overview of all the people who volunteer to make the open source djan
   - [@Nephila](https://www.nephila.digital/en/), Italy
   - Python, Django, VueJS
 - Jacob Rief ([jrief](https://github.com/jrief))
+  - [@Awesto](https://awesto.com/de/), Austria
 - Samuel Paccoud ([sampaccoud](https://github.com/sampaccoud))
   - [@FUN](https://www.fun-mooc.fr), France
 - Mehdi Benadda ([mbenadda](https://github.com/mbenadda))
