@@ -55,4 +55,4 @@ No matter if you are a developer, usability enthusiast, designer or copywriter. 
 
 ## Contribute to django CMS and win rewards!
 
-After you have decided to become a Community Hero, you should take a look at our [Developer Bounty Program](https://www.django-cms.org/en/bounty-program/). 
+After you have decided to contribute, you should take a look at our [Developer Bounty Program](https://www.django-cms.org/en/bounty-program/). 
