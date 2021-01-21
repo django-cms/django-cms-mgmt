@@ -6,12 +6,12 @@ This is an overview of all the people who volunteer to make the open source djan
 ## Contributors to the open source django CMS project 
 
 
-- Daniele Procida
-- Angelo Dini 
+- Daniele Procida ([evildmp](https://github.com/evildmp))
+- Angelo Dini ([FinalAngel](https://github.com/FinalAngel))
 - Mario ([macolo](https://github.com/macolo))
   - [@what.digital](https://what.digital), Switzerland
   - Python, django and django CMS full stack developer
-- Victor Yunenko
+- Victor Yunenko ([victor-yunenko](https://github.com/victor-yunenko))
   - [@what.digital](https://what.digital), Ukraine
   - Kotlin, Python, TypeScript, Rust, Django, Spring, VueJS, Angular
 - Andrew Aikman 
