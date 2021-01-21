@@ -7,29 +7,35 @@ This is an overview of all the people who volunteer to make the open source djan
 
 
 - Daniele Procida ([evildmp](https://github.com/evildmp))
+  - [@Divio](https://www.divio.com), Wales
 - Angelo Dini ([FinalAngel](https://github.com/FinalAngel))
+  - [@Divio](https://www.divio.com), Switzerland
 - Mario ([macolo](https://github.com/macolo))
   - [@what.digital](https://what.digital), Switzerland
   - Python, django and django CMS full stack developer
 - Victor Yunenko ([victor-yunenko](https://github.com/victor-yunenko))
   - [@what.digital](https://what.digital), Ukraine
   - Kotlin, Python, TypeScript, Rust, Django, Spring, VueJS, Angular
-- Andrew Aikman 
+- Andrew Aikman ([Aiky30](https://github.com/Aiky30))
   - [@Eliga Services](https://eliga.services), UK
   - Python, Django, djangoCMS, Django Rest Framework, React, ES6
 - Iacopo Spalleti ([yakky](https://github.com/yakky))
-  - [@Nephila](https://www.nephila.digital/en/)
+  - [@Nephila](https://www.nephila.digital/en/), Italy
   - Python, Django, VueJS
-- Jacob Rief
-- Samuel Paccoud
-- Mehdi
-- Jean-Baptiste
-- Narender Bongoni 
+- Jacob Rief ([jrief](https://github.com/jrief))
+- Samuel Paccoud ([sampaccoud](https://github.com/sampaccoud))
+  - [@FUN](https://www.fun-mooc.fr), France
+- Mehdi Benadda ([mbenadda](https://github.com/mbenadda))
+  - Freelancer, France
+- Jean-Baptiste ([jbpenrath](https://github.com/jbpenrath))
+  - [@FUN](https://www.fun-mooc.fr), France
+  - Django, React
+- Narender Bongoni ([NarenderRajuB](https://github.com/NarenderRajuB))
 - Alex Cudreasov
   - Freelancer, Germany
   - Django, ES6/TS
 - Vinit Kumar ([vinitkumar](https://github.com/vinitkumar))
-  - [@Socialschools](https://www.socialschools.nl)
+  - [@Socialschools](https://www.socialschools.nl), India
   - Python, Django, Go, and Node.js
 - Nicolai Ridani ([NicolaiRidani](https://github.com/NicolaiRidani))
   - [@django CMS Association](https://www.django-cms.org/en/ ), Germany 
