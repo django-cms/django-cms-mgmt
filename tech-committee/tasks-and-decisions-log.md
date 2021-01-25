@@ -7,6 +7,36 @@
 - [this doc's github repo url](https://github.com/django-cms/django-cms-mgmt/blob/master/tech-committee/tasks-and-decisions-log.md)
 
 
+## 22.01.2021 
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Guest intro
+    - Simon 
+    - Jens-Erik (https://passiv.de) - member of the dCA 
+4. Review agenda and add missing points
+5. Varia: further points raised by Tech Committee members 
+    - Update: Iacopo on sick leave
+    - Update: New [Discord Server](https://discord.gg/PGEDT44h8A)  
+        - Note: Extend permissions  
+    - Update: ["Call for arms" Campaign](https://www.django-cms.org/en/become-community-hero)
+    - Update: Pull Requests - who can help?
+        - [The slugs of child pages are built incorrectly and return a 404 error when a user adds a custom slug for another language of the parent page #6622](https://github.com/django-cms/django-cms/issues/6622#issuecomment-763574095)
+        - [pagetree search results are foldable #6961](https://github.com/django-cms/django-cms/pull/6961) 
+        - [Cache not invalidated when using a PlaceholderField outside the CMS #6912 #6956](https://github.com/django-cms/django-cms/pull/6956)
+        - [Updated Documentation](https://github.com/django-cms/django-cms/pull/6964)
+        - Note: Update Testing Documenation, Documentation Writing Session (2-3 people) -> Nicolai 
+    - Update: [Documentation Workshop](https://www.django-cms.org/en/blog/2021/01/22/3-learnings-from-our-documentation-workshop/)  
+7. Review Tasks
+8. News & updates for / from dCA Board and MarCom 
+9. Review approve and post the meeting notes
+
+#### Tasks & Initiatives
+- [x] Send a summary to the community with quick wins / 1-2-3 docs 
+
+
 ## 15.01.2021
 
 #### Agenda Points
