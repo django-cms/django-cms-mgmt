@@ -1,5 +1,7 @@
 # Board Meeting Tasks and Decisions Log 
 
+## Monday 25.01.2021
+
 **Executive Summary**
 
 Present: Bhavesh, Joel, Mario, Nicolai 
