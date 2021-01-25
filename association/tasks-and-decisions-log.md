@@ -1,6 +1,32 @@
 # Board Meeting Tasks and Decisions Log 
 
-## Monday 11.01.2020
+**Executive Summary**
+
+Present: Bhavesh, Joel, Mario, Nicolai 
+
+**Decisions**
+- Nicolai's goals approved
+
+**Tasks** 
+- [ ] Research differences between Wagtail and django CMS and create comparison article (Tech Committe + Marketing)
+- [ ] Get in touch with Torchbox (to create a fair comparison table) (Joel)
+
+## Monday 18.01.2021
+
+**Executive Summary**
+
+Present: Joel, Bhavesh, Mario, Nicolai 
+
+**Decisions**
+
+**Tasks** 
+- [ ] Create summary of documentation workshop -> actionable tasks / applicable to django CMS project 
+- [ ] Update documentation guidelines / policy ->
+- [ ] Research differences between Wagtail and django CMS and create comparison article (Tech Committe + Marketing)
+- [ ] Get in touch with Torchbox (to create a fair comparison table) (Joel)
+
+
+## Monday 11.01.2021
 
 Present: Adam, Bhavesh, Joel, Mario, Marcus, Nicolai
 
