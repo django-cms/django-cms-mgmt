@@ -4,7 +4,8 @@ This is an overview of all the tasks in the django CMS community. As you can see
 
 ## Community Tasks 
 
-- Help with django CMS development and join a [workgroup](https://github.com/django-cms/django-cms-mgmt/blob/master/work%20contribution/work%20groups.md):
+- Help with django CMS development and join a [workgroup](https://github.com/django-cms/django-cms-mgmt/blob/master/work%20contribution/work%20groups.md)
+  A selection of our workgroups:
   - django CMS 4.0 (Slack: #workgroup-django-cms-4-0 | [Tech Brief](https://hackmd.io/5Sj6X5XhTJOmZgNj8e_KCw))
   - CKEditor5 (Slack: #workgroup-ckeditor5 | [Tech Brief](https://hackmd.io/@django-cms/workgroup-ckeditor5))
   - Project template (Slack: #workgroup-project-template | [Tech Brief](https://hackmd.io/@django-cms/workgroup-project-template))
@@ -13,6 +14,7 @@ This is an overview of all the tasks in the django CMS community. As you can see
   - Release Management (Slack: #workgroup-release-management | [Tech Brief](https://hackmd.io/NP5OFRy9T7ONH4mJb4FF9g))
   - Pull Request Review (Slack: #workgroup-pr-review) 
   - Documentation (Slack: #workgroup-documentation)
+  - more [workgroups](https://github.com/django-cms/django-cms-mgmt/blob/master/work%20contribution/work%20groups.md)
 - Create Content for django CMS and release it on www.django-cms.org
   - Blog Article 
   - (Video) Tutorials
