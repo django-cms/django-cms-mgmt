@@ -8,6 +8,9 @@ This is an overview of all the tasks in the django CMS community. As you can see
   - django CMS 4.0 (Slack: #workgroup-django-cms-4-0 | [Tech Brief](https://hackmd.io/5Sj6X5XhTJOmZgNj8e_KCw))
   - CKEditor5 (Slack: #workgroup-ckeditor5 | [Tech Brief](https://hackmd.io/@django-cms/workgroup-ckeditor5))
   - Project template (Slack: #workgroup-project-template | [Tech Brief](https://hackmd.io/@django-cms/workgroup-project-template))
+  - djangocms-transfer evolution (Slack: #workgroup-pages-import-export | [Proposal](https://gitlab.com/what-digital/djangocms-transfer))
+  - boostrap4 / responsive grid improvements ([Issue](https://gitlab.com/what-digital/django-cms-association/-/issues/199)) 
+  - Release Management (Slack: #workgroup-release-management | [Tech Brief](https://hackmd.io/NP5OFRy9T7ONH4mJb4FF9g))
   - Pull Request Review (Slack: #workgroup-pr-review) 
   - Documentation (Slack: #workgroup-documentation)
 - Create Content for django CMS and release it on www.django-cms.org
