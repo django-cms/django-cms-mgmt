@@ -35,10 +35,9 @@ Members
 
 ## Tech Committee
 
-- [Mario Colombo](https://www.linkedin.com/in/mario-colombo/)
-- [Andrew Aikman](https://www.linkedin.com/in/andrewaikman/)
-- [Angelo Dini](https://www.linkedin.com/in/angelo-dini/)
+The TC prepares and updates the technical roadmap for approval by the Executive Board and/or the General Assembly, manages incoming feature requests and proposals and takes decisions on awarding credits for work submitted by members.
 
+[Members](It prepares and updates the technical roadmap for approval by the Executive Board and/or the General Assembly, manages incoming feature requests and proposals and takes decisions on awarding credits for work submitted by members.)
 
 ## Roles & Responsibilties 
 
@@ -47,6 +46,8 @@ The responsibility for the django CMS project is shared on the shoulders of many
 - [Roles & Responsibilities](https://docs.google.com/document/d/1UPnQ81s0EaXfOJ3gggj31U-TLGmMUv33aFecEcf0nag/edit?ts=5f71d9cb#)  
 
 ## Contributors 
+
+[List of contributors](https://github.com/django-cms/django-cms-mgmt/blob/master/community%20heros/list%20of%20community%20heros.md)
 
 ## Tasks
 
