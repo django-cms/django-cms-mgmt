@@ -10,7 +10,7 @@
    
 - Contribution 
    - [Community Heros](https://github.com/django-cms/django-cms-mgmt/blob/master/community%20heros/list%20of%20community%20heros.md)
-   - [workgroups](https://github.com/django-cms/django-cms-mgmt/blob/master/work%20contribution/work%20groups.md)
+   - [Workgroups](https://github.com/django-cms/django-cms-mgmt/blob/master/work%20contribution/work%20groups.md)
    - [Roles & Responsibilities in the dCA](https://docs.google.com/document/d/1UPnQ81s0EaXfOJ3gggj31U-TLGmMUv33aFecEcf0nag/edit?ts=5f71d9cb#)
    - [dCA members directory](https://www.django-cms.org/en/our-members)
    - [Memberships](https://www.django-cms.org/en/about-us/)
