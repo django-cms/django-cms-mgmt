@@ -16,7 +16,7 @@ As non-profit organization, the dCA is dependent on donations from the django CM
 
 You can also contribute to the dCA through work contribution. Find out more *[here](https://www.django-cms.org/en/become-community-hero/)*
 
-[Member directory](https://www.django-cms.org/en/our-members/)
+[Members directory](https://www.django-cms.org/en/our-members/)
 
 ## Statutes
 
