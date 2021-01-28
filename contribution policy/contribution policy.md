@@ -8,11 +8,11 @@ Everyone who contributes to the django CMS project is required to abide by the C
 
 ## Contributing Marketing & Support Content (Work in Progress)
 
-# Write an article for our blog 
+### Write an article for our blog 
 
-# Create a tutorial Video 
+### Create a tutorial Video 
 
-# Run a workshop 
+### Run a workshop 
 
 ## Contributing Documentation
 
