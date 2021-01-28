@@ -16,6 +16,8 @@ As non-profit organization, the dCA is dependent on donations from the django CM
 
 You can also contribute to the dCA through work contribution. Find out more *[here](https://www.django-cms.org/en/become-community-hero/)*
 
+[Member directory](https://www.django-cms.org/en/our-members/)
+
 ## Statutes
 
 Read more about the different organs (General Assembly, Executive Committee, etc.), the voting rights and other regulations of the association in our [statutes
