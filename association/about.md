@@ -57,8 +57,12 @@ All decisions and tasks of the Executive Board of the dCA can be viewed in the T
 
 - [Task & Decision Log](https://github.com/django-cms/django-cms-mgmt/blob/master/association/tasks-and-decisions-log.md)  
 
+## Administration & Accounting
 
-## Processes
+Billing policy: Services provided to the django CMS Association are to be billed on an hourly basis according to time spent. 
+
+
+# Processes
 
 ### Become a member of the django CMS Association
 
