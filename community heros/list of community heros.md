@@ -49,7 +49,7 @@ This is an overview of all the people who volunteer to make the open source djan
 
 No matter if you are a developer, usability enthusiast, designer or copywriter. Young or old. Experienced or inexperienced. Every helping hand is welcome. Pick a community task, reach out to us and start with helping us to bring django CMS to the next level. 
 
-1. Check out our list of all community tasks
+1. Check out our list of all [community tasks](https://github.com/django-cms/django-cms-mgmt/blob/master/community%20tasks/list%20of%20all%20community%20tasks.md)
 2. [Sign up for work contribution](https://www.django-cms.org/en/sign-up-work-contribution/)
 3. Get started 
 
