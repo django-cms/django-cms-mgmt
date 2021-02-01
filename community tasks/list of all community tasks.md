@@ -20,11 +20,12 @@ This is an overview of all the tasks in the django CMS community. As you can see
   - How to Guide: Make it easier for django CMS beginners to get started by writing a How To Guide for a django CMS topic.  
   - Case Study: Help us showcase the potential django CMS has for others, and increase awareness of your project, by sharing a case study of your lighthouse project.
   - Webinars: Host a webinar and present your project or a topic of your choice to the django CMS community. 
-- User Support
-  - In our #support Channel on [Slack](www.django-cms.org/slack)
-  - [Stackoverflow ](https://stackoverflow.com/questions/tagged/django-cms)
-  - [Github](https://github.com/django-cms/django-cms) 
-- Review [Pull Requests on Github](https://github.com/django-cms/django-cms/pulls)  
+- Help us with user support and make django CMS a compelling experience for our user base
+  -  Answer support queries in 
+    - our #support Channel on [Slack](www.django-cms.org/slack)
+    - on [Stackoverflow ](https://stackoverflow.com/questions/tagged/django-cms)
+    - in our [Discourse](https://discourse.django-cms.org) forum
+- Review [Pull Requests on Github](https://github.com/django-cms/django-cms/pulls) and decide with us in which direction django CMS moves. 
 - Host a workshop 
 
 ## How to sign up for a task
