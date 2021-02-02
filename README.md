@@ -23,7 +23,7 @@
    - [Code of conduct](http://docs.django-cms.org/en/latest/contributing/code_of_conduct.html)  
    
  ## Support
-   - [Support channels (Slack, Forum, Stackoverflow)](https://github.com/django-cms/django-cms-mgmt/blob/master/support%20channels/support%20channels.md) (
+   - [Support channels](https://github.com/django-cms/django-cms-mgmt/blob/master/support%20channels/support%20channels.md) 
    - [Documentation](https://docs.django-cms.org/en/latest/index.html)
   
 ## Product Management
