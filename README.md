@@ -19,6 +19,7 @@
 
 ## Community (Activities & Events) 
    - Weekly event: [Tech committee meeting (open for all)](https://github.com/django-cms/django-cms-mgmt/blob/master/community%20and%20support/weekly%20tech%20committee%20meeting.md) 
+   - [Slack](https://www.django-cmx.org/slack) & [Discord](https://discord.com/invite/PGEDT44h8A) 
    - [Code of conduct](http://docs.django-cms.org/en/latest/contributing/code_of_conduct.html)  
    
  ## Support
