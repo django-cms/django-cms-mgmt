@@ -4,8 +4,8 @@
    - [About the dCA (mission, tasks & processes)](/association/about.md)
    - [Tasks & Decisions Log](/association/tasks-and-decisions-log.md)
    - [Roles & Responsibilities in the dCA](https://docs.google.com/document/d/1UPnQ81s0EaXfOJ3gggj31U-TLGmMUv33aFecEcf0nag/edit?ts=5f71d9cb#)
-   - [dCA members directory](https://www.django-cms.org/en/our-members)
-   - [Memberships](https://www.django-cms.org/en/about-us/)
+   - [Members directory](https://www.django-cms.org/en/our-members)
+   - [Sign up for memberships](https://www.django-cms.org/en/about-us/)
     
 ## Tech Committee
    - [About the Tech Committee (mission, tasks & processes)](/tech-committee/about.md)
