@@ -3,7 +3,7 @@
 We are very thankful for all our supporters, be it individual volunteers or companies. Without their help and support this project would not be possible. 
 
 
-## Individual Members 
+## Individual Members / Supporters
 
 - Louis Haddrell	
 - Adam Murray	
@@ -37,23 +37,23 @@ We are very thankful for all our supporters, be it individual volunteers or comp
 
 ## Company Members 
 
-- [Divio](https://www.divio.com)
-- [what.digital](https://what.digital)
-- [Eliga Services](http://eliga.services)
-- [bnzk](https://bnzk.ch/de/)
-- [Energie360°](https://www.energie360.ch)
-- [Kingpin Apps](https://kingpinapps.com)
-- [Zürisee Media AG](https://www.zsm.ch)
-- [Compound Partners](https://compoundpartners.co.uk)
-- [Lincoln Loop](https://lincolnloop.com)
-- [Supertext AG](https://www.supertext.com)
-- [Nephila](https://www.nephila.digital/en/)
-- [Kuwaitnet](https://kuwaitnet.com)
-- [France Université Numérique](https://www.fun-mooc.fr)
-- [Netspectrum](https://www.netspectrum.de)
-- [Descript GmbH](https://www.descript.de)
-- [Matific](https://www.matific.com/deu/de/home/)
-- [Peter D Bethke](https://www.linkedin.com/in/peter-d-bethke-07b26b/)
-- [expositio](https://www.expositio.de)
-- [D-Modules](https://www.d-modules.com/fr/)
-- [Emencia](https://www.emencia.com/en/)
+- [Divio](https://www.divio.com) - Platinum 
+- [what.digital](https://what.digital) - Platinum 
+- [Eliga Services](http://eliga.services) - Platinum 
+- [Nephila](https://www.nephila.digital/en/) - Gold
+- [Zürisee Media AG](https://www.zsm.ch) - Gold 
+- [Lincoln Loop](https://lincolnloop.com) - Gold 
+- [Kuwaitnet](https://kuwaitnet.com) - Gold 
+- [France Université Numérique](https://www.fun-mooc.fr) - Gold 
+- [Energie360°](https://www.energie360.ch) - Silver 
+- [Kingpin Apps](https://kingpinapps.com) - Bronze 
+- [bnzk](https://bnzk.ch/de/) - Bronze 
+- [Compound Partners](https://compoundpartners.co.uk) - Bronze
+- [Supertext AG](https://www.supertext.com) - Bronze 
+- [Netspectrum](https://www.netspectrum.de) - Bronze
+- [Descript GmbH](https://www.descript.de) - Bronze 
+- [Matific](https://www.matific.com/deu/de/home/) - Bronze
+- [Peter D Bethke](https://www.linkedin.com/in/peter-d-bethke-07b26b/) - Bronze
+- [expositio](https://www.expositio.de) - Bronze 
+- [D-Modules](https://www.d-modules.com/fr/) - Bronze
+- [Emencia](https://www.emencia.com/en/) - Bronze 
