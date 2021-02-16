@@ -43,7 +43,7 @@ This is an overview of all the people who volunteer to make the open source djan
   - Growth Marketing / Community Management / Sales 
 - Simon Krull ([crydotsnake](https://github.com/crydotsnake))
   - Hobby developer, Germany 
-- Mahmud Fatullayev 
+- Mahmud Fatullayev ([mahmudft](https://github.com/mahmudft)) 
   - Developer, Azerbaijan
   - Python, JS Go and newly Ml
   
