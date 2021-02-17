@@ -33,6 +33,7 @@ We are very thankful for all our supporters, be it individual volunteers or comp
 - Jens-Erik Weber	
 - Bernard Van Der Vyver	
 - Francesco Verde 
+- Marcel Wyser
 
 
 ## Company Members 
