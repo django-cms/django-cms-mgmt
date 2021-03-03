@@ -46,6 +46,11 @@ This is an overview of all the people who volunteer to make the open source djan
 - Mahmud Fatullayev ([mahmudft](https://github.com/mahmudft)) 
   - Developer, Azerbaijan
   - Python, JS Go and newly Ml
+- Paul Venutra ([pmventura](https://github.com/pmventura)) 
+  - Software Engineer, Philippines
+  - Python, NodeJS, PHP, React  
+- Anatolly Ivanov 
+  
   
 
 ## Do you also want to become a Community Hero? 
