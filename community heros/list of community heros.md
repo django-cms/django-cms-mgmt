@@ -49,7 +49,7 @@ This is an overview of all the people who volunteer to make the open source djan
 - Paul Venutra ([pmventura](https://github.com/pmventura)) 
   - Software Engineer, Philippines
   - Python, NodeJS, PHP, React  
-- Anatolly Ivanov ([tiredfingers](github.com/tiredfingers)) 
+- Anatolly Ivanov ([tiredfingers](https://github.com/tiredfingers)) 
   -  Backend Developer, Russia
   -  Django
 - Mark Walter ([marksweb](https://github.com/marksweb)) 
