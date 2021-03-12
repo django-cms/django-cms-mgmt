@@ -4,7 +4,7 @@
 - [Weekly Member Acquisition Report]( https://docs.google.com/presentation/d/1m8WegURHri5U2hD-dSGTma05E2dlH6miikEnlPtDpbQ/)
 
 
-## 01.03.2021 Committee Meeting (Next week)
+## 01.03.2021 Committee Meeting
 
 *This protocol is deemed accepted unless written notification*
 
@@ -39,7 +39,7 @@ Adam, Bhavesh, Joel, Mario, Nicolai
 
 
 
-## 22.02.2021 Committee Meeting (Next week)
+## 22.02.2021 Committee Meeting
 
 - [ ] [Weekly Sales Report](https://docs.google.com/presentation/d/1m8WegURHri5U2hD-dSGTma05E2dlH6miikEnlPtDpbQ/)
 - [ ] Update: [Final Budget](https://docs.google.com/presentation/d/1tILMuiBfZGAAD3yfxPGAB0ORZXU4cx3u9QbI_uBgwB4/)
@@ -59,7 +59,7 @@ Present: Adam, Mario, Joel
 
 
 
-## 15.02.2021 Committee Meeting (Today)
+## 15.02.2021 Committee Meeting
 
 - [ ] [Weekly Sales Report](https://docs.google.com/presentation/d/1m8WegURHri5U2hD-dSGTma05E2dlH6miikEnlPtDpbQ/)
 
