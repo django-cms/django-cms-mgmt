@@ -31,7 +31,7 @@
 - [ ] django-treebeard 4.5.1 fix released in 3.7 and 3.8 (**blocked**) 
 - [ ] Nicolai to post an announcement about us looking for support with github issues periodical review, cleanup and organization, as a part of PR workgroup (Nicolai)
 
-## 12.03.2021 (Today)
+## 12.03.2021
 
 #### Agenda Points
 <small>TBD in in the first 5 min of the meeting</small>
