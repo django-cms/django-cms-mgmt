@@ -6,6 +6,251 @@
 - [this doc's hackmd url](https://hackmd.io/ddhvq_aqS6my9gwhLddyPg)
 - [this doc's github repo url](https://github.com/django-cms/django-cms-mgmt/blob/master/tech-committee/tasks-and-decisions-log.md)
 
+## 19.03.2021 (Next Week)
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Guest(s) intro
+4. Review agenda and add missing points
+5. Varia: further points raised by Tech Committee members
+6. Review Tasks
+7. News & updates for / from dCA Board and MarCom
+9. Review approve and post the meeting notes
+
+#### Tasks & Initiatives
+- [ ] Nicolai help to provide clear instructions for integrating PRs / contributing code (i.e. step by step instructions like 1. adhere to rules for PRs, 2. look for a buddy, 3....) also see jazzband.co
+- [ ] Django CMS 4.0 Quickstart project working branch (Andrew)
+- [ ] Have a workgroup django filer call to discuss django-parler and "upload empty files" (Jacob)
+- [ ] Present the PR's about MenuRenderer & ModalDialog to PR Review (Jacob)
+- [ ] Test CMS with django-filer https://pypi.org/project/django-filer/2.1rc3/ (all)
+- [ ] Vinit to test Dash and to present results
+- [ ] Shall djangocms-admin-style be mandatory? We don't use and need it, but this can cause issues. Requires some research (Jacob)
+- [ ] Create communication about first v4 milestone to cause buzz after quickstart is finished (Nicolai) 
+- [ ] django-treebeard 4.5.1 fix released in 3.7 and 3.8 (**blocked**) 
+- [ ] Nicolai to post an announcement about us looking for support with github issues periodical review, cleanup and organization, as a part of PR workgroup (Nicolai)
+
+## 12.03.2021 (Today)
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Guest(s) intro
+    - Wojciech Szydlo (@easyembedded.co.uk)
+    - Andrzej Szydlo (@easyembedded.co.uk)
+    - Sankar 
+4. Review agenda and add missing points
+5. Varia: further points raised by Tech Committee members 
+    - Update: Github Action (Andrew & Vinit)
+        - https://github.com/SocialSchools/django-cms/runs/2094803750?check_suite_focus=true
+        - https://packaging.python.org/guides/publishing-package-distribution-releases-using-github-actions-ci-cd-workflows/
+        - Set up a call with Mario, Vinit, Andrew and Andrzej to document process 
+    - Update:  djangocms-blog - Jens-Erik needs support
+        - djangocms-blog is maintained by Nephila
+        - Jens-Erik to create a ticket at nephila/djangocms-blog repository 
+    - Django CMS 4.0 Quick Start package with examples for newbies to encourage to 4.0 instead of 3.x? (Andrew S)
+        - Create branch (support/cms-4.0.x)
+        - Wojciech to assist with onboarding of new users 
+    - Andrew would like to discuss cms Test Matrix findings at the end of the meeting
+        - Andrew would like to discuss if the divio ReadTheDocs org should be replaced withour own org or maybe there is a different solution alltogether. We could host the django-CMS documentation directly as a menu inside the site promoting django-CMS itself (https://www.django-cms.org). Jacob wrote a plugin to do that.
+6. Review Tasks
+7. News & updates for / from dCA Board and MarCom
+    - Nicolai to post an announcement about us looking for support with github issues periodical review, cleanup and organization, as a part of PR workgroup
+    - Announcement django CMS 4.0 milestone 
+        - I need more infos here
+9. Review approve and post the meeting notes
+
+#### Tasks & Initiatives
+- [x] Provide demo pictures for django filer
+
+
+
+## 05.03.2021
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Guest(s) intro
+3. Review agenda and add missing points
+4. Varia: further points raised by Tech Committee members 
+    - [Nicolai & Victor] proposition - review the github issues backlog periodically (eg once per month)
+        - Andrew was managing PR workgroup when he could, but he needs support
+        - We agree that we need a periodic call
+        - Nicolai to post an announcement about us looking for support with github issues periodical review, cleanup and organization. As a part of PR workgroup.
+6. Review Tasks
+7. News & updates for / from dCA Board and MarCom
+8. Review approve and post the meeting notes
+
+#### Tasks & Initiatives
+- [x] Django CMS Demo - fix the deployment (Victor & Angelo)
+
+
+## 26.02.2021 
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Guest(s) intro
+    - (Deniz) (workgroups: TBA)
+    - Paul (workgroups: v4 & Django 3.2)
+    - Francesco (workgroups: v4 & Django 3.2)
+    - Anatolly
+4. Review agenda and add missing points
+5. Varia: further points raised by Tech Committee 
+    - Info Update: Next TC meeting - Nicolai absence - Who can lead the meeting? -> Andrew  
+7. Review Tasks
+8. News & updates for / from dCA Board and MarCom
+    - Milestone: Working v4 project - boot up and test 
+10. Review approve and post the meeting notes
+
+#### Tasks & Initiatives
+- [x] django CMS 4.0 Quickstart project working branch 
+- [x] Create new workgroup for Django 3.2 (Nicolai)
+
+
+
+## 19.02.2021
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Guest(s) intro
+    - Marcel 
+    - Anatolly
+    - Francesco
+4. Review agenda and add missing points
+5. Varia: further points raised by Tech Committee members 
+    - Update: Treebeard issue (Andrew)
+            - main concern: content being lost (fundamental flaw in the cms) / not a problem of v4 
+        - What are our learnings? 
+            - keep the branches up to date (maintenance)
+            - CMS CI high priority / speed up Github Action -> Vinit will proceed
+    - Update: Release 3.9 - What needs to be done?
+        - Video Tutorial "[How to do a release](https://drive.google.com/drive/folders/1j7yLnLpWGl-s-q4drVSkwoyq6KVebs_t)" by Angelo 
+        - #workgroup-release-management 
+7. Review Tasks
+8. News & updates for / from dCA Board and MarCom
+    - Announcing EOL for django CMS 3.6
+9. Review approve and post the meeting notes
+
+#### Tasks & Initiatives
+- [x] Nicolai to adjust issue templates for better issue management 
+
+
+
+## 12.02.2021 
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Guest intro
+    - Mahmud
+4. Review agenda and add missing points
+5. Varia: further points raised by Tech Committee members 
+    - Update Contributor Onboarding / Issue Management (Mario, Vinit, Victor, Nicolai)
+        - we should improve the workgroup description and move the details into tech briefs where possible
+        - we will improve the issues templates
+        - we need to assign responsible people for the tickets review, eg as part of the #workgroup-pr-review
+            - we also can better issue labels, eg "needs-volunteers"  
+        - Notes:
+            - Issue Triage necessary
+            - Ask dCA members for contribution 
+6. Review Tasks
+7. News & updates for / from dCA Board and MarCom
+    - django CMS demo is not working (Victor and Angelo are working on the fix)
+    - Wagtail Sprint event as an example for open source events 
+9. Review approve and post the meeting notes
+
+#### Tasks & Initiatives
+- [x] Share Google doc to blog article with TC team on Slack (Nicolai)
+- [x] Fork quickstarter project on Github (Vinit)
+
+
+
+## 05.02.2021
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Guest intro
+    - Vel (https://github.com/vkuberan)
+4. Review agenda and add missing points
+5. Varia: further points raised by Tech Committee members 
+    - Update: Help us improve [django CMS vs Wagtail article ](https://www.django-cms.org/en/blog/2021/02/03/django-cms-vs-wagtail-which-cms-is-best-for-your-website/)
+        - Notes:
+            - Share google doc with tc team on Slack  
+            - Who is the target the audience? Developer or people who evaluate? Maybe we need two comparison articles 
+    - Update django filer (Jacob)
+        - In django-filer, shall we allow to upload empty files?
+        - Notes: 
+            - Jacob: "Not allow it, because it makes no sense" 
+        - How to handle fields containing human readable strings for multilingual installations. Shall we depend on django-parler?
+        - Notes:
+            - Discuss in a separate call 
+        - We must update django-filer's docs. For this we need demo images to create screenshots using the new SVG based icons.
+        - Notes: 
+            - Daniele has no capacities to write documentation atm 
+            - Find community help for documentation 
+            - Proposal by Andrew: Define what is required / a list of things that need to be changed )
+    - Update Github Action (Vinit)? 
+        - Next Steps: 
+            - dCA to fork it 
+            - Keep aware of upstream changes 
+    - Update: Possibility to Sphinx generated documentation inside django CMS instance -> please reach out to jacob for more information 
+7. Review Tasks
+8. News & updates for / from dCA Board and MarCom 
+9. Review approve and post the meeting notes
+
+#### Tasks & Initiatives
+workgroup to get a decision on how to move forward with it (Jacob) 
+- [x] Coordinate a follow up call with people who're interested in the multisite and its use cases, that would be - Mario, Victor, Jacob, Iacopo (Nicolai)
+- [x] Idea to create a repo "RFC" and transfer workgroup spreadsheets to issues - run idea past Mario (Nicolai) 
+- [x] Reasearch how to upload docs to Dash (popular offline documentation browser) (Vinit) 
+- [x] Transfer Divio Quickstarter to django CMS repository (Daniele)
+- [x] Nicolai to get in touch with Iacpopo to discuss status of "djangocms-blog - improve admin"-workgroup and to help onboard new contributor 
+
+
+
+
+## 29.01.2021
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Guest intro
+4. Review agenda and add missing points
+5. Varia: further points raised by Tech Committee members 
+    - Onboarding new contributors - what's the best way?
+        - Multisite workgroup kick off 
+            - Notes: According to Victor, only documentation work is needed here. We can do a follow up call with people who're interested in the multisite and its use cases, that would be - Mario, Victor, Jacob, Iacopo
+        - djangocms-blog - improve admin workgroup
+            - Notes: Nicolai to get in touch with Iacopo to get update about the workgroup
+        - Revisit of [workgroup spreadsheet](https://docs.google.com/spreadsheets/d/1gfI8IKz84u-YvE61eePCD-lAbn1haghOiqkvSdO-1yg/edit#gid=1074764488) ?!
+            - Notes: Spreadsheet clean up - better descriptions. Idea to move workgroup to issues in a RFC repository.
+    - Update: Outcome documentation session
+        - Simplify documentation and remove redundant or outdated content 
+        - Focus on development topics
+    - Update: [First video of django CMS 4.0 video series released](https://www.youtube.com/watch?v=72SficeO9N4)
+6. Review Tasks
+7. News & updates for / from dCA Board and MarCom
+8. Review approve and post the meeting notes
+
+#### Tasks & Initiatives
+- [x] Record django CM 4 demo video (Andrew)
+- [x] Mario / Andrew to add code to v4 demo project repo (Mario & Andrew)
+- [x] set up "search" workgroup and onboard workgroup members (proposal: focus on https://github.com/divio/djangocms-internalsearch for django CMS 4?) (Nicolai& Andrew)
+- [x] Nicolai to organize Documentation Session 
+- [x] Jean-Baptiste and Andrew to investigate Travis issue 
+- [x] Jacob asks if MenuRenderer can be configurable.
+- [x] Jacob asks if width of ModalDialog can be configurable.
+
 
 ## 22.01.2021 
 
