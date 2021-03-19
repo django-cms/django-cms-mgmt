@@ -1,4 +1,4 @@
-# Tech Committee - Tasks and Decisions Log
+# dCA Tech Committee - Tasks and Decisions Log
 
 <small>The Tech Committee meetings documentation must follow the format of the [Tech Committee Log Entry Template](/tech-committee/tasks-and-decisions-log-entry-template.md)</small>
 
@@ -6,32 +6,66 @@
 - [this doc's hackmd url](https://hackmd.io/ddhvq_aqS6my9gwhLddyPg)
 - [this doc's github repo url](https://github.com/django-cms/django-cms-mgmt/blob/master/tech-committee/tasks-and-decisions-log.md)
 
-## 19.03.2021 (Next Week)
+## 26.03.2021 (Next week)
 
 #### Agenda Points
 <small>TBD in in the first 5 min of the meeting</small>
 
 1. Add new entry for next meeting from template
 2. Guest(s) intro
-4. Review agenda and add missing points
-5. Varia: further points raised by Tech Committee members
-6. Review Tasks
-7. News & updates for / from dCA Board and MarCom
-9. Review approve and post the meeting notes
+3. Review agenda and add missing points
+4. Varia: further points raised by Tech Committee members 
+5. Review Tasks
+6. News & updates for / from dCA Board and MarCom
+7. Review approve and post the meeting notes
 
 #### Tasks & Initiatives
 - [ ] Nicolai help to provide clear instructions for integrating PRs / contributing code (i.e. step by step instructions like 1. adhere to rules for PRs, 2. look for a buddy, 3....) also see jazzband.co
-- [ ] Django CMS 4.0 Quickstart project working branch (Andrew)
 - [ ] Have a workgroup django filer call to discuss django-parler and "upload empty files" (Jacob)
 - [ ] Present the PR's about MenuRenderer & ModalDialog to PR Review (Jacob)
+- [ ] django CMS develop documentation - copy the latest accross to v4 (Anyone)
+- [ ] port manual installation instructions from django cms 4 migration project to quickstart project (Andrew)
 - [ ] Test CMS with django-filer https://pypi.org/project/django-filer/2.1rc3/ (all)
+- [ ] django-treebeard 4.5.1 fix released in 3.7 and 3.8 (**blocked**)
+- [ ] Github Action for django-cms repo: Proof of concept (Mario)
 - [ ] Vinit to test Dash and to present results
-- [ ] Shall djangocms-admin-style be mandatory? We don't use and need it, but this can cause issues. Requires some research (Jacob)
-- [ ] Create communication about first v4 milestone to cause buzz after quickstart is finished (Nicolai) 
-- [ ] django-treebeard 4.5.1 fix released in 3.7 and 3.8 (**blocked**) 
-- [ ] Nicolai to post an announcement about us looking for support with github issues periodical review, cleanup and organization, as a part of PR workgroup (Nicolai)
+- [ ] Create communication about first v4 milestone to cause buzz once quickstart is finished (Nicolai) 
+- [ ] Set up "projects" for django CMS repository (Nicolai & Mario)
+- [ ] Nicolai to chase Iacopo 
+- [ ] Nicolai to open a readthedocs account with official django-cms.org email address
 
-## 12.03.2021
+
+## 19.03.2021 (Today)
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Guest(s) intro
+3. Review agenda and add missing points
+4. Varia: further points raised by Tech Committee members 
+    - v4 Workgroup - question: where should v4 tickets go? Mario propopes to create a separate board for v4 and connect it to the django-cms repo, in the django-cms repo v4 issues should be labelled with v4 to distinguish them
+        - Proposal to use Github projects was approved by all present
+        - Next step: Set up project (Mario & Nicolai) 
+    - 4.0.x installer without Docker (Andrzej)
+    - Dedicated, visible support channels and instructions for newbies? (Andrzej)
+    - Update: Support PR work group announcement released
+        - Volunteers so far: Mark, Anatolly, Simon and Francesco 
+        - Next: Kick off call / peridical meeting
+        - Who leads the group? 
+        - Reach out to Iacopo and ask him to lead the group
+    - it was decided to set up django CMS readthedocs account and make sure there is a version for the latest v3 versions and v4 
+5. Review Tasks
+6. News & updates for / from dCA Board and MarCom
+7. Review approve and post the meeting notes
+
+#### Tasks & Initiatives
+
+- [x] Django CMS 4.0 Quickstart project working branch (Andrew)
+- [x] Nicolai to post an announcement about us looking for support with github issues periodical review, cleanup and organization, as a part of PR workgroup (Nicolai)
+
+
+## 12.03.2021 (Today)
 
 #### Agenda Points
 <small>TBD in in the first 5 min of the meeting</small>
@@ -63,8 +97,17 @@
 9. Review approve and post the meeting notes
 
 #### Tasks & Initiatives
+- [ ] Nicolai help to provide clear instructions for integrating PRs / contributing code (i.e. step by step instructions like 1. adhere to rules for PRs, 2. look for a buddy, 3....) also see jazzband.co
+- [ ] Django CMS 4.0 Quickstart project working branch (Andrew)
+- [ ] Have a workgroup django filer call to discuss django-parler and "upload empty files" (Jacob)
+- [ ] Present the PR's about MenuRenderer & ModalDialog to PR Review (Jacob)
 - [x] Provide demo pictures for django filer
-
+- [ ] Test CMS with django-filer https://pypi.org/project/django-filer/2.1rc3/ (all)
+- [ ] Vinit to test Dash and to present results
+- [ ] Shall djangocms-admin-style be mandatory? We don't use and need it, but this can cause issues. Requires some research (Jacob)
+- [ ] Create communication about first v4 milestone to cause buzz after quickstart is finished (Nicolai) 
+- [ ] django-treebeard 4.5.1 fix released in 3.7 and 3.8 (blocked) 
+- [ ] Nicolai to post an announcement about us looking for support with github issues periodical review, cleanup and organization, as a part of PR workgroup (Nicolai)
 
 
 ## 05.03.2021
@@ -84,8 +127,21 @@
 8. Review approve and post the meeting notes
 
 #### Tasks & Initiatives
+- [ ] Announce Testing & QA Contribution Program for service providers (Nicolai)
+- [ ] Nicolai to organize design / ux direction 
+- [ ] set up testing log (google spreadsheet?) (Nicolai)
+- [ ] Create a survey for the project template workgroup (Nicolai & Victor)
+- [ ] Enhance contributing guidelines based on jazzband.co (Nicolai help to provide clear instructions)
+- [ ] Django CMS 4.0 Quickstart project working branch (Andrew)
+- [ ] Have a workgroup django filer call to discuss django-parler and "upload empty files" (Jacob)
+- [ ] Present the PR's about MenuRenderer & ModalDialog to PR Review (Unknown owner??)
+- [ ] Vinit to test Dash and to present results
+- [ ] Provide demo pictures for django filer (all who is all?)
+- [ ] Test CMS with django-filer https://pypi.org/project/django-filer/2.1rc3/ (all)
 - [x] Django CMS Demo - fix the deployment (Victor & Angelo)
-
+- [ ] Shall djangocms-admin-style be mandatory? We don't use and need it, but this can cause issues. Requires some research (Jacob)
+- [ ] Create communication about first v4 milestone to cause buzz (Nicolai)
+- [ ] django-treebeard 4.5.1 fix released in 3.7 and 3.8
 
 ## 26.02.2021 
 
@@ -213,6 +269,7 @@ workgroup to get a decision on how to move forward with it (Jacob)
 - [x] Idea to create a repo "RFC" and transfer workgroup spreadsheets to issues - run idea past Mario (Nicolai) 
 - [x] Reasearch how to upload docs to Dash (popular offline documentation browser) (Vinit) 
 - [x] Transfer Divio Quickstarter to django CMS repository (Daniele)
+- [ ] Create a survey for the project template workgroup (Nicolai & Victor)
 - [x] Nicolai to get in touch with Iacpopo to discuss status of "djangocms-blog - improve admin"-workgroup and to help onboard new contributor 
 
 
@@ -265,7 +322,7 @@ workgroup to get a decision on how to move forward with it (Jacob)
 5. Varia: further points raised by Tech Committee members 
     - Update: Iacopo on sick leave
     - Update: New [Discord Server](https://discord.gg/PGEDT44h8A)  
-        - Note: Extend permissions  
+        - Introduce: Extend permissions  
     - Update: ["Call for arms" Campaign](https://www.django-cms.org/en/become-community-hero)
     - Update: Pull Requests - who can help?
         - [The slugs of child pages are built incorrectly and return a 404 error when a user adds a custom slug for another language of the parent page #6622](https://github.com/django-cms/django-cms/issues/6622#issuecomment-763574095)
@@ -282,7 +339,8 @@ workgroup to get a decision on how to move forward with it (Jacob)
 - [x] Send a summary to the community with quick wins / 1-2-3 docs 
 
 
-## 15.01.2021
+
+## 15.01.2021 
 
 #### Agenda Points
 <small>TBD in in the first 5 min of the meeting</small>
@@ -302,8 +360,6 @@ workgroup to get a decision on how to move forward with it (Jacob)
     - Daniele held a documentation workshop - send a summary to the community with quick wins / 1-2-3 docs instructions 
 9. Review approve and post the meeting notes
 
-
-
 #### Tasks & Initiatives
 - [x] Give Vinit access to github org (Nicolai)
 - [x] Mario to review https://jazzband.co/ and report on standardization strategies in next TC (Mario)
@@ -312,7 +368,9 @@ workgroup to get a decision on how to move forward with it (Jacob)
 - [x] search result workgroup to create a test link (Jean-Baptiste)
 - [x] Invite django CMS 4 developers to documenation workshop (Andrew) 
 
-## 08.01.2021 
+
+
+## 08.01.2021
 
 #### Agenda Points
 <small>TBD in in the first 5 min of the meeting</small>
