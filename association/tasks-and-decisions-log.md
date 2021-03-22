@@ -3,6 +3,28 @@
 ## Resources
 - [Weekly Member Acquisition Report]( https://docs.google.com/presentation/d/1m8WegURHri5U2hD-dSGTma05E2dlH6miikEnlPtDpbQ/)
 
+## 22.03.2021 Committee Meeting
+
+*This protocol is deemed accepted unless written notification*
+
+**Attendees**
+
+
+**Agenda**
+
+- [ ] [Weekly Sales Report](https://docs.google.com/presentation/d/1m8WegURHri5U2hD-dSGTma05E2dlH6miikEnlPtDpbQ/)
+- [ ] Update: General Assembly planning
+    - Invitation end of March (latest 20 days before the GA event)
+    - GA end of April (TBD: 7th of May, 2pm CET )
+
+
+**Decisions**
+- GA to be held on 7th of May, 2 PM CET 
+
+**Tasks** 
+- [ ] Revalidation of all signatures -> another signature round 
+- [ ] Set up reminder for Tax Exemption task 
+
 
 ## 01.03.2021 Committee Meeting
 
