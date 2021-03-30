@@ -12,9 +12,9 @@ The list shows all current new feature suggestions, improvements, issues and bug
 
 ## Join a workgroup
 
-1. Check out the [workgroup list](https://docs.google.com/spreadsheets/d/1gfI8IKz84u-YvE61eePCD-lAbn1haghOiqkvSdO-1yg/edit#gid=0) and choose a topic you want to work on. 
-2. Add your name to the contributor column.
-3. Contact Nicolai via Email (nicolai@django-cms.org), our Community Manager and he will guide you through the next steps.
+1. Check out the [workgroup list](https://www.django-cms.org/en/join-work-group) and select a group you want to join
+2. Click on [join](https://www.django-cms.org/en/sign-up-work-contribution/) and fill out the registration form 
+3. Get contacted by our Community Manager who will guide you through the next steps.
 
 ## Create a workgroup 
 
