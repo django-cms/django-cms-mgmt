@@ -47,6 +47,7 @@ We are very thankful for all our supporters, be it individual volunteers or comp
 - [Kuwaitnet](https://kuwaitnet.com) - Gold 
 - [France Université Numérique](https://www.fun-mooc.fr) - Gold 
 - [Energie360°](https://www.energie360.ch) - Silver 
+- [allink](https://allink.ch/) - Silver 
 - [Kingpin Apps](https://kingpinapps.com) - Bronze 
 - [bnzk](https://bnzk.ch/de/) - Bronze 
 - [Compound Partners](https://compoundpartners.co.uk) - Bronze
@@ -58,3 +59,7 @@ We are very thankful for all our supporters, be it individual volunteers or comp
 - [expositio](https://www.expositio.de) - Bronze 
 - [D-Modules](https://www.d-modules.com/fr/) - Bronze
 - [Emencia](https://www.emencia.com/en/) - Bronze 
+- [Unfreeze](http://tracdemo.unfreeze.net/en/) - Bronze 
+- [Kapt](https://www.kapt.mobi/) - Bronze 
+- [djangoeurope](https://djangoeurope.com/) - Bronze 
+- [superservice international](https://superservice-international.com/) - Bronze 
