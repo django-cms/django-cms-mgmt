@@ -34,6 +34,7 @@ We are very thankful for all our supporters, be it individual volunteers or comp
 - Bernard Van Der Vyver	
 - Francesco Verde 
 - Marcel Wyser
+- Fabrice Pardo
 
 
 ## Company Members 
