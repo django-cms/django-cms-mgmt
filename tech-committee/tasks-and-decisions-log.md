@@ -1,12 +1,416 @@
 # dCA Tech Committee - Tasks and Decisions Log
 
+###### tags: `meeting protocol`
+
 <small>The Tech Committee meetings documentation must follow the format of the [Tech Committee Log Entry Template](/tech-committee/tasks-and-decisions-log-entry-template.md)</small>
 
 - [Tech Committee task board](https://github.com/django-cms/django-cms-mgmt/projects/1)
 - [this doc's hackmd url](https://hackmd.io/ddhvq_aqS6my9gwhLddyPg)
 - [this doc's github repo url](https://github.com/django-cms/django-cms-mgmt/blob/master/tech-committee/tasks-and-decisions-log.md)
+- [Process: Proposing large feature additions](https://github.com/django-cms/django-cms-mgmt/blob/master/contribution%20policy/contribution%20policy.md)
 
-## 26.03.2021 (Next week)
+## 23.07.2021
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Guest(s) intro
+4. Review agenda and add missing points
+5. Varia: further points raised by Tech Committee members 
+7. Review Tasks
+    - https://github.com/django-cms/django-cms-mgmt/projects/1
+8. News & updates for / from dCA Board and MarCom
+10. Review approve and post the meeting notes
+
+## 16.07.2021
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Guest(s) intro
+4. Review agenda and add missing points
+5. Varia: further points raised by Tech Committee members 
+    - Mario: Review [plugin strategy RFC](https://hackmd.io/j8srdcV6SMaZExecPG72Yw?view)
+    - Nicolai: Please review [Feature proposal](https://github.com/django-cms/django-cms/discussions/7094)
+7. Review Tasks
+    - https://github.com/django-cms/django-cms-mgmt/projects/1
+8. News & updates for / from dCA Board and MarCom
+    - Q2 dCA recap -> pls check your inbox  
+10. Review approve and post the meeting notes
+
+
+
+## 09.07.2021
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Guest(s) intro
+4. Review agenda and add missing points
+5. Varia: further points raised by Tech Committee members 
+    - [Review Plugin list ](https://docs.google.com/spreadsheets/u/1/d/1kANl66x5CLoL3ZcL613Qz1sClfnDvh9jk8csrh9cSQM/edit#gid=397686173) 
+    - New workgroup: Github Issue Management 
+    - django CMS 4.0 [onboarding document](https://hackmd.io/5Sj6X5XhTJOmZgNj8e_KCw?view) updated 
+7. Review Tasks
+    - https://github.com/django-cms/django-cms-mgmt/projects/1
+8. News & updates for / from dCA Board and MarCom
+10. Review approve and post the meeting notes
+
+
+
+## 02.07.2021
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Guest(s) intro
+4. Review agenda and add missing points
+5. Varia: further points raised by Tech Committee members 
+    - [Nicolai] [Article: How to encourage devs to contribute?](https://cacm.acm.org/magazines/2021/7/253459-why-computing-students-should-contribute-to-open-source-software-projects/fulltext) -> *Look for project issues marked as “Good first issue,” which indicate a project that is open to new contributors.*
+        - Question: Who can help with that? Going through all issues (approx. 200) and assign the label "Good first issue"
+        - Maybe start with 10 per week? At least to get a start on it...
+        - Next step: Nominate a list of issues that are apt for beginners
+        - Prioritize issues from other repos 
+    - [Nicolai] Reminder: Please review Plugin list https://docs.google.com/spreadsheets/d/1kANl66x5CLoL3ZcL613Qz1sClfnDvh9jk8csrh9cSQM/edit#gid=397686173 and leave feedback. 
+7. Review Tasks
+    - https://github.com/django-cms/django-cms-mgmt/projects/1
+8. News & updates for / from dCA Board and MarCom
+    * Published: django CMS 3.9.0 release announcement 
+        * [Florian] next version will be 3.9.1 to fix a few bugs 
+10. Review approve and post the meeting notes
+
+
+## 25.06.2021
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Guest(s) intro
+4. Review agenda and add missing points
+5. Varia: further points raised by Tech Committee members 
+    - (Nicolai) Update 4.0 work group: [Onboarding Document](https://hackmd.io/5Sj6X5XhTJOmZgNj8e_KCw)  
+    - (Nicolai) New theme for [documentation](https://docs.django-cms.org/en/latest/)
+        - New structure, extended contributor guidelines and some small changes will follow soon
+        - Feedback in #workgroup-documentation
+    - (Nicolai) django CMS 3.9 RC3 was released
+7. Review Tasks
+    - https://github.com/django-cms/django-cms-mgmt/projects/1
+8. News & updates for / from dCA Board and MarCom
+    - Website Relaunch: Review of [wireframes](https://miro.com/app/board/o9J_lATSwJ8=/) with Luke 
+    - Use website as an example project for migration to 4.0 
+    - Nicolai to get in touch with Pavel regarding CKeditor contribution 
+10. Review approve and post the meeting notes
+
+
+## 18.06.2021
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Guest(s) intro
+    - [Gabriel Andrade](https://www.linkedin.com/in/gabrielcandradecg/)
+    - [Marcelo Cordeiro Correia]([[https://](https://www.linkedin.com/in/marcelocordeirocorreia/))
+4. Review agenda and add missing points
+5. Varia: further points raised by Tech Committee members 
+    * [Jacob] Proposal: In django-filer replace `AdminFolderFormField` and instead use autocomplete_fields as introduced in Django-2.2. Pull request: https://github.com/django-cms/django-filer/pull/1246
+7. Review Tasks
+    - https://github.com/django-cms/django-cms-mgmt/projects/1
+8. News & updates for / from dCA Board and MarCom
+10. Review approve and post the meeting notes
+
+## 11.06.2021
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Guest(s) intro
+    - Kaushal & Mohammed 
+4. Review agenda and add missing points
+5. Varia: further points raised by Tech Committee members 
+    - [Florian] I suggest to release 3.9.0 next week and start working toward 3.9.1 to address minor fixes.
+        - any objections?
+            - Yes. please check back with Florian: RC3 probably required because of pending issues according to Angelo
+7. Review Tasks
+    - https://github.com/django-cms/django-cms-mgmt/projects/1
+8. News & updates for / from dCA Board and MarCom
+    - New blog article by Martin Cote ([django CMS vs. Wordpress](https://www.django-cms.org/en/blog/2021/06/10/django-cms-vs-wordpress/))
+    - [Mario] Can / Should MarCom request for comments for Jacob's RFC? (task for Nicolai)
+10. Review approve and post the meeting notes
+
+
+## 04.06.2021
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Guest(s) intro
+    - Abdelrhman  ([LinkedIn](https://www.linkedin.com/in/bershawi/))
+4. Review agenda and add missing points
+5. Varia: further points raised by Tech Committee members 
+    - [Florian] Need full access to PyPi and made admin in Github organization. Any objections? 
+        - Notes:
+            - No objections from the TC 
+            - Access was granted by Angelo
+    - [Jacob] [Proposal: Add JSONFields to various django-CMS models](https://github.com/django-cms/django-cms/discussions/7074)
+        - Notes:
+            - Suggestion for next step: Make Proposal public (in [Discourse Forum](https://discourse.django-cms.org/c/feature-requests/6)) and ask for community feedback 
+            - Advertise for the RFC
+    - NPM and Python Versions are outdated on the django-cms.org GitHub Repository https://github.com/django-cms/django-cms.org
+        - Nicolai is planning a django CMS relaunch 
+        - Update: [See announcement](https://www.django-cms.org/en/blog/2021/06/03/call-to-arm-website-relaunch/)
+        - Core team so far: Victor and Nicolai 
+        - Will need help at Design & Implementation stage
+6. Review Tasks
+    - https://github.com/django-cms/django-cms-mgmt/projects/1
+7. News & updates for / from dCA Board and MarCom
+    - New [Case Study](https://www.django-cms.org/en/case-studies/expertsnow/) published 
+    - To be released soon: New WordPress vs. django CMS article by Martin (D-Modules) 
+9. Review approve and post the meeting notes
+
+## 28.05.2021
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Guest(s) intro
+3. Review agenda and add missing points
+4. Varia: further points raised by Tech Committee members
+    - [Marcel] Versions for new Projects, 3.x or 4.0 - LTS? 
+        - There will be a 3.9 or 3.10 LTS version
+6. Review Tasks
+    - https://github.com/django-cms/django-cms-mgmt/projects/1
+7. News & updates for / from dCA Board and MarCom
+    - (Nicolai is on vacation)
+9. Review approve and post the meeting notes
+
+
+
+#### Tasks & Initiatives
+
+Please go to: https://github.com/django-cms/django-cms-mgmt/projects/1
+
+## 21.05.2021
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Guest(s) intro
+    - Dimitri from https://yare.fr/  
+4. Review agenda and add missing points
+5. Varia: further points raised by Tech Committee members 
+    - [Jens-Erik] How to deal with legacy plug-ins in existing installations? Documentation needed.
+       - Everyone is invited to create help documentation - please get in touch with Jens Erik to see where help is most needed
+       - Suggestion: Add a link to the new repository in deprecated plugins 
+       - New Task: Create a list of deprecrated plugins where a migration instruction is needed (Nicolai to create a task) 
+    - [Florian] Changes to the PR process (already sent) 
+        - No need to update [CHANGELOG.rst](https://github.com/django-cms/django-cms/blob/3.9.0rc2/CHANGELOG.rst) anymore
+        - information for CHANGELOG.rst release will be directly pulled by the releases script
+        - Now using conventionalcommits.org guidelines
+        - scopes already implemented here (please comment): https://github.com/django-cms/django-cms/blob/develop/scripts/make-changelog#L10-L16
+        - New Task: Add documentation to the developer documentation (i.e PR titles must start with one of the categories)
+        - Suggestion: this has maybe the potential for a blog post?
+    - [Florian] Path from 3.9.0rc2 to 3.9.0rc3? (or golden):
+        - How long should the RC2 validation time be?
+        - What are the requirements to declare a new RC (RC3)?
+        - Can we start moving issues into the 3.9.0 milestone to define completion for 3.9.0?
+        - What is the test requirement to promote 3.9.0rcx to 3.9.0?
+        - Are the current tests sufficient on the code base, if not can we define what is missing?
+        - Suggestions: Let's branch this out and have a separate call with Angelo 
+    - [Florian] Issue / PR house keeping:
+        - There is (at the time of writing) more than 200 open issues, some of which are more than 3 years old
+        - What can be done to lower this number?
+        - What actions should we take regarding PR that are too old to merge? (how do we determine which one are?)
+        - Next task: Let's branch this out and have a separate call with Nicolai 
+        - [Issue / PR Templates](https://hackmd.io/@fverde/H1WTZoaIu) 
+        - Suggestion: Let's find and propose an automated solution (bot) that can comment and give notice before closing old / stale stuff.
+    - [Florian] Plans for 3.9.x/4.x:
+        - Can we make 3.9.x the LTS version till 4.0 is ready (only new bugfixes gets in 3.9.x)?
+            - [Angelo] let's align with the LTS policy of django (it appears we can't drop django 2.2 yet, therefore)
+            - [Angelo] the next LTS version should be 3.10 and it should just include dropped features and dropped compatibility (deprecate old python and django versions)
+            - Suggestion: End of 2021 - 3.10 same setup as django (but without django 2.2) & support until 2014
+        - New features would go in 4.x
+    - [Florian] Plans for `release/4.0.x` / `develop-4.x`
+        - Currently a customer is using release/4.0.x as base to evaluate 4.0.x, (but it isn't released yet)
+        - Do we know how this customer is currently pulling/updating their codebase?
+        - 4.x would need its own develop branch:
+            1. `release/4.0.x` becomes the new develop-4.x branch `git branch mv release/4.0.x develop-4`
+            2. we then branch again from here: `git checkout develop-4; git checkout -b release/4.0.x`
+            3. => this allows continuity from `develop` (the origin of `release/4.0.x` to `develop-4.x`)
+            4. at some point, `develop` dies, and will be replaced by `develop-4.x` for default branch
+        - We can then start cherrypicking features/upgrades from 3.x to 4.x into `develop-4`
+        - 4.0.0rc1 should be released off that new branch later (not disturbing the customer evaluation)
+        - New Task: a `develop-4` branch will be created by Florian 
+    - [Florian] What are the requirements (goals) to meet to create 4.0.0rc1?
+        - how do define the proper test environment?
+            - we have https://github.com/django-cms/django-cms-quickstart/tree/support/cms-4.0.x
+        - What roadmap should be defined?
+            - Roadmap https://hackmd.io/5Sj6X5XhTJOmZgNj8e_KCw
+        - Can we derive a plan of action?
+            - Next step is: testing and creating tickets here: https://github.com/django-cms/django-cms/projects/2
+    - [Florian] Creation of the pluginability workgroup: https://hackmd.io/0qQ2ZCsFS_2DzPzp7ZDV_Q?both
+        - Quick alignment on goals
+        - Definition of PR scope and approval
+        - [Mario] would suggest to quickly sync with Andrew who has already spent some time thinking about a "hook"-based architecture to plug in different functionality in a decentralized way (i.e. plugin to plugin)
+        - Task: Let's setup a RFC process (Nicolai & Vinit) ->django enhancement proposal
+6. Review Tasks
+    - https://github.com/django-cms/django-cms-mgmt/projects/1
+8. News & updates for / from dCA Board and MarCom
+    - [3.9.0 RC1](https://www.django-cms.org/en/blog/2021/05/19/django-cms-3-9-0-rc1-released/) is now available 
+    - [3.9.0 RC2] has followed (today) as a result of a critical bug found, and fixed
+9. Review approve and post the meeting notes
+
+#### Tasks & Initiatives
+
+Please go to: https://github.com/django-cms/django-cms-mgmt/projects/1
+
+
+## 14.05.2021 (Cancelled)
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Guest(s) intro
+4. Review agenda and add missing points
+5. Varia: further points raised by Tech Committee members 
+6. Review Tasks
+7. News & updates for / from dCA Board and MarCom
+9. Review approve and post the meeting notes
+
+#### Tasks & Initiatives
+
+Please go to: https://github.com/django-cms/django-cms-mgmt/projects/1
+
+
+## 30.04.2021 (Today)
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Guest(s) intro
+4. Review agenda and add missing points
+5. Varia: further points raised by Tech Committee members 
+6. Review Tasks
+7. News & updates for / from dCA Board and MarCom
+    - General Assembly of the dCA, Friday 7th of May, 2pm CEST 
+    - Tech Talk: djangocms-cascade intro, Tuesday 11th of May, 5pm CEST [Link to event](https://www.django-cms.org/en/events/techtalk-djangocms-cascade-introduction/)
+9. Review approve and post the meeting notes
+
+#### Tasks & Initiatives
+
+Please go to: https://github.com/django-cms/django-cms-mgmt/projects/1
+
+
+
+## 23.04.2021
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Guest(s) intro
+    - [Florian] (https://www.linkedin.com/in/floriandelizy/) (optional)
+4. Review agenda and add missing points
+5. Varia: further points raised by Tech Committee members 
+    - **django-filer** has a permission system. If enabled, one can choose a folder and change the permissions. That editor seems to by broken, both from its layout and its functionality. I need some clarification on how to proceed. (Jacob)
+        - Please raise a ticket in the respective django filer repository @jacob
+     - Update: Github Action Migration
+         - All repos ported except
+             - [djangocms-moderation](https://github.com/django-cms/djangocms-moderation)
+        - Kudos to the team Vinit, Simon, Mark, Narender, Andrew
+    - **Help needed**: New django CMS Release (Q1 Release)
+        - Video tutorial (53mins): [django CMS release process](https://drive.google.com/file/d/1KiJBrKVvBvJMGVCYHqyz9cRbO8qTqpR5/view?usp=sharing)
+        - [#workgroup-release-management](https://django-cmsworkspace.slack.com/archives/C01H0QA97HN)
+        - One volunteer (release owner) to help with release
+    - Ask Angelo what needs to be done for the release 
+7. Review Tasks
+8. News & updates for / from dCA Board and MarCom
+    - Update: Tech Talk presented by dCA 
+        - [djangocms-cascade](https://www.django-cms.org/en/events/techtalk-djangocms-cascade-introduction/) the swiss army knife of django CMS
+        - Speaker: Jacob Rief
+        - Date: 11th of May 2021, start 17:00 - end 18:30 (CEST) 
+10. Review approve and post the meeting notes
+
+#### Tasks & Initiatives
+
+Please go to: https://github.com/django-cms/django-cms-mgmt/projects/1
+
+## 16.04.2021
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Guest(s) intro
+    - [Robert](https://www.linkedin.com/in/robertu/) 
+    - [Nishant](https://www.linkedin.com/in/nishant-nawarkhede-9b213923/)
+4. Review agenda and add missing points
+5. Varia: further points raised by Tech Committee members 
+    - Mario Colombo via Mark Walker: Proposes policy to dropping EOL python versions from tests - very specifically 2.7. and 3.5 (Mario)
+        - No objections from the TC
+    - sample/template website, for reuse by anyone who wants a quick start. I'd like to make it and support it. Question: 4.0.x as the base or too early? (Andrzej)
+    - Update: Issue & PR Review group 
+        - Who can help? Add labels to [issues / PRs](https://github.com/django-cms/django-cms/issues): Please add the following labels if applicable:
+            - Needs contribution
+            - Needs more info
+            - Priority: low, mid, high
+6. Review Tasks
+7. News & updates for / from dCA Board and MarCom
+    - General Assembly at Friday 7th of March 2pm - postpone TC? (Nicolai)
+9. Review approve and post the meeting notes
+
+#### Tasks & Initiatives
+
+Please go to: https://github.com/django-cms/django-cms-mgmt/projects/1
+
+
+
+## 09.04.2021 (Today)
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Guest(s) intro
+    - ([Florian](https://www.linkedin.com/in/floriandelizy/))
+    - ([Robert](https://www.linkedin.com/in/robertu/))
+4. Review agenda and add missing points
+5. Varia: further points raised by Tech Committee members 
+    - Update: Todos and Ticket management in Github now  https://github.com/django-cms/django-cms-mgmt/projects/1 (Nicolai)
+    - Update: Github Action Migration / django cms unblocked (Nicolai)
+        - Migration to main repo is finished 
+        - Almost all important repos are ported 
+        - Next steps:
+            - 3.7 & 3.8 need to be backported 
+    - Update: Github Issue / PR Review Group (Nicolai)
+        - who are senior reviewers and who can merge pull requests
+    - [v4 release plan discussion](https://github.com/django-cms/django-cms/projects/2) (Andrew)
+        - Is it sane to release an alpha version to 4? 
+        - Who is interested in helping Andrew creating an end-to-end release plan?
+6. Review Tasks
+7. News & updates for / from dCA Board and MarCom
+    - Anything to broadcast to the community?
+        - (Github Action Migration)
+9. Review approve and post the meeting notes
+
+#### Tasks & Initiatives
+
+Please go to: https://github.com/django-cms/django-cms-mgmt/projects/1
+
+## 02.04.2021 (No meeting due to holiday)
+
+## 26.03.2021
 
 #### Agenda Points
 <small>TBD in in the first 5 min of the meeting</small>
@@ -15,27 +419,35 @@
 2. Guest(s) intro
 3. Review agenda and add missing points
 4. Varia: further points raised by Tech Committee members 
-5. Review Tasks
-6. News & updates for / from dCA Board and MarCom
-7. Review approve and post the meeting notes
+   - django CMS v4 Workgroup update: You can now post a note with your django CMS v4 feedback here: https://github.com/django-cms/django-cms/projects/2 
+   - django CMS CI update: There is an initial proof-of-concept on the Github Actions. Read more and/or join us in our efforts here: https://django-cmsworkspace.slack.com/archives/C01G6A0T16H/p1616750583004300 (Mario)
+       - Andrzej to assign someone to help with CI migration and v4 quickstart. Introduce that person to slack channel for coordination
+   - No TC Meeting next week (Easter)
+   - Django CMS registered trademark? (Andrzej)
+       - Who runs django-cms marketplace https://www.django-cms-themes.com/ ? (Andrzej)
+       - Nicolai to check and to make a proposal 
+6. Review Tasks
+7. News & updates for / from dCA Board and MarCom
+8. Review approve and post the meeting notes
 
 #### Tasks & Initiatives
-- [ ] Nicolai help to provide clear instructions for integrating PRs / contributing code (i.e. step by step instructions like 1. adhere to rules for PRs, 2. look for a buddy, 3....) also see jazzband.co
-- [ ] Have a workgroup django filer call to discuss django-parler and "upload empty files" (Jacob)
+
+https://github.com/django-cms/django-cms-mgmt/projects/1
+
 - [ ] Present the PR's about MenuRenderer & ModalDialog to PR Review (Jacob)
-- [ ] django CMS develop documentation - copy the latest accross to v4 (Anyone)
-- [ ] port manual installation instructions from django cms 4 migration project to quickstart project (Andrew)
 - [ ] Test CMS with django-filer https://pypi.org/project/django-filer/2.1rc3/ (all)
+- [ ] django CMS develop documentation - copy the latest accross to v4 (Mario)
+- [ ] port manual installation instructions from django cms 4 migration project to quickstart project (Andrew)
 - [ ] django-treebeard 4.5.1 fix released in 3.7 and 3.8 (**blocked**)
-- [ ] Github Action for django-cms repo: Proof of concept (Mario)
-- [ ] Vinit to test Dash and to present results
-- [ ] Create communication about first v4 milestone to cause buzz once quickstart is finished (Nicolai) 
-- [ ] Set up "projects" for django CMS repository (Nicolai & Mario)
-- [ ] Nicolai to chase Iacopo 
-- [ ] Nicolai to open a readthedocs account with official django-cms.org email address
+- [x] Github Action for django-cms repo: Proof of concept (Mario)
+- [x] Test Dash and to present results (Vinit)
+- [ ] Submit pull request to documentation of Dash project (Vinit)
+- [ ] Create communication about first cms v4 milestone to cause buzz once quickstart is finished (Nicolai) 
+- [x] Set up "projects" for django CMS repository (Nicolai & Mario)
 
 
-## 19.03.2021 (Today)
+
+## 19.03.2021
 
 #### Agenda Points
 <small>TBD in in the first 5 min of the meeting</small>
@@ -65,7 +477,7 @@
 - [x] Nicolai to post an announcement about us looking for support with github issues periodical review, cleanup and organization, as a part of PR workgroup (Nicolai)
 
 
-## 12.03.2021 (Today)
+## 12.03.2021
 
 #### Agenda Points
 <small>TBD in in the first 5 min of the meeting</small>
