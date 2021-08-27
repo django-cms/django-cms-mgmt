@@ -9,6 +9,79 @@
 - [this doc's github repo url](https://github.com/django-cms/django-cms-mgmt/blob/master/tech-committee/tasks-and-decisions-log.md)
 - [Process: Proposing large feature additions](https://github.com/django-cms/django-cms-mgmt/blob/master/contribution%20policy/contribution%20policy.md)
 
+## 03.09.2021 (UPCOMING MEETING)
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Guest(s) intro
+4. Review agenda and add missing points
+5. Varia: further points raised by Tech Committee members 
+6. Review Tasks
+    - https://github.com/django-cms/django-cms-mgmt/projects/1
+7. News & updates for / from dCA Board and MarCom
+8. Review approve and post the meeting notes
+
+
+## 27.08.2021
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Guest(s) intro
+4. Review agenda and add missing points
+5. Varia: further points raised by Tech Committee members 
+   - Mario: Updated demo instructions on django-cms.org to use django-cms-quickstart project, updated django-cms-quickstart project with better docs (see [here](https://github.com/django-cms/django-cms-quickstart))
+   - Mario: Updated djangocms-template project (pending PR) to work exclusively with pypi packages (removed all aldryn packages in favour of django-whitenoise), added divio deploy instructions. Please comment on the pending PR [here](https://github.com/django-cms/djangocms-template/pull/5)
+   - Mario: Proposal to accept and add [Plugin Dependency Policies for django CMS Developers](https://github.com/django-cms/django-cms/discussions/7096) to the docs
+7. Review Tasks
+    - https://github.com/django-cms/django-cms-mgmt/projects/1
+8. News & updates for / from dCA Board and MarCom
+10. Review approve and post the meeting notes
+
+## 20.08.2021 CANCELLED
+
+## 13.08.2021 CANCELLED
+
+## 06.08.2021
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Guest(s) intro
+4. Review agenda and add missing points
+5. Varia: further points raised by Tech Committee members 
+    - Update: Please review the following 2 PRs:
+        - [Stop ignoring flake8 errors](https://github.com/django-cms/django-cms/pull/7104) 
+        - [Help menu](https://github.com/django-cms/django-cms/pull/7101)
+7. Review Tasks
+    - https://github.com/django-cms/django-cms-mgmt/projects/1
+8. News & updates for / from dCA Board and MarCom
+    - 2 new bronze members -> sunscrapers (Poland) and swansoft (India)
+    - 3 interesting plugins 
+        - [djangocms-algolia](https://pypi.org/project/djangocms-algolia/)
+        - [django-frontify](https://github.com/lab360-ch/django-frontify)
+        - [django check SEO](https://dev.to/corentinbettiol/django-check-seo-3ljk)
+10. Review approve and post the meeting notes
+
+## 30.07.2021
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Guest(s) intro
+4. Review agenda and add missing points
+5. Varia: further points raised by Tech Committee members 
+    - No items added
+7. Review Tasks
+    - https://github.com/django-cms/django-cms-mgmt/projects/1
+8. News & updates for / from dCA Board and MarCom
+10. Review approve and post the meeting notes
+
 ## 23.07.2021
 
 #### Agenda Points
@@ -18,9 +91,14 @@
 2. Guest(s) intro
 4. Review agenda and add missing points
 5. Varia: further points raised by Tech Committee members 
+    - Please review & feedback
+        - Proposal 1: [Add Help Button to toolbar by default](https://github.com/django-cms/django-cms/discussions/7094) 
+        - Proposal 2: [Plugin Dependency Policies for django CMS Developers](https://github.com/django-cms/django-cms/discussions/7096)
+        - Proposal 3: [Website Wireframes](https://miro.com/app/board/o9J_lATSwJ8=/) 
 7. Review Tasks
     - https://github.com/django-cms/django-cms-mgmt/projects/1
 8. News & updates for / from dCA Board and MarCom
+    - New plugin for django CMS - [djangocms-algolia](https://www.django-cms.org/en/blog/2021/07/21/improve-your-search-with-djangocms-algolia/)  
 10. Review approve and post the meeting notes
 
 ## 16.07.2021
