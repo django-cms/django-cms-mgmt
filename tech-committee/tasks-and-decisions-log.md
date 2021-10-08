@@ -9,7 +9,144 @@
 - [this doc's github repo url](https://github.com/django-cms/django-cms-mgmt/blob/master/tech-committee/tasks-and-decisions-log.md)
 - [Process: Proposing large feature additions](https://github.com/django-cms/django-cms-mgmt/blob/master/contribution%20policy/contribution%20policy.md)
 
-## 03.09.2021 (UPCOMING MEETING)
+## 15.10.2021 (Upcoming meeting)
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Guest(s) intro
+4. Review agenda and add missing points
+5. Varia: further points raised by Tech Committee members:
+7. Review Tasks
+    - https://github.com/django-cms/django-cms-mgmt/projects/1
+8. News & updates for / from dCA Board and MarCom
+10. Review approve and post the meeting notes
+
+
+
+
+## 08.10.2021 (Today)
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Guest(s) intro
+4. Review agenda and add missing points
+5. Varia: further points raised by Tech Committee members:
+- (Andrew A) django-cms 4.0.x release number for django 3.x breaking changes
+- [New discussion](https://github.com/django-cms/django-cms/discussions/7125#discussioncomment-1440169) about code formatter - please review and leave your feedback
+- (Nicolai) django-cms 3.10 is just around the corner
+    - Florian will create new release but cannot review and merge pending PRs
+    - Time window is closing - review and merge now!
+- (Mario) FYI - New aldryn-free-and-otherwise-simplified version of django CMS Template was published at https://github.com/django-cms/djangocms-template (thanks Victor, Sergey G. Andrew for reviewing)
+- New workgroup: Security 
+    - security@django-cms.org
+    - #workgroup-security
+7. Review Tasks
+    - https://github.com/django-cms/django-cms-mgmt/projects/1
+8. News & updates for / from dCA Board and MarCom
+- [User Guide 1.0 released](https://docs.google.com/document/d/1f5eWyD_sxUSok436fSqDI0NHcpQ88CXQoDoQm9ZXb0s/edit) 
+- News extended support for 3.7 - what needs to be communicated?
+10. Review approve and post the meeting notes
+
+## 01.10.2021 
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Guest(s) intro
+4. Review agenda and add missing points
+5. Varia: further points raised by Tech Committee members 
+    - Update: [LTS for 3.7 ended in September 2021](https://www.django-cms.org/en/roadmap/)
+        - As agreed before, proposal to sync django CMS LTS with django LTS
+        - Next Django LTS Release is 3.2 end of Q1 2022 (until 2024)
+        - Proposal to set django CMS LTS Release 3.11 for end of Q1 2022 (must support django 3.2) until 2024
+        - Proposal to extend support for django CMS 3.7 LTS until end of Q1 2022
+        - django CMS 3.10 will be released as planned in Q4 2021
+    - Workgroup updates:
+        - Simon is making progress with quickstart template
+            - Suggestion: Two types of Quickstart 
+                    - empty one / barebone 
+                    - static template with getting started information
+                - 2. demo type 
+        - New documentation added 
+            - How-To Multisite 
+            - Installation Guide revised -> added docker
+    - Suggestion: Launch security workgroup (Tech Brief)
+        - Important: 
+            - Private Workgroup 
+            - Review security issue / Someone has to look at the email 
+            - Communicate as soon as possible / Reply asap
+            - Bounty Program? 
+                - depending on the severity we will talk to you
+            - Mario to give Nicolai access to security@django-cms.org and send email answer template 
+7. Review Tasks
+    - https://github.com/django-cms/django-cms-mgmt/projects/1
+8. News & updates for / from dCA Board and MarCom
+    * [New case study released](https://www.django-cms.org/en/blog/2021/09/29/migrating-from-wordpress-to-django-cms/)
+    * [Hacktoberfest has started](https://www.django-cms.org/en/blog/2021/10/01/we-celebrate-hacktoberfest-2021/)
+    * [Guest blog published](https://www.django-cms.org/en/blog/2021/09/23/what-can-you-build-with-python/) 
+    * Blog post -> Check link from Angelo 
+10. Review approve and post the meeting notes
+
+
+## 17.09.2021
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Guest(s) intro
+4. Review agenda and add missing points
+5. Varia: further points raised by Tech Committee members 
+    - Mark - @all: Please review:
+        - https://github.com/django-cms/django-cms/pull/7101 (help menu)
+        - https://github.com/django-cms/django-cms/pull/7104 (flake8 fix)
+    - Nicolai: Hello Bootstrap 5 - next steps? 
+        - https://github.com/gl-agnx/djangocms-bootstrap5 
+            - Nicolai to get in touch with author and ask if the dCA can take the plugin/package under its umbrella
+            - Bootstrap4 plugin to be marked as deprecated
+    - Mario: https://github.com/django-cms/django-cms-quickstart/tree/develop 
+        - new branch "develop", where we can integrate experimental stuff
+        - I updated to the latest Release Candidate of the new filer with native SVG support!
+        - Also updated to bs5 (see above)
+    - Mike: Ownership of Divio Cloud Addons
+        - ALDRYN DJANGO CMS @ 4.0.0.15
+        - DJANGO CMS ALIAS @ 0.0.12
+        - DJANGO CMS MODERATION @ 1.0.27
+        - DJANGO CMS TEXT CKEDITOR @ 4.0.0.DEV5
+        - DJANGO CMS URL MANAGER @ 0.0.11
+        - DJANGO CMS VERSIONING @ 0.0.29
+        - DJANGO CMS VERSIONING FILER @ 0.0.14 (only required to version files)
+            - Mario to work on making version 4.0 aldryn independent (-> pypi) 
+    - Jacob: Proposal for simplifying django-filer using a JSONField to store meta-data: https://github.com/django-cms/django-filer/discussions/1256 
+        - No objection from the team - Jacob can go forward with it  
+7. Review Tasks
+    - https://github.com/django-cms/django-cms-mgmt/projects/1
+8. News & updates for / from dCA Board and MarCom
+    - Mario recorded a video tutorial "deploy djangocms template to divio": https://youtu.be/O2g5Wfoyp7Q 
+10. Review approve and post the meeting notes
+
+
+## 10.09.2021
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Guest(s) intro
+4. Review agenda and add missing points
+5. Varia: further points raised by Tech Committee members 
+   - Jacob: Upgrade djangocms-quickstart and djangocms-template to [django-filer 2.1rc4](https://github.com/django-cms/django-filer/tree/2.1rc4) - Approved
+7. Review Tasks
+    - https://github.com/django-cms/django-cms-mgmt/projects/1
+8. News & updates for / from dCA Board and MarCom
+9. Review approve and post the meeting notes
+
+## 03.09.2021
 
 #### Agenda Points
 <small>TBD in in the first 5 min of the meeting</small>
