@@ -9,7 +9,9 @@
 - [this doc's github repo url](https://github.com/django-cms/django-cms-mgmt/blob/master/tech-committee/tasks-and-decisions-log.md)
 - [Process: Proposing large feature additions](https://github.com/django-cms/django-cms-mgmt/blob/master/contribution%20policy/contribution%20policy.md)
 
-## 15.10.2021 (Upcoming meeting)
+<strong>Policy: If there are no items on the agenda 30 minutes before the meeting, the meeting will be cancelled.</strong>
+
+## 05.11.2021 (Upcoming Meeting)
 
 #### Agenda Points
 <small>TBD in in the first 5 min of the meeting</small>
@@ -18,6 +20,41 @@
 2. Guest(s) intro
 4. Review agenda and add missing points
 5. Varia: further points raised by Tech Committee members:
+    - https://github.com/django-cms/django-cms/discussions/7125
+7. Review Tasks
+    - https://github.com/django-cms/django-cms-mgmt/projects/1
+8. News & updates for / from dCA Board and MarCom
+10. Review approve and post the meeting notes
+
+## 22.10.2021 
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Guest(s) intro
+4. Review agenda and add missing points
+5. Varia: further points raised by Tech Committee members:
+    - (release management workgroup)
+        - Situation: Since django-cms already supports 3.2 since the last release, we should release 3.2 support for the plugins asap. 
+        - Proposal: Implement Auto release to pypi via github to projects (except django-cms). So that we can action something in github, and it'll be built & released to pypi. We'd likely not do this with django-cms itself. But it'd make all the other packages much easier to run. It's likely the action that would trigger a build & release would be tagging [a new version] after merging PRs. So the code gets reviewed, merged and then if the changes are significant enough to release, someone creates a release or a tag and then that triggers the build/release action.
+        - Docs on releases; https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository
+        - Benefits: We will reduce the load on the release manager and at the same time, remove the friction of releasing. However, we need to be really strict with the merging part. 
+        - Questions: 
+            - What does it take apply this method to django-cms?
+            - What happens with projects that use readthedocs?
+            - We probably need different tiers for different packages -> there's important package where the risk of messing up is too high 
+    - (Jens-Erik) django-cms-column -> who has access?
+        - move it to dCA umbrella and mark it as deprecated 
+        - Documentation: 
+            - Check deprecation process in the documentation 
+            - How to remove djangocms-cms-colum -> multi-step process 
+        - Blog post by Nicolai -> deprecated
+    - (Nicolai) Please review: Guideline for projects under dCA umbrella: https://docs.google.com/document/d/17bPrkOSN6G73HoFzJW3FDbqKoQkqhCTBq6N6kVt2-yE/edit#heading=h.oylrpll48c27
+    - (Nicolai) Jacob pls have a look at #workgroup-security thx 
+    - (Florian) django CMS 3.10 RC1 release is currently blocked - I need help!
+    - (Mario & Nicolai) Proposal: Change weekly meeting to bi-weekly - objections
+        - Proposal to change time 3pm CEST  
 7. Review Tasks
     - https://github.com/django-cms/django-cms-mgmt/projects/1
 8. News & updates for / from dCA Board and MarCom
@@ -26,7 +63,7 @@
 
 
 
-## 08.10.2021 (Today)
+## 08.10.2021
 
 #### Agenda Points
 <small>TBD in in the first 5 min of the meeting</small>
