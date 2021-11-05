@@ -11,16 +11,43 @@
 
 <strong>Policy: If there are no items on the agenda 30 minutes before the meeting, the meeting will be cancelled.</strong>
 
-## 05.11.2021 (Upcoming Meeting)
+## 19.11.2021 (Upcoming Meeting)
 
 #### Agenda Points
 <small>TBD in in the first 5 min of the meeting</small>
 
 1. Add new entry for next meeting from template
 2. Guest(s) intro
-4. Review agenda and add missing points
-5. Varia: further points raised by Tech Committee members:
-    - https://github.com/django-cms/django-cms/discussions/7125
+    - (Name) 
+4. Review agenda and add missing points 
+6. Varia: further points raised by Tech Committee members:
+    - (Name) ...
+7. Review Tasks
+    - https://github.com/django-cms/django-cms-mgmt/projects/1
+8. News & updates for / from dCA Board and MarCom
+10. Review approve and post the meeting notes
+
+
+## 05.11.2021 (Today's Meeting)
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Guest(s) intro
+    - (Vadim) 
+4. Review agenda and add missing points 
+6. Varia: further points raised by Tech Committee members:
+    - (Vinit) RFC: ready for voting? https://github.com/django-cms/django-cms/discussions/7125
+        - TC encourages someone to try this on a new project where it doesn't create impact on the community and report back on the outcome
+        - Mark: Would be worth mentioning my pre-commit PR. If people are happy with what I've included, we can spread this to the other repos; https://github.com/django-cms/djangocms-bootstrap4/pull/142
+            - TC approves this as the preferred strategy regarding automated code formatting
+    - (Andrew) new RFC "Package version number release scheme for django-cms 4.x packages"- please review: https://github.com/django-cms/django-cms/discussions/7149
+        - TC follows Mark's suggestion to coordinate a sunset roadmap for django CMS 3 support from where on only minor version numbers would be used for django CMS v3 compatible versions and the next major version introduces django CMS 4 compatibility, from there on it can continue with major version number increments.
+    - (Jens-Erik) Timezone and summer time issue - are we sticking to the current meeting time?
+        - We keep it like this.
+    - (Jacob) django-filer 2.1 (with SVG support) has been released. There have been some reports from one user wanting "reportlab" being optional. This library however is required  for SVG. And I don't want to make this just optional. SVG shall be a fundamentally supported image type.
+        - TC follows Jacob's proposal to keep the reportlab package.
 7. Review Tasks
     - https://github.com/django-cms/django-cms-mgmt/projects/1
 8. News & updates for / from dCA Board and MarCom
