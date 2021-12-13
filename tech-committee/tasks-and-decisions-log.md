@@ -11,7 +11,7 @@
 
 <strong>Policy: If there are no items on the agenda 30 minutes before the meeting, the meeting will be cancelled.</strong>
 
-## 19.11.2021 (Upcoming Meeting)
+## dd.mm.2022
 
 #### Agenda Points
 <small>TBD in in the first 5 min of the meeting</small>
@@ -21,14 +21,84 @@
     - (Name) 
 4. Review agenda and add missing points 
 6. Varia: further points raised by Tech Committee members:
-    - (Name) ...
+8. Review Tasks
+    - https://github.com/django-cms/django-cms-mgmt/projects/1
+9. News & updates for / from dCA Board and MarCom
+10. Review approve and post the meeting notes
+
+## 17.12.2021
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Guest(s) intro
+    - (Name) 
+4. Review agenda and add missing points 
+6. Varia: further points raised by Tech Committee members:
+    - (Andrew) Django 2.2 support in packages, change and release plan for django 4.x?
+8. Review Tasks
+    - https://github.com/django-cms/django-cms-mgmt/projects/1
+9. News & updates for / from dCA Board and MarCom
+10. Review approve and post the meeting notes
+
+## 03.12.2021
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Guest(s) intro
+    - (Name) 
+4. Review agenda and add missing points 
+6. Varia: further points raised by Tech Committee members:
+    - (Andrew) Divio Addon releases as part of the DCA release process?
+        - The release process should be updated to include notifying Angelo / someone at Divio that a release to a package has been made and a Divio Cloud / Marketplace addon may need to be released.
+    - (Jens-Erik) Legacy plugins: [cmsplugin-filer](https://github.com/divio/cmsplugin-filer) should link to David Bertrand’s [migration app](https://www.imagescape.com/blog/migrate-away-cmsplugin-filer-few-easy-steps/), based on an undocumented [Github gist](https://gist.github.com/wfehr/86ac31e8e263b872b746cc721662251e). I have made a [fork](https://github.com/MacLake/deprecate_cmsplugin_filer) and PR with some improvements.
+        - cmsplugin-filer was transfered to dCA github org. Readme file will be changed by Nicolai accordingly. The migration app will be included in the next community news. 
+    - (Jacob) Django filer PR https://github.com/django-cms/django-filer/pull/1264
+        - We keep support for Python-3.6 and add a conditional to fix tests.
+8. Review Tasks
+    - https://github.com/django-cms/django-cms-mgmt/projects/1
+9. News & updates for / from dCA Board and MarCom
+- dCA board is preparing the strategy for the dCA for 2022
+11. Review approve and post the meeting notes
+
+## 19.11.2021 
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Guest(s) intro
+    - (Name) 
+4. Review agenda and add missing points 
+6. Varia: further points raised by Tech Committee members:
+    - (Simon & Jens Erik) Related to [this GitHub issue](https://github.com/django-cms/django-cms/issues/7151) - We should maybe think about changing the default settings for djangocms-ckeditor so that empty `<i class="…"></i>` no longer disappear when used in the source view. Because it could lead to confusion.
+        - The TC endorses this idea
+    - (Angelo) deprecating https://marketplace.django-cms.org/en/ 
+        - Next: Redirect URL, Nicolai to create blog post about deprecation 
+        - The TC approves this motion
+    - (Jens-Erik) After Nicolai’s survey: What about promoting the forum for support?
+        - Feature forum on website more prominently as primary support channel 
+        - Investigate: Install Greet Bot that welcomes every member and presents all support options (push towards forum)
+    - (Andrew) Move djangocms core components to DCA
+        - Angelo going to ask internally if it is ok to move core repos to dCA org and follow through accordingly
+        - djangocms-versioning
+        - djangocms-alias
+        - djangocms-url-manager 
+    - (Andrew) djangocms-snippet v4 release version number agreement, https://github.com/django-cms/django-cms/discussions/7149
+        - Andrew to come up with a proposal which will be posted in discussion 
+    - (Mark) I've made a start on automating releases; https://github.com/django-cms/django-classy-tags/pull/64 
+        - You're da  man! Really cool effort Mark!
 7. Review Tasks
     - https://github.com/django-cms/django-cms-mgmt/projects/1
 8. News & updates for / from dCA Board and MarCom
+    - New tutorial video: [django CMS Quickstart](https://youtu.be/XJsP85ksvOo) by Simon 
 10. Review approve and post the meeting notes
 
 
-## 05.11.2021 (Today's Meeting)
+## 05.11.2021
 
 #### Agenda Points
 <small>TBD in in the first 5 min of the meeting</small>
