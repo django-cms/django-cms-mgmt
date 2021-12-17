@@ -26,6 +26,22 @@
 9. News & updates for / from dCA Board and MarCom
 10. Review approve and post the meeting notes
 
+## 07.01.2022
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Guest(s) intro
+    - (Name) 
+4. Review agenda and add missing points 
+6. Varia: further points raised by Tech Committee members:
+8. Review Tasks
+    - https://github.com/django-cms/django-cms-mgmt/projects/1
+9. News & updates for / from dCA Board and MarCom
+10. Review approve and post the meeting notes
+
+
 ## 17.12.2021
 
 #### Agenda Points
@@ -37,10 +53,20 @@
 4. Review agenda and add missing points 
 6. Varia: further points raised by Tech Committee members:
     - (Andrew) Django 2.2 support in packages, change and release plan for django 4.x?
-8. Review Tasks
+        - drop support for django==2.2 for the next django-cms 4 (4.2) and django-cms 3 (3.11) release, support 3.2 (LTS) on dcms 3, 4, recommend 3.2 (LTS) for all packages
+        - use major version numbers for breaking changes on all packages in the ecosystem (i.e. version your package from x -> x+1 if changes contain dependency upgrades such as django 2.x -> 3.x or dcms 3.x -> 4.x)
+        - Reminder: django CMS LTS Release 3.11 for end of Q1 2022 (must support django 3.2) until 2024
+    - (Florian) Update 3.10 release 
+    - (Jacob) Enhancement proposals:
+        - https://github.com/django-cms/django-cms/discussions/7174
+    - (Nicolai) [New project guide released](https://docs.django-cms.org/en/latest/contributing/guideline-for-django-cms-projects.html)
+9. Review Tasks
     - https://github.com/django-cms/django-cms-mgmt/projects/1
-9. News & updates for / from dCA Board and MarCom
-10. Review approve and post the meeting notes
+10. News & updates for / from dCA Board and MarCom
+    - Announcement released: New [volunteer positions](https://www.django-cms.org/en/blog/2021/12/07/new-dca-volunteer-positions-available-in-2022/) available 
+    - [django CMS Fellowship program](https://www.django-cms.org/en/fellowship-program/)
+    - Announcement released: [django CMS Marketplace deprecated](https://www.django-cms.org/en/blog/2021/12/15/end-of-life-for-marketplace/)
+11. Review approve and post the meeting notes
 
 ## 03.12.2021
 
