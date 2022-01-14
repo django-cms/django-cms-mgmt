@@ -19,14 +19,14 @@
 1. Add new entry for next meeting from template
 2. Guest(s) intro
     - (Name) 
-4. Review agenda and add missing points 
-6. Varia: further points raised by Tech Committee members:
-8. Review Tasks
+3. Review agenda and add missing points 
+4. Varia: further points raised by Tech Committee members:
+5. Review Tasks
     - https://github.com/django-cms/django-cms-mgmt/projects/1
-9. News & updates for / from dCA Board and MarCom
-10. Review approve and post the meeting notes
+7. News & updates for / from dCA Board and MarCom
+8. Review approve and post the meeting notes
 
-## 07.01.2022
+## 28.01.2022
 
 #### Agenda Points
 <small>TBD in in the first 5 min of the meeting</small>
@@ -34,12 +34,33 @@
 1. Add new entry for next meeting from template
 2. Guest(s) intro
     - (Name) 
-4. Review agenda and add missing points 
-6. Varia: further points raised by Tech Committee members:
-8. Review Tasks
+3. Review agenda and add missing points 
+4. Varia: further points raised by Tech Committee members:
+5. Review Tasks
     - https://github.com/django-cms/django-cms-mgmt/projects/1
-9. News & updates for / from dCA Board and MarCom
-10. Review approve and post the meeting notes
+7. News & updates for / from dCA Board and MarCom
+8. Review approve and post the meeting notes
+
+## 14.01.2022
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Guest(s) intro
+3. Review agenda and add missing points 
+4. Varia: further points raised by Tech Committee members:
+   - Mario: version policy (dcms 3 / 4 compat policy for packages) - it's agreed upon but is there documentation (maybe a blog article?)
+       - Mario to do a RFC
+   - Andrew: Dark mode breakage dj3.2+ https://github.com/django-cms/djangocms-admin-style/issues/439
+       - Andrew to assess what needs to be done to fix
+6. Review Tasks
+    - https://github.com/django-cms/django-cms-mgmt/projects/1
+7. News & updates for / from dCA Board and MarCom
+    - Mario: Demo workgroup: the 60min demo project can now be recreated locally via new https://github.com/django-cms/django-cms-60min-demo-2021/
+        - Simon to test the project and create issues in the repo. 
+    - Announcement for new Platinum Member LWL (15k EUR p.a)
+8. Review approve and post the meeting notes
 
 
 ## 17.12.2021
