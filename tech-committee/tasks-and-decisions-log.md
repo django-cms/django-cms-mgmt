@@ -26,7 +26,8 @@
 7. News & updates for / from dCA Board and MarCom
 8. Review approve and post the meeting notes
 
-## 28.01.2022
+
+## 25.02.2022 (NEXT)
 
 #### Agenda Points
 <small>TBD in in the first 5 min of the meeting</small>
@@ -40,6 +41,66 @@
     - https://github.com/django-cms/django-cms-mgmt/projects/1
 7. News & updates for / from dCA Board and MarCom
 8. Review approve and post the meeting notes
+
+## 11.02.2022 (CURRENT)
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Guest(s) intro
+    - Fabian 
+3. Review agenda and add missing points 
+4. Varia: further points raised by Tech Committee members:
+   - Mario: ok to add the policy about version numbers to the official documentation: https://github.com/django-cms/django-cms/discussions/7149
+   - Angelo: Seriously, Marketplace needs a redirect ;)
+       - handled by Mario
+   - Angelo: Django 3.2 support on Alias, URL Manager, Versioning
+       - djangocms-alias - https://github.com/django-cms/djangocms-alias/pull/78
+       -- djangocms-url-manager - https://github.com/django-cms/djangocms-url-manager/pull/66
+       - djangocms-versioning - No PR here yet that I can see.
+   - Fabian: Darkmode?
+       - Andrew (djangocms-admin-style package)
+       - new workgroup-darkmode (feel free to join on Slack)
+6. Review Tasks
+    - https://github.com/django-cms/django-cms-mgmt/projects/1
+7. News & updates for / from dCA Board and MarCom
+    - From the dCA board: nominations for leadership positions
+    - To MarCom: Pending RC 3.10
+9. Review approve and post the meeting notes
+
+## 28.01.2022
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Guest(s) intro
+    - (Name) 
+3. Review agenda and add missing points 
+4. Varia: further points raised by Tech Committee members:
+    - Mark: Automate cleanup of stale issues/PRs
+        - https://github.com/actions/stale
+        - How long before an issue/PR is considered stale?
+        - Next Step: Mark to have a look at the bot settings and to come up with a proposal for how to configure the bot
+    - Mark: New gulp pipeline & dependabot security updates to keep things up-to-date.
+    - Mark: Python support for upcoming features.
+        - Python 3.6 is [EOL](https://endoflife.date/python), 3.7 has 18mths left
+        - Django 4 supports python >=3.8
+        - Perhaps django-cms 3 & 4 get a minor release to bring in [python 3.10 support](https://github.com/django-cms/django-cms/pull/7126), then [django 4](https://github.com/django-cms/django-cms/pull/7184), while other packages in the dCA perhaps stay closer to semver and the django 4 support comes with a major version bump.
+    - Jacob Rief: Replace model `menus.models.CacheKey` by wildcard deletion. In Redis this is a feature and for memcached there is a workaround.
+    - Jacob Rief:
+        - New permission to set page as HOME must be added.
+        - Selecting a User and/or Group shall be handled by auto_complete fields.
+        - Strange assumptions in some unit tests.
+    - Angelo Dini:
+        - Reminder to deprecate the django-cms marketplace end of January (https://marketplace.django-cms.org/)
+        - Who will change the domain? Nicolai to ask Mario about next steps
+5. Review Tasks
+    - https://github.com/django-cms/django-cms-mgmt/projects/1
+7. News & updates for / from dCA Board and MarCom
+    - new dCA member: [alwaysdata (hosting solution) ](https://www.alwaysdata.com/fr/marketplace/django-cms/)
+9. Review approve and post the meeting notes
 
 ## 14.01.2022
 
