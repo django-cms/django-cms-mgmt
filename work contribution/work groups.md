@@ -46,10 +46,9 @@ Anyone can join a workgroup or propose the creation of a new workgroup for an is
 
 ## How do workgroups organize their work collaboration?
 
-The organization of work collaboration in workgroups is up to the group members. They can decide how they want to collaborate on their assigned tasks. However, the django CMS Association provides various collaboration tools that can be freely used by the group members:
+The organization of work collaboration in workgroups is up to the group members. They can decide how they want to collaborate on their assigned tasks. However, the django CMS Association provides a collaboration tool that can be freely used by the group members:
 
 - [Slack](https://www.django-cms.org/slack) 
-- [Discourse Forum](https://discourse.django-cms.org/)
 
 
 ## How can workgroups keep others informed about their work progress? 
