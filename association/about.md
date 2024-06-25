@@ -12,28 +12,19 @@ The django CMS Association is a non-profit organization that was founded in 2020
 
 ## Funding
 
-As non-profit organization, the dCA is dependent on donations from the django CMS community. The best way to donate is to become a member of the association and pay membership fees. The funding will be funneled back into core development of django CMS and other community projects. 
+As non-profit organization, the dCA is dependent on donations from the django CMS community. The best way to donate is to become a [django CMS Sponsor through Github](https://github.com/sponsors/django-cms). The funding will be funneled back into core development of django CMS and other community projects. 
 
-You can also contribute to the dCA through work contribution. Find out more *[here](https://www.django-cms.org/en/become-community-hero/)*
-
-[Members directory](https://www.django-cms.org/en/our-members/)
+Continue here for more information about [how to support django CMS](https://www.django-cms.org/en/donate/).
 
 ## Statutes
 
-Read more about the different organs (General Assembly, Executive Committee, etc.), the voting rights and other regulations of the association in our [statutes
-](https://www.django-cms.org/dca-bylaws)
+Read more about the different organs (General Assembly, Leadership Team, etc.), the voting rights and other regulations of the association in our [statutes](https://www.django-cms.org/dca-bylaws)
+
 ## Executive Committee
 
-The Executive Committee represents the Association externally and manages ongoing business operations.
+The Leadership Team represents the Association externally and manages ongoing business operations.
 
-Members
-- [Mario Colombo | President](https://www.linkedin.com/in/mario-colombo/)
-- [Bhavesh Nayi | Vice-President](https://www.linkedin.com/in/bhaveshnayi/)
-- [Joel Burch | Secretary](https://www.linkedin.com/in/joel-burch/)
-- [Marcus Kuhn | Treasurer](https://www.linkedin.com/in/marcuskuhn/)
-- [Luke Szkudlarek | Communications & Marketing Officer](https://www.linkedin.com/in/szkudlarek/)
-- [Daniele Procida | Community & Events Officer](https://www.linkedin.com/in/danieleprocida/)
-- [Nicolai Ridani | Growth & Community Manager](https://www.linkedin.com/in/nicolai-ridani/)
+See [list of members here](https://www.django-cms.org/en/about-us/)
 
 ## Tech Committee
 
@@ -45,28 +36,18 @@ The TC prepares and updates the technical roadmap for approval by the Executive 
 
 The responsibility for the django CMS project is shared on the shoulders of many. According to their expertise, the members are responsible for their respective area. The different areas can change according to the needs and situation of the django CMS project. The django CMS is open to suggestions for new areas of responsibility and allows everyone to take over their own field and to actively participate. 
 
-- [Roles & Responsibilities](https://docs.google.com/document/d/1UPnQ81s0EaXfOJ3gggj31U-TLGmMUv33aFecEcf0nag/edit?ts=5f71d9cb#)  
+- [Roles & Responsibilities](https://www.django-cms.org/en/volunteering-opportunities/)  
 
 ## Contributors 
 
 [List of contributors](https://github.com/django-cms/django-cms-mgmt/blob/master/community%20heros/list%20of%20community%20heros.md)
-
-## Tasks
-
-All decisions and tasks of the Executive Board of the dCA can be viewed in the Task & Decision log. 
-
-- [Task & Decision Log](https://github.com/django-cms/django-cms-mgmt/blob/master/association/tasks-and-decisions-log.md)  
-
-## Administration & Accounting
-
-Billing policy: Services provided to the django CMS Association are to be billed on an hourly basis according to time spent. 
 
 
 # Processes
 
 ### Become a member of the django CMS Association
 
-First you need to decide which membership tier you choose. Find out more about our different membership tiers *[here](https://github.com/django-cms/django-cms-mgmt/blob/master/tech-committee/about.md#processes)* 
+First you need to decide which membership tier you choose. Find out more about our different membership tiers *[here](https://www.django-cms.org/en/memberships/)* 
 
 In case you want to get in contact with the dCA first and discuss the possibility of joining the association, *[sign up here](https://www.django-cms.org/en/sign-up/)* and we will get in touch with you as soon as possible. 
 

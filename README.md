@@ -14,12 +14,11 @@
 ## Contribution 
    - [Community Heros](https://github.com/django-cms/django-cms-mgmt/blob/master/community%20heros/list%20of%20community%20heros.md)
    - [Workgroups](https://github.com/django-cms/django-cms-mgmt/blob/master/work%20contribution/work%20groups.md)
-   - [Developer Bounty Program](https://www.django-cms.org/en/)
    - [Contribution Policy](https://github.com/django-cms/django-cms-mgmt/blob/master/contribution%20policy/contribution%20policy.md)
 
 ## Community (Activities & Events) 
    - Weekly event: [Tech committee meeting (open for all)](https://github.com/django-cms/django-cms-mgmt/blob/master/community%20and%20support/weekly%20tech%20committee%20meeting.md) 
-   - [Slack](https://www.django-cmx.org/slack)
+   - [Discord](https://discord-main-channel.django-cms.org/)
    - [Code of conduct](http://docs.django-cms.org/en/latest/contributing/code_of_conduct.html)  
    
  ## Support

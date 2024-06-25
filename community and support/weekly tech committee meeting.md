@@ -1,7 +1,6 @@
 # Bi-Weekly Event (every Friday, 3pm - 3.45pm CET): Public tech committee meeting 
 
-The tech committee’s job is to prepare and update the technical roadmap. It manages incoming feature requests and proposals
-and takes decisions on awarding credits for work submitted by members. 
+The tech committee’s job is to prepare and update the technical roadmap. It manages incoming feature requests and proposals and takes decisions on awarding credits for work submitted by members. 
 
 # Agenda 
 

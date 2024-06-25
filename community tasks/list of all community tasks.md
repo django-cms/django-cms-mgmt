@@ -5,15 +5,8 @@ This is an overview of all the tasks in the django CMS community. As you can see
 ## Community Tasks 
 
 - Help with django CMS development and join a [workgroup](https://github.com/django-cms/django-cms-mgmt/blob/master/work%20contribution/work%20groups.md)
-  - django CMS 4.0 (Slack: #workgroup-django-cms-4-0 | [Tech Brief](https://hackmd.io/5Sj6X5XhTJOmZgNj8e_KCw))
-  - CKEditor5 (Slack: #workgroup-ckeditor5 | [Tech Brief](https://hackmd.io/@django-cms/workgroup-ckeditor5))
-  - Project template (Slack: #workgroup-project-template | [Tech Brief](https://hackmd.io/@django-cms/workgroup-project-template))
-  - djangocms-transfer evolution (Slack: #workgroup-pages-import-export | [Proposal](https://gitlab.com/what-digital/djangocms-transfer))
-  - boostrap4 / responsive grid improvements ([Issue](https://gitlab.com/what-digital/django-cms-association/-/issues/199)) 
-  - Release Management (Slack: #workgroup-release-management | [Tech Brief](https://hackmd.io/NP5OFRy9T7ONH4mJb4FF9g))
-  - Pull Request Review (Slack: #workgroup-pr-review) 
-  - Documentation (Slack: #workgroup-documentation)
-  - more [workgroups](https://github.com/django-cms/django-cms-mgmt/blob/master/work%20contribution/work%20groups.md)
+  - Pull Request Reviews - join us at [#pr-reviews](https://discord-pr-review-channel.django-cms.org)) 
+  - Documentation - join us at [#documentation](https://discord-docs-channel.django-cms.org)
 - Create Content for django CMS and release it on www.django-cms.org
   - (Guest) Blog Article: Write a (guest) blog article about a django CMS related topic and publish it on our website. Drive a lot of traffic not only to our website but also to your project
   - (Video) Tutorials: Create a new video tutorial for django CMS beginners and replace our most clicked [video](https://www.youtube.com/watch?v=NbsRVfLCE1U&feature=youtu.be) on Youtube. Many thousand of people will thank you.
@@ -22,19 +15,15 @@ This is an overview of all the tasks in the django CMS community. As you can see
   - Webinars: Host a webinar and present your project or a topic of your choice to the django CMS community. 
 - Help us with user support and make django CMS a compelling experience for our user base
   -  Answer support queries in 
-    - our #support Channel on [Slack](www.django-cms.org/slack)
+    - our [#support](https://discord-support-channel.django-cms.org) Channel)
     - on [Stackoverflow ](https://stackoverflow.com/questions/tagged/django-cms)
-    - in our [Discourse](https://discourse.django-cms.org) forum
-- Review [Pull Requests on Github](https://github.com/django-cms/django-cms/pulls) and decide with us in which direction django CMS moves. 
 - Host a workshop 
 
-## How to sign up for a task
+## How to get involved
 
-1. Choose a community task 
+2. [Join us on Discord](https://discord-main-channel.django-cms.org) and get in touch with the django CMS team.
 
-2. [Sign up for the task](https://www.django-cms.org/en/sign-up-work-contribution/) 
-
-3. Get onboarded and start with the task
+3. In collaboration with the django CMS team on Discord, get onboarded on a specific topic or project
 
 4. Become a Community Hero
 
@@ -42,8 +31,4 @@ This is an overview of all the tasks in the django CMS community. As you can see
 
 These are the amazing [people](https://github.com/django-cms/django-cms-mgmt/blob/master/community%20heros/list%20of%20community%20heros.md) who contribute to the django CMS project
 
-
-## Contribute to django CMS and win rewards!
-
-After you have decided to contribute, you should take a look at our [Developer Bounty Program](https://www.django-cms.org/en/bounty-program/). 
 

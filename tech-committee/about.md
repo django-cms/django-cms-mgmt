@@ -13,15 +13,6 @@ The the Technical Committee (TC) will include key developers from companies and 
 
 The TC may also include representatives of the django CMS community who are not developers but who have a valuable expertise in key fields (user experience, design, content management, etc).
 
-The current members of the TC are:
-- Mario Colombo (Project Management & Technology Officer)
-- Angelo Dini 
-- Victor Yunenko
-- Andrew Aikman 
-- Iacopo Spalleti 
-- Jacob Rief
-- Narender Bongoni 
-
 Want to join the TC? Please see below.
 
 
