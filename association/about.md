@@ -20,7 +20,7 @@ Continue here for more information about [how to support django CMS](https://www
 
 Read more about the different organs (General Assembly, Leadership Team, etc.), the voting rights and other regulations of the association in our [statutes](https://www.django-cms.org/dca-bylaws)
 
-## Executive Committee
+## Leadership Team
 
 The Leadership Team represents the Association externally and manages ongoing business operations.
 
@@ -29,8 +29,6 @@ See [list of members here](https://www.django-cms.org/en/about-us/)
 ## Tech Committee
 
 The TC prepares and updates the technical roadmap for approval by the Executive Board and/or the General Assembly, manages incoming feature requests and proposals and takes decisions on awarding credits for work submitted by members.
-
-[Members](https://github.com/django-cms/django-cms-mgmt/blob/master/community%20and%20support/weekly%20tech%20committee%20meeting.md)
 
 ## Roles & Responsibilties 
 

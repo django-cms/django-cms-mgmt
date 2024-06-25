@@ -13,7 +13,7 @@ The the Technical Committee (TC) will include key developers from companies and 
 
 The TC may also include representatives of the django CMS community who are not developers but who have a valuable expertise in key fields (user experience, design, content management, etc).
 
-Want to join the TC? Please see below.
+Want to join the TC? Please join the [#technical-committee](https://discord-tech-committee-channel.django-cms.org) and get in touch with the team to get involved. The team will then instruct you on how to participate in the weekly meeting.
 
 
 
@@ -37,18 +37,6 @@ Want to join the TC? Please see below.
 
 Anyone can join the Tech Committee (TC) meetings as a [guest](https://github.com/django-cms/django-cms-mgmt/blob/master/community%20and%20support/weekly%20tech%20committee%20meeting.md).
 
-Membership on the TC will grant:
-- the right to set the TC agenda (via PR) before TC meetings
-- write access to the django CMS Github repo which is useful for the following:
-   - review and accept PRs
-   - manage issues, i.e. add, remove labels / close issues
-   - other admin tasks 
+Please join the [#technical-committee](https://discord-tech-committee-channel.django-cms.org) and get in touch with the team to get involved. The team will then instruct you on how to participate in the weekly meeting.
 
-#### Admission process
-- join us as a guest a couple of times
-- a guest requests a seat in the technical committee during a TC meeting
-- dCA TC will then cast a vote (in absence of the candidate)
-- candidate will be informed about the outcome of the voting
-- candidate will be sent a dCA membership application if not a dCA member yet
 
-Do you have questions? Please reach out to nicolai@django-cms.org 
