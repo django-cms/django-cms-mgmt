@@ -2,9 +2,7 @@
 
 ## django CMS Association
    - [About the dCA (mission, tasks & processes)](/association/about.md)
-   - [Tasks & Decisions Log](/association/tasks-and-decisions-log.md)
-   - [Roles & Responsibilities in the dCA](https://docs.google.com/document/d/1UPnQ81s0EaXfOJ3gggj31U-TLGmMUv33aFecEcf0nag/edit?ts=5f71d9cb#)
-   - [Members directory](https://github.com/django-cms/django-cms-mgmt/blob/master/association/members.md)
+   - [Roles & Responsibilities in the dCA](https://www.django-cms.org/en/volunteering-opportunities/)
    - [Sign up for memberships](https://www.django-cms.org/en/about-us/)
     
 ## Tech Committee
@@ -28,5 +26,5 @@
   
 ## Product Management
    - [Product Guidelines](https://docs.google.com/presentation/d/1axCv5HuMIIFzP1MNbwCUen7M0pEapxuXRMLEC70NXiU/edit#slide=id.p)
-   - [Technical Roadmap](/django-cms/roadmap.md)
+   - [Technical Roadmap](https://www.django-cms.org/en/roadmap/) and [Product Vision](https://www.django-cms.org/en/product-vision/)
    - [Testing Checklist](https://www.notion.so/CMS-core-a90e440827294064a4dc380e3edd9dc5)
