@@ -4,7 +4,7 @@ This is an overview of all the tasks in the django CMS community. As you can see
 
 ## Community Tasks 
 
-- Help with django CMS development and join a [workgroup](https://github.com/django-cms/django-cms-mgmt/blob/master/work%20contribution/work%20groups.md)
+- Help with django CMS development and join a [workgroup](/contributions/work-groups.md)
   - Pull Request Reviews - join us at [#pr-reviews](https://discord-pr-review-channel.django-cms.org)) 
   - Documentation - join us at [#documentation](https://discord-docs-channel.django-cms.org)
 - Create Content for django CMS and release it on www.django-cms.org
@@ -29,6 +29,6 @@ This is an overview of all the tasks in the django CMS community. As you can see
 
 ## Our Community Heros
 
-These are the amazing [people](https://github.com/django-cms/django-cms-mgmt/blob/master/community%20heros/list%20of%20community%20heros.md) who contribute to the django CMS project
+These are the amazing [people](https://www.django-cms.org/en/community/community-heros/) who contribute to the django CMS project
 
 

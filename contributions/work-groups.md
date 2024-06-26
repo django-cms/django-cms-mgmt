@@ -2,7 +2,7 @@
 
 ## General Information
 
-Workgroups are the heart of our open-source project. A workgroup is a temporary or permanent group of [Community Heros](https://github.com/django-cms/django-cms-mgmt/blob/master/community%20heros/list%20of%20community%20heros.md) who work together on a single or several open feature requests, bugs or feature improvements. The creation of a workgroup can be spontaneous and only last for the duration of the assigned task(s) or for long-term cooperation on a specific topic group. 
+Workgroups are the heart of our open-source project. A workgroup is a temporary or permanent group of [Community Heros](/community/community-heroes.md) who work together on a single or several open feature requests, bugs or feature improvements. The creation of a workgroup can be spontaneous and only last for the duration of the assigned task(s) or for long-term cooperation on a specific topic group. 
 
 ℹ️ See all active workgroups [here](https://www.django-cms.org/en/roadmap/) 
 
@@ -23,8 +23,8 @@ Workgroups are the heart of our open-source project. A workgroup is a temporary 
 ## Announcing workgroup progress 
 
 For all workgroup members:
-- We invite you to join the weekly [Technical Committee meeting](https://github.com/django-cms/django-cms-mgmt/blob/master/community%20and%20support/weekly%20tech%20committee%20meeting.md) from time to time and report on the progress made.
-- Please notify Nicolai (nicolai@django-cms.org) when the workgroup has made significant progress or even completed a task so that he can create a community blog post.
+- We invite you to join the weekly [Technical Committee meeting](/tech-committee/weekly-tech-committee-meeting.md) from time to time and report on the progress made.
+- Please notify Nicolai (nicolai@django-cms.org) when the workgroup has made significant progress or even completed a task so that he can create a blog post or include it in the newsletter.
 
 # Workgroup FAQ
 
@@ -38,7 +38,7 @@ The organization of work collaboration in workgroups is up to the group members.
 
 ## How can workgroups keep others informed about their work progress? 
 
-In order to sync on the work progress of the workgroups, one member of the workgroup should attend the [weekly tech committee meeting](https://github.com/django-cms/django-cms-mgmt/blob/master/community%20and%20support/weekly%20tech%20committee%20meeting.md) every once in a while to report on the work progress. In case you want to join the weekly tech committee to report on your work progress please get in touch with Nicolai (nicolai@django-cms.org), who will guide you through the process. 
+In order to sync on the work progress of the workgroups, one member of the workgroup should attend the [weekly tech committee meeting](/tech-committee/weekly-tech-committee-meeting.md) every once in a while to report on the work progress. In case you want to join the weekly tech committee to report on your work progress please get in touch with Nicolai (nicolai@django-cms.org), who will guide you through the process. 
 
 ## I have a conflict with members of my workgroup. What do I do?
 

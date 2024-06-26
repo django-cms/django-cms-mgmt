@@ -4,7 +4,7 @@ The tech committee’s job is to prepare and update the technical roadmap. It ma
 
 # Agenda 
 
-- [Tech Committee - Tasks and Decisions Log](https://github.com/django-cms/django-cms-mgmt/blob/master/tech-committee/tasks-and-decisions-log.md)
+- [Tech Committee - Tasks and Decisions Log](/tech-committee/tasks-and-decisions-log.md)
 
 
 # Join as a guest listener 
@@ -15,4 +15,4 @@ If you are interested in joining the meeting, please get in touch with Nicolai (
 
 # How to become a regular member of the tech committee
 
-[Process](https://github.com/django-cms/django-cms-mgmt/blob/master/tech-committee/about.md#become-am-member-of-the-tech-committee)
+[Process](/tech-committee/about.md#become-am-member-of-the-tech-committee)

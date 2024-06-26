@@ -6,7 +6,7 @@ Everyone who contributes to the django CMS project is required to abide by the C
 
 [Link](https://docs.django-cms.org/en/latest/contributing/code.html#)
 
-## Apply for one of the volunteer positions
+## Apply for a volunteer position
 
 Plese check the [volunteering opportunities on django-cms.org](https://www.django-cms.org/en/volunteering-opportunities/)
 
