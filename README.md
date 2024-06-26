@@ -10,21 +10,21 @@
    - [Tasks & Decisions Log](/tech-committee/tasks-and-decisions-log.md)
    
 ## Contribution 
-   - [Community Heros](https://github.com/django-cms/django-cms-mgmt/blob/master/community%20heros/list%20of%20community%20heros.md)
-   - [Workgroups](https://github.com/django-cms/django-cms-mgmt/blob/master/work%20contribution/work%20groups.md)
-   - [Contribution Policy](https://github.com/django-cms/django-cms-mgmt/blob/master/contribution%20policy/contribution%20policy.md)
+   - [Community Heros](/community/community-heroes.md)
+   - [Workgroups](/contributions/work-groups.md)
+   - [Contribution Policy](/contributions/contribution-policy.md)
 
 ## Community (Activities & Events) 
-   - Weekly event: [Tech committee meeting (open for all)](https://github.com/django-cms/django-cms-mgmt/blob/master/community%20and%20support/weekly%20tech%20committee%20meeting.md) 
+   - Weekly event: [Tech committee meeting (open for all)](/tech-committee/weekly-tech-committee-meeting.md) 
    - [Discord](https://discord-main-channel.django-cms.org/)
    - [Code of conduct](http://docs.django-cms.org/en/latest/contributing/code_of_conduct.html)  
    
  ## Support
-   - [Support channels](https://github.com/django-cms/django-cms-mgmt/blob/master/support%20channels/support%20channels.md) 
+   - [Support channels](https://www.django-cms.org/en/support/) 
    - [Documentation](https://docs.django-cms.org/en/latest/index.html)
    - [User Guide](https://user-guide.django-cms.org/)
   
 ## Product Management
-   - [Product Guidelines](https://docs.google.com/presentation/d/1axCv5HuMIIFzP1MNbwCUen7M0pEapxuXRMLEC70NXiU/edit#slide=id.p)
-   - [Technical Roadmap](https://www.django-cms.org/en/roadmap/) and [Product Vision](https://www.django-cms.org/en/product-vision/)
-   - [Testing Checklist](https://www.notion.so/CMS-core-a90e440827294064a4dc380e3edd9dc5)
+   - [Product Vision](https://www.django-cms.org/en/product-vision/)
+   - [Product Roadmap](https://www.django-cms.org/en/roadmap/)
+

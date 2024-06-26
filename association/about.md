@@ -38,7 +38,7 @@ The responsibility for the django CMS project is shared on the shoulders of many
 
 ## Contributors 
 
-[List of the main contributors](https://www.django-cms.org/en/community/community-heros/)
+[List of the main contributors](https://www.django-cms.org/en/community/community-heroes/)
 
 # Processes
 

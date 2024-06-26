@@ -27,8 +27,8 @@ This is an overview of all the tasks in the django CMS community. As you can see
 
 4. Become a Community Hero
 
-## Our Community Heros
+## Our Community Heroes
 
-These are the amazing [people](https://www.django-cms.org/en/community/community-heros/) who contribute to the django CMS project
+These are the amazing [people](https://www.django-cms.org/en/community/community-heroes/) who contribute to the django CMS project
 
 

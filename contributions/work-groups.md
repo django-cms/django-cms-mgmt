@@ -2,7 +2,7 @@
 
 ## General Information
 
-Workgroups are the heart of our open-source project. A workgroup is a temporary or permanent group of [Community Heros](/community/community-heroes.md) who work together on a single or several open feature requests, bugs or feature improvements. The creation of a workgroup can be spontaneous and only last for the duration of the assigned task(s) or for long-term cooperation on a specific topic group. 
+Workgroups are the heart of our open-source project. A workgroup is a temporary or permanent group of [Community Heroes](/community/community-heroes.md) who work together on a single or several open feature requests, bugs or feature improvements. The creation of a workgroup can be spontaneous and only last for the duration of the assigned task(s) or for long-term cooperation on a specific topic group. 
 
 ℹ️ See all active workgroups [here](https://www.django-cms.org/en/roadmap/) 
 
