@@ -24,6 +24,8 @@ Auditors also will have to be elected formally same as Members of the Board.
 
 So we can nominate you please provide the following information about yourself:
 
+A profile picture, please see https://www.django-cms.org/en/about-us/#django-cms-team for best format and resolution.
+
 ```
 <Names>, based in <city, country>
 Linkedin Profile URL: <https://...>
