@@ -26,6 +26,8 @@ The Leadership Team represents the Association externally and manages ongoing bu
 
 See [list of members here](https://www.django-cms.org/en/about-us/)
 
+Here is how to [join the Leadership Team](/association/leadership-team.md)
+
 ## Tech Committee
 
 The TC prepares and updates the technical roadmap for approval by the Executive Board and/or the General Assembly, manages incoming feature requests and proposals and takes decisions on awarding credits for work submitted by members.
@@ -36,13 +38,16 @@ The responsibility for the django CMS project is shared on the shoulders of many
 
 - [Roles & Responsibilities](https://www.django-cms.org/en/volunteering-opportunities/)  
 
-## Contributors 
+## Contributors
 
-[List of the main contributors](https://www.django-cms.org/en/community/community-heroes/)
+Thank you for your interest in contributing to django CMS! Below you can find a couple of hints on how to start contributing:
 
-# Processes
+- https://www.django-cms.org/en/contribute/
+- https://docs.django-cms.org/en/latest/contributing/index.html
 
-### Become a member of the django CMS Association
+Also see our [Community Heroes](/community/community-heroes.md)
+
+## Joining the dCA
 
 First you need to decide which membership tier you choose. Find out more about our different membership tiers *[here](https://www.django-cms.org/en/memberships/)* 
 
@@ -50,7 +55,7 @@ In case you want to get in contact with the dCA first and discuss the possibilit
 
 In case you have already decided to join, also use the *[sign up form](https://www.django-cms.org/en/sign-up/)* please.
 
-## Onboarding 
+### Onboarding 
 
 Once you have decided to join the dCA, you will receive a digital membership application via email. After you have digitally signed the application you will get an invoice via email. After payment we will welcome you as a new member of the django CMS Association! 
 
