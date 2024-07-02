@@ -46,10 +46,10 @@ the Leadership Team meets online one to three times a year, once before the Gene
 
 Meeting Agenda Template:
 
-- news from each: 
+- News from each participant: 
    - personal, professional life
    - activities, progress, news & trends for django CMS 
-Together...
+- Together as a group:
    - Review, update the [Annual Report](https://report.django-cms.org)
-   - Review, update the [product vision](https://www.django-cms.org/en/product-vision/) and the[Roadmap](https://www.django-cms.org/en/roadmap/)
+   - Review, update the [product vision](https://www.django-cms.org/en/product-vision/) and the [technical roadmap](https://www.django-cms.org/en/roadmap/)
    - Review, update the [strategy document](https://strategy.django-cms.org) including the budget proposal
