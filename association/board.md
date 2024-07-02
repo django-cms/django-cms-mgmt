@@ -11,10 +11,10 @@ The Board of the django CMS Association consists of 4 roles:
 The following responsibilities are shared between all Board members.
 
 - Strategy
-    - Oversee, and contribute to, the yearly update of the django CMS Association Strategy & Mission presentation
+    - Oversee, and contribute to, the yearly update of the django CMS Association [Strategy & Mission presentation](https://strategy.django-cms.org)
     - Oversee, and contribute to, the definition of the technical roadmap and product strategy
 - Leadership & Representation
-    - Directing the Leadership Team
+    - Directing the [Leadership Team](/association/leadership-team.md)
     - Represent django CMS in your professional sphere (i.e. networking)
 - Financial & Legal
     - Oversee, and contribute to, the defintion of the annual dCA budget
@@ -23,7 +23,7 @@ The following responsibilities are shared between all Board members.
     - Guiding and overseeing the bookkeeping of the association to ensure that the finances of the dCA are in order and records are properly kept
     - adress any legal risks    
 - Operations
-    - Prepare and execute the annual general assembly
+    - Prepare and execute the annual [General Assembly](/association/general-assembly.md)
     - Attend and contribute to Leadership Team meetings and additional Board meetings 
     - Oversee, and contribute to, recruiting for the Leadership Team and the Fellowship Program
     - Oversee the community work groups

@@ -1,7 +1,7 @@
 # django CMS project 
 
 ## django CMS Association
-   - [About the dCA (mission, tasks & processes)](/association/about.md)
+   - [About the dCA (mission, tasks & processes)](/association/about.md) and the [General Assembly](/association/general-assembly.md)
    - [Roles & Responsibilities in the dCA](https://www.django-cms.org/en/volunteering-opportunities/), [the Board](/association/board.md) and the [Leadership Team](/association/leadership-team.md)
    - [Sign up for memberships](https://www.django-cms.org/en/about-us/)
     
