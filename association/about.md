@@ -2,6 +2,10 @@
 
 The django CMS Association is a non-profit organization that was founded in 2020 with the goal to drive the success of django CMS, by increasing customer happiness, market share and open-source contributions. We provide infrastructure and guidance for the django CMS project. 
 
+- [Current strategy](https://strategy.django-cms.org)
+- [Product vision](https://www.django-cms.org/en/product-vision/)
+- [Technical Roadmap](https://www.django-cms.org/en/roadmap/)
+
 ## Mission
 
 - **We innovate and lead**:  We define the long-term roadmap and strategy of its core development. We make sure that bugs and usability problems are fixed quickly. And most importantly: we always ensure the voice of the community is heard. 
