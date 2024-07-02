@@ -2,7 +2,7 @@
 
 ## django CMS Association
    - [About the dCA (mission, tasks & processes)](/association/about.md)
-   - [Roles & Responsibilities in the dCA](https://www.django-cms.org/en/volunteering-opportunities/)
+   - [Roles & Responsibilities in the dCA](https://www.django-cms.org/en/volunteering-opportunities/), [the Board](/association/board.md) and the [Leadership Team](/association/leadership-team.md)
    - [Sign up for memberships](https://www.django-cms.org/en/about-us/)
     
 ## Tech Committee

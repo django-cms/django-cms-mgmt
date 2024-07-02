@@ -39,3 +39,14 @@ What the <company/ies> do/es
 ```
 
 Please do include anything else you deem relevant.
+
+## Leadership Team Meetings
+
+the Leadership Team meets online one to three times a year, once before the General Assembly and up to 2 additional times ad hoc when the need arises.
+
+Meeting Agenda Template:
+
+- news from each: 
+   - personal, professional
+   - django CMS
+- Review strategy 

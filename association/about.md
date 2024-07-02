@@ -30,12 +30,13 @@ Here is how to [join the Leadership Team](/association/leadership-team.md)
 
 ## Tech Committee
 
-The TC prepares and updates the technical roadmap for approval by the Executive Board and/or the General Assembly, manages incoming feature requests and proposals and takes decisions on awarding credits for work submitted by members.
+The TC prepares and updates the technical roadmap for approval by the Executive Board and/or the General Assembly, manages incoming feature requests and proposals and takes decisions on awarding credits for work submitted by members. See [Tech Committee](/tech-committee/about.md)
 
 ## Roles & Responsibilties 
 
 The responsibility for the django CMS project is shared on the shoulders of many. According to their expertise, the members are responsible for their respective area. The different areas can change according to the needs and situation of the django CMS project. The django CMS is open to suggestions for new areas of responsibility and allows everyone to take over their own field and to actively participate. 
 
+- [the dCA Board](/association/board.md)
 - [Roles & Responsibilities](https://www.django-cms.org/en/volunteering-opportunities/)  
 
 ## Contributors
