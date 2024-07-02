@@ -16,7 +16,7 @@ The django CMS Association is a non-profit organization that was founded in 2020
 
 ## Funding
 
-As non-profit organization, the dCA is dependent on donations from the django CMS community. The best way to donate is to become a [django CMS Sponsor through Github](https://github.com/sponsors/django-cms). The funding will be funneled back into core development of django CMS and other community projects. 
+As non-profit organization, the dCA is dependent on donations from the django CMS community. The best way to donate is to become a [django CMS Sponsor through Github](https://github.com/sponsors/django-cms). The funding is used in accordance with our mission statements, currently focussing sponsoring technical development of the django CMS core and [core add-ons](https://www.django-cms.org/en/repositories-plugins/). 
 
 Continue here for more information about [how to support django CMS](https://www.django-cms.org/en/donate/).
 
