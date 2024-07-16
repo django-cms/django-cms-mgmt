@@ -51,8 +51,6 @@ Each team member to share:
 - their initiatives, activities, progress on django CMS topics
 - news & trends from their fields of activity relevant to django CMS
 
-
-### Pre-GA Leadership Team Meeting
 Additionally, once a year, in the Leadership Team meeting prior to the [General Assembly](/association/general-assembly.md):
 - Review, update the [Annual Report](https://report.django-cms.org)
 - Review, update the [product vision](https://www.django-cms.org/en/product-vision/) and the [technical roadmap](https://www.django-cms.org/en/roadmap/)
