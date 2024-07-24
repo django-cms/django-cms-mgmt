@@ -10,6 +10,8 @@ The tech committee steers the technical development of the django CMS product an
 
 Specifically, it handles [Requests for Comments (RfCs)](https://github.com/django-cms/django-cms/discussions), i.e. feature and change requests and influences the [Technical Roadmap](https://www.django-cms.org/en/roadmap/).
 
+The Tech Committee [meets biweekly](/tech-committee/weekly-tech-committee-meeting.md) and the [meeting protocol](/tech-committee/tasks-and-decisions-log.md) is available publicly.
+
 ## Team
 
 The the Technical Committee (TC) includes key developers from companies and others in the django CMS development community - developers who work with django CMS, as well as core developers of django CMS - in order to help ensure that all perspectives are represented in important decisions about the software and the project.
@@ -20,7 +22,7 @@ Want to join the TC? Please join the [#technical-committee](https://discord-tech
 
 
 
-## Tasks
+## Tasks and Decisions Protocol
 
 - [Tasks & Decisions Log](/tech-committee/tasks-and-decisions-log.md)
 
