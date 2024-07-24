@@ -2,15 +2,17 @@
 
 ## Mission
 
-The Technical Committee is headed by the dCA Project Management & Technology Officer who must be represented with a board seat. 
+The Technical Committee is headed by the dCA Chief Technical Officer (CTO). 
 
-The Technical Committee, represented by the Head Tech Committee consults the Executive Board on technical matters. 
+The Technical Committee, represented by the CTO advises the Association Board on technical matters. 
 
-It prepares and updates the technical roadmap for approval by the Executive Board and/or the General Assembly, manages incoming feature requests and proposals and takes decisions on awarding credits for work submitted by members.
+The tech committee steers the technical development of the django CMS product and is responsible to propose solutions to technical questions and problems in the best interest of the open source spirit of django CMS. 
+
+Specifically, it handles [Requests for Comments (RfCs)](https://github.com/django-cms/django-cms/discussions), i.e. feature and change requests and influences the [Technical Roadmap](https://www.django-cms.org/en/roadmap/).
 
 ## Team
 
-The the Technical Committee (TC) will include key developers from companies and others in the django CMS development community - developers who work with django CMS, as well as developers of django CMS - in order to help ensure that all perspectives are represented in important decisions about the software and the project.
+The the Technical Committee (TC) includes key developers from companies and others in the django CMS development community - developers who work with django CMS, as well as core developers of django CMS - in order to help ensure that all perspectives are represented in important decisions about the software and the project.
 
 The TC may also include representatives of the django CMS community who are not developers but who have a valuable expertise in key fields (user experience, design, content management, etc).
 
