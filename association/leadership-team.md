@@ -1,8 +1,15 @@
 # django CMS Leadership Team
 
+The Leadership Team is responsible for steering and operating all processes of the django CMS Association. The Leadership Team influences the overall course of the association through participation in the following strategic tasks:
+
+- Creation of the [Annual Report](https://report.django-cms.org)
+- Updates to the [product vision](https://www.django-cms.org/en/product-vision/) and the [technical roadmap](https://www.django-cms.org/en/roadmap/)
+- Updates to the [strategy document](https://strategy.django-cms.org) including the annual budget proposal for the association
+
+
 ## Leadership Team Positions
 
-Please see the positions and their responsibilities here: https://www.django-cms.org/en/volunteering-opportunities/
+Please see the positions here: https://www.django-cms.org/en/volunteering-opportunities/
 
 ## Joining the Leadership Team
 
@@ -52,6 +59,6 @@ Each team member to share:
 - news & trends from their fields of activity relevant to django CMS
 
 Additionally, once a year, in the Leadership Team meeting prior to the [General Assembly](/association/general-assembly.md):
-- Review, update the [Annual Report](https://report.django-cms.org)
-- Review, update the [product vision](https://www.django-cms.org/en/product-vision/) and the [technical roadmap](https://www.django-cms.org/en/roadmap/)
-- Review, update the [strategy document](https://strategy.django-cms.org) including the budget proposal
+- Review the [Annual Report](https://report.django-cms.org)
+- Review the [product vision](https://www.django-cms.org/en/product-vision/) and the [technical roadmap](https://www.django-cms.org/en/roadmap/)
+- Review the [strategy document](https://strategy.django-cms.org) including the budget proposal
