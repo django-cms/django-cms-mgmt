@@ -7,7 +7,7 @@
 - [Tech Committee task board](https://github.com/django-cms/django-cms-mgmt/projects/1)
 - [this doc's hackmd url](https://hackmd.io/ddhvq_aqS6my9gwhLddyPg)
 - [this doc's github repo url](https://github.com/django-cms/django-cms-mgmt/blob/master/tech-committee/tasks-and-decisions-log.md)
-- [Process: Proposing large feature additions](https://github.com/django-cms/django-cms-mgmt/blob/master/contribution%20policy/contribution%20policy.md)
+- [Process: Proposing large feature additions](https://github.com/django-cms/django-cms-mgmt/blob/master/contributions/contribution-policy.md)
 
 <strong>Policy: If there are no items on the agenda 30 minutes before the meeting, the meeting will be cancelled.h</strong>
 
@@ -23,6 +23,67 @@
 3. Review agenda and add missing points 
 4. Varia: further points raised by Tech Committee members:
     - (please add here)
+6. Review Tasks
+    - https://github.com/orgs/django-cms/projects/2
+7. News & updates for / from dCA Board and MarCom
+8. Review approve and post the meeting notes
+
+## 26.07.2024 
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Participants: Jacob, Jens-Erik, Fabian
+3. Guest(s) intro
+    - (Name) 
+3. Review agenda and add missing points 
+4. Varia: further points raised by Tech Committee members:
+    - Fabian: URL management in 4.x (Fabian starts discussion)
+    - Fabian: Benchmarking django CMS for large installations (https://github.com/fsbraun/django-cms-benchmark) - Please be invited to add tests for large setups
+    - Discussion: Separate Menu app from core? Fabian checks feasibility
+6. Review Tasks
+    - https://github.com/orgs/django-cms/projects/2
+7. News & updates for / from dCA Board and MarCom
+8. Review approve and post the meeting notes
+
+## 12.07.2024 
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Participants: Jens-Erik, Fabian
+3. Guest(s) intro
+    - (Name) 
+3. Review agenda and add missing points 
+4. Varia: further points raised by Tech Committee members:
+    - (Fabian) djangocms-versioning 2.1.0 release. (Approved)
+    - (Fabian) django CMS 4.1.2 release (one bugfix needs to be merged)
+    - (Fabian) django CMS 4.2 features - discussion 
+        - Headless mode (no CMS content in Django's urls)
+        - Performance
+        - *At the moment no other features popped up - new features to be added through github discussions*
+    - (Fabian) djangocms-4-migration needs update -> put it under dCA hood
+    - (please add here)
+6. Review Tasks
+    - https://github.com/orgs/django-cms/projects/2
+7. News & updates for / from dCA Board and MarCom
+8. Review approve and post the meeting notes
+
+## 28.06.2024 
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Participants: Mark, Jens-Erik, Jacob, Fabian
+3. Guest(s) intro
+    - (Name) 
+3. Review agenda and add missing points 
+4. Varia: further points raised by Tech Committee members:
+    - (Jacob) Let's further discuss on [Proposal](https://github.com/django-cms/django-cms/discussions/7933). Last Friday Fabian and Jacob talked about this issue privatly.
+    - (Jacob) How to proceed with upcoming PR for https://github.com/django-cms/django-cms/tree/WiP-feat-merge-Page-with-NodeTree
 6. Review Tasks
     - https://github.com/orgs/django-cms/projects/2
 7. News & updates for / from dCA Board and MarCom
