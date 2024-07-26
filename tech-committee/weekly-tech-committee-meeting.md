@@ -10,7 +10,7 @@ The Tech Committee meets biweekly to discuss the topics that have been put on th
 # Join as a guest listener 
 
 Anyone can join the tech committee (TC) meeting and get a first hand look at the work of the tech committee and the status of django CMS development. We encourage everyone who wants to contribute to django CMS to attend our weekly meeting and introduce yourself. We are happy to meet you! 
-If you are interested in joining the meeting, please get in touch with Nicolai (nicolai@django-cms.org) and he will happily guide you through the process. 
+If you are interested in joining the meeting, please join the [#tech-committee Discord channel](https://discord-tech-committee-channel.django-cms.org) and state your wish to join the next meeting there. A TC member will then guide you throught he process.
 
 
 # How to become a regular member of the tech committee

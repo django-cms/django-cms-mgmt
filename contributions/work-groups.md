@@ -24,7 +24,7 @@ Workgroups are the heart of our open-source project. A workgroup is a temporary 
 
 For all workgroup members:
 - We invite you to join the weekly [Technical Committee meeting](/tech-committee/weekly-tech-committee-meeting.md) from time to time and report on the progress made.
-- Please notify Nicolai (nicolai@django-cms.org) when the workgroup has made significant progress or even completed a task so that he can create a blog post or include it in the newsletter.
+- Please post any significant progress or completed tasks and milestones to the Tech Committee's Discord channel [#tech-committee](https://discord-tech-committee-channel.django-cms.org) so that the info can find its way into the next newsletter or blog post.
 
 # Workgroup FAQ
 
@@ -38,10 +38,10 @@ The organization of work collaboration in workgroups is up to the group members.
 
 ## How can workgroups keep others informed about their work progress? 
 
-In order to sync on the work progress of the workgroups, one member of the workgroup should attend the [weekly tech committee meeting](/tech-committee/weekly-tech-committee-meeting.md) every once in a while to report on the work progress. In case you want to join the weekly tech committee to report on your work progress please get in touch with Nicolai (nicolai@django-cms.org), who will guide you through the process. 
+In order to sync on the work progress of the workgroups, one member of the workgroup should attend the [weekly tech committee meeting](/tech-committee/weekly-tech-committee-meeting.md) every once in a while and report on the work progress. Please join the Tech Committee's Discord channel [#tech-committee](https://discord-tech-committee-channel.django-cms.org).
 
 ## I have a conflict with members of my workgroup. What do I do?
 
-We trust the group members that the work within the working groups is characterized by mutual respect and a constructive feedback culture (see also our [Code of Conduct](http://docs.django-cms.org/en/latest/contributing/code_of_conduct.html). However, if there is a conflict within a workgroup that cannot be solved by the members, please contact Nicolai (nicolai@django-cms.org) and he will help you. 
+We trust the group members that the work within the working groups is characterized by mutual respect and a constructive feedback culture (see also our [Code of Conduct](http://docs.django-cms.org/en/latest/contributing/code_of_conduct.html). However, if there is a conflict within a workgroup that cannot be solved by the members, please join the Tech Committee's Discord channel [#tech-committee](https://discord-tech-committee-channel.django-cms.org) and ask a member to support you with guidance.
 
 
