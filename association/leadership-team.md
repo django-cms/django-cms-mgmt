@@ -49,16 +49,15 @@ Please do include anything else you deem relevant.
 
 ## Leadership Team Meetings
 
-the Leadership Team meets online one to three times a year, once before the General Assembly and up to 2 additional times ad hoc when the need arises.
-
-### Meeting Agenda Template
-
 Each team member to share:
 - life updates (professional / personal life)
 - their initiatives, activities, progress on django CMS topics
 - news & trends from their fields of activity relevant to django CMS
 
-Additionally, once a year, in the Leadership Team meeting prior to the [General Assembly](/association/general-assembly.md):
+## General Assembly Preparation
+
+The Leadership Team is responsible for the preparation of the [General Assembly](/association/general-assembly.md):
+
 - Review the [Annual Report](https://report.django-cms.org)
 - Review the [product vision](https://www.django-cms.org/en/product-vision/) and the [technical roadmap](https://www.django-cms.org/en/roadmap/)
 - Review the [strategy document](https://strategy.django-cms.org) including the budget proposal
