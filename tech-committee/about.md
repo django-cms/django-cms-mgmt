@@ -2,9 +2,9 @@
 
 ## Mission
 
-The Technical Committee is headed by the dCA Chief Technical Officer (CTO). 
+The Technical Committee is headed by the Technical Lead. 
 
-The Technical Committee, represented by the CTO advises the Association Board on technical matters. 
+The Technical Committee, represented by the Technical Lead, advises the Association Board on technical matters. 
 
 The tech committee steers the technical development of the django CMS product and is responsible to propose solutions to technical questions and problems in the best interest of the open source spirit of django CMS. 
 
