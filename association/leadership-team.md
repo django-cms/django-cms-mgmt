@@ -49,6 +49,9 @@ Please do include anything else you deem relevant.
 
 ## Leadership Team Meetings
 
+The Leadership Team meets periodically. Find below an agenda template.
+
+### Leadership Team Meeting Agenda Template
 Each team member to share:
 - life updates (professional / personal life)
 - their initiatives, activities, progress on django CMS topics

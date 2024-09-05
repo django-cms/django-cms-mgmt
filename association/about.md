@@ -16,7 +16,7 @@ The django CMS Association is a non-profit organization that was founded in 2020
 
 ## Funding
 
-As non-profit organization, the dCA is dependent on donations from the django CMS community. The best way to donate is to become a [django CMS Sponsor through Github](https://github.com/sponsors/django-cms). The funding is used in accordance with our mission statements, currently focussing sponsoring technical development of the django CMS core and [core add-ons](https://www.django-cms.org/en/repositories-plugins/). 
+As non-profit organization, the dCA is dependent on donations from the django CMS community. The quickest and simplest way to donate is to become a [django CMS Sponsor through Github](https://github.com/sponsors/django-cms). The funding is used in accordance with our mission statements, currently focussing sponsoring technical development of the django CMS core and [core add-ons](https://www.django-cms.org/en/repositories-plugins/). 
 
 Continue here for more information about [how to support django CMS](https://www.django-cms.org/en/donate/).
 
@@ -26,11 +26,7 @@ Read more about the different organs (General Assembly, Leadership Team, etc.), 
 
 ## Leadership Team
 
-The Leadership Team represents the Association externally and manages ongoing business operations.
-
-See [list of members here](https://www.django-cms.org/en/about-us/)
-
-Here is how to [join the Leadership Team](/association/leadership-team.md)
+The Leadership Team represents the Association externally and manages ongoing business operations. See [list of leadership team members](https://www.django-cms.org/en/about-us/). Here is how to [join the Leadership Team](/association/leadership-team.md)
 
 ## Tech Committee
 
@@ -68,16 +64,24 @@ Once you have decided to join the dCA, you will receive a digital membership app
 ## FAQs
 
 ### Why was the dCA founded?
-The django CMS Association was founded to ensure the long-term success of django CMS and to guarantee the further development of the django CMS project. The dCA sees itself as a mediator within the open source community and aims to create a pleasant atmosphere of mutual respect and recognition. The focus is on further development of django CMS and on community projects like events and conferences. Through marketing measures the awareness of django CMS shall be increased. In the long run all community members will profit from this, be it companies that offer django CMS services or companies that use django CMS. The goal of the django CMS Association is to bundle the power of the community and to provide a sustainable platform. 
+The django CMS Association was founded to ensure the long-term success of django CMS and to guarantee the further development of the django CMS project. The dCA sees itself as a mediator within the open source community and aims to create a pleasant atmosphere of mutual respect and recognition. The focus is on further development of django CMS and on community projects like events and conferences. We have three missions:
+
+1. We innovate and lead
+2. We foster contribution
+3. We drive adoption
+
+Read more about the [dCA missions](#mission).
 
 ### What are the activities of the dCA?
-In addition to the annual General Assembly, where decisions such as the roadmap or budget are determined by all association members, the dCA regularly organizes community events such as hackathons or webinars and other formats. At the same time, the dCA encourages contributors to organize themselves into groups and to work together on projects. 
+See the [dCA strategy](https://strategy.django-cms.org) and [current projects](https://www.django-cms.org/en/roadmap/)
 
-### Why should I join the dCA?
-Because you care about the existence of django CMS and its future! Your membership is a statement of support to the django CMS open source project. We all benefit from the license free django CMS, whether we use it for our websites or for customer projects. However, to be prepared for future challenges, financial means are needed to secure django CMS success and sustainability. For this reason we have founded the association. As a member, you not only participate financially, you also get a say in the future of django CMS. With your votes at the General Assembly you can decide in which direction django CMS should develop, from a product point of view or as an open source project in general. 
+### Why should I become a dCA member?
+1. We need your help for django CMS to remain open, free, cutting edge and well maintained.
+2. Your financial contributions support the django CMS Fellowship, which directly translates to continuous, high-quality software improvements and fixes.
+3. The django CMS Fellow also provides great technical support for developers (i.e. by handling your technical questions and requests across our support channels).
 
 ### Which is the right membership tier for me?
-We offer a range of corporate memberships with different fees depending on the size of the company and the savings made from using a license-free CMS. For individuals that cannot afford a business membership but want to support the django CMS Association. They can also do so on top of their company's membership, out of personal interest.
+We offer a range of corporate memberships with different fees depending on how important django CMS is for the organization.
 
 ### How is the dCA financed?
-The django CMS Association is a non-profit association with based in Zurich, Switzerland. The association is financed by the donations and membership fees of its members. 
+The django CMS Association is a non-profit association with based in Zurich, Switzerland. The association is financed by the donations and membership fees of its members. It is run entirely by volunteers.
