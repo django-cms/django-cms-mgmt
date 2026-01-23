@@ -4,14 +4,15 @@
 
 <small>The Tech Committee meetings documentation must follow the format of the [Tech Committee Log Entry Template](/tech-committee/tasks-and-decisions-log-entry-template.md)</small>
 
+- [Meeting Link](https://meet.google.com/mrz-hbyb-xiy)
 - [Tech Committee task board](https://github.com/django-cms/django-cms-mgmt/projects/1)
 - [this doc's hackmd url](https://hackmd.io/ddhvq_aqS6my9gwhLddyPg)
 - [this doc's github repo url](https://github.com/django-cms/django-cms-mgmt/blob/master/tech-committee/tasks-and-decisions-log.md)
 - [Process: Proposing large feature additions](https://github.com/django-cms/django-cms-mgmt/blob/master/contributions/contribution-policy.md)
 
-<strong>Policy: If there are no items on the agenda 30 minutes before the meeting, the meeting will be cancelled.h</strong>
+<strong>Policy: If there are no items on the agenda 30 minutes before the meeting, the meeting will be cancelled.</strong>
 
-## dd.mm.2024 TEMPLATE
+## dd.mm.2025 TEMPLATE
 
 #### Agenda Points
 <small>TBD in in the first 5 min of the meeting</small>
@@ -22,8 +23,515 @@
     - (Name) 
 3. Review agenda and add missing points 
 4. Varia: further points raised by Tech Committee members:
+    - ...
+6. Review Tasks
+    - https://github.com/orgs/django-cms/projects/2
+7. News & updates for / from dCA Board and MarCom
+8. Review approve and post the meeting notes
+
+## 23.01.2026
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Participants: Mike, Jacob, Jens-Erik, Fabian
+3. Guest(s) intro
+    - (Name) 
+3. Review agenda and add missing points 
+4. Varia: further points raised by Tech Committee members:
+    - Finalizing `CMSAppExtension`: [adding a `contract` property](https://github.com/django-cms/django-cms/discussions/8451) to make extensions truly swappable - Fabian
+    - Discussion about creating an MCP server for djangoCMS - Mike
+    - Asnyc django CMS - last blocker: app hooks - Fabian
+    - State of django-filer (finder branch) – Jacob
+
+6. Review Tasks
+    - https://github.com/orgs/django-cms/projects/2
+7. News & updates for / from dCA Board and MarCom
+8. Review approve and post the meeting notes
+
+## 09.01.2026
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Participants: 
+3. Guest(s) intro
+    - (Name) 
+3. Review agenda and add missing points 
+4. Varia: further points raised by Tech Committee members:
+    - Final changes before django CMS 5.1 release (Fabian)
+        - [ ] Plugin restriction endpoint?
+        - [X] [Mark redirects in page tree](https://github.com/django-cms/django-cms/issues/6509)
+        - [X] [Disable "Show in menu" for published pages in page tree](https://github.com/django-cms/django-cms/issues/7780)
+        - other issues?
+6. Review Tasks
+    - https://github.com/orgs/django-cms/projects/2
+7. News & updates for / from dCA Board and MarCom
+8. Review approve and post the meeting notes
+
+## 26.12.2025 (Skipped)
+
+## 12.12.2025
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Participants: Mike, Jacob, Fabian
+3. Guest(s) intro
+    - (Name) 
+3. Review agenda and add missing points 
+4. Varia: further points raised by Tech Committee members:
+    - Permissions (Jacob): Page permission form shows error without details - issue to be created.
+
+6. Review Tasks
+    - https://github.com/orgs/django-cms/projects/2
+7. News & updates for / from dCA Board and MarCom
+8. Review approve and post the meeting notes
+
+## 28.11.2025 
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Participants: Jacob, Vinit, Fabian
+3. Guest(s) intro
+    - (Name) 
+3. Review agenda and add missing points 
+4. Varia: further points raised by Tech Committee members:
+    - State of django-filer (finder) (Jacob):
+        - Files are now sortable on a per folder basis.
+        - Support for S3 using django-storages.
+        - Audio and Video files offer volume control.
+        - Implementation of a Folder select field. Can be used for Carousel and Gallery components.
+        - Question: Do we need `finder_public_private`? What's the purpose and who is using it?
+    - Feeds, Leads and Page Classifications (Jacob) -> Jacob presented and we agreed to create a discussion point.
+    - Update on plugin restrictions (Fabian)
+6. Review Tasks
+    - https://github.com/orgs/django-cms/projects/2
+7. News & updates for / from dCA Board and MarCom
+8. Review approve and post the meeting notes
+
+
+## 14.11.2025 TEMPLATE
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Participants: Jens-Erik, Fabian
+3. Guest(s) intro
+    - (Name) 
+3. Review agenda and add missing points 
+4. Varia: further points raised by Tech Committee members:
+    - Page permissions & advanced settings (https://github.com/django-cms/django-cms/pull/8387)
+6. Review Tasks
+    - https://github.com/orgs/django-cms/projects/2
+7. News & updates for / from dCA Board and MarCom
+8. Review approve and post the meeting notes
+
+
+## 31.10.2025 :ghost:
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Participants: 
+3. Guest(s) intro
+    - (Name) 
+3. Review agenda and add missing points 
+4. Varia: further points raised by Tech Committee members:
+    - Usability Problems (Jacob):
+        - It happened again, someone wanted to delete a page in one language but accidentally clicked on the button "Delete all translations". This caused a major incident and coworkers of my team had to restore many pages manually. Proposal: In Versions we add another status named "Marked for removal" or similar. If someone deletes a page, we change the status of this page and its descendants to that new status. Then with a cron job, we delete all versions older than a given number of days with status "Marked for removal".
+        - To remedy this we, create a feature request on [djangocms-verisoning](https://github.com/django-cms/djangocms-versioning/issues/490)
+    - Vitaly: django-cms.org redesign
+    - Vitaly: More case studies?
+6. Review Tasks
+    - https://github.com/orgs/django-cms/projects/2
+7. News & updates for / from dCA Board and MarCom
+8. Review approve and post the meeting notes
+
+## 17.11.2025
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Participants: Mark, JAcob, Jens-Erik, Fabian
+3. Guest(s) intro
+    - (Name) 
+3. Review agenda and add missing points 
+4. Varia: further points raised by Tech Committee members:
+    - Bug update (Fabian): 
+        - djangocms-alias < 3 potentially can make plugin trees inconsistent
+        - Copying plugins from one language to another using the clipboard sometimes fails (fix nerly finished)
+    - An increased influx of bug reports indicates rising number of new django CMS projects since the bugs reported in large have been introduced with django CMS 4's refactoring (Fabian)
+6. Review Tasks
+    - https://github.com/orgs/django-cms/projects/2
+7. News & updates for / from dCA Board and MarCom
+8. Review approve and post the meeting notes
+
+## 03.10.2025  skipped
+
+Meeting skepped
+
+## 19.09.2025
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Participants: Jens-Erik, Fabian
+3. Guest(s) intro
+    - Vitaliy
+3. Review agenda and add missing points 
+4. Varia: further points raised by Tech Committee members:
+
+6. Review Tasks
+    - https://github.com/orgs/django-cms/projects/2
+7. News & updates for / from dCA Board and MarCom
+8. Review approve and post the meeting notes
+
+
+## 05.09.2025
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Participants: Jacob Rief, Fabian Braun 
+3. Guest(s) intro
+    - Vitaliy Podoba
+3. Review agenda and add missing points 
+4. Varia: further points raised by Tech Committee members:
+    - Goals of django CMS for the next years
+    - Workgroups? (to do Fabian: Overview on **currently active** workgroups)
+    - Management of verticals: landing pages and case studies (to do Fabian: Take to board)
+    - Supporting businesses: Fabian creates a Discord channel
+6. Review Tasks
+    - https://github.com/orgs/django-cms/projects/2
+7. News & updates for / from dCA Board and MarCom
+8. Review approve and post the meeting notes
+
+## 22.08.2025
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Participants: 
+3. Guest(s) intro
+    - (Name) 
+3. Review agenda and add missing points 
+5. Varia: further points raised by Tech Committee members:
+    - Start discussion for upcoming 5.1 features:
+6. Review Tasks
+    - https://github.com/orgs/django-cms/projects/2
+7. News & updates for / from dCA Board and MarCom
+8. Review approve and post the meeting notes
+
+## 08.08.2025
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Participants: Mike, Vinit, Jacob, Fabioan
+3. Guest(s) intro
+    - (Name) 
+3. Review agenda and add missing points 
+4. Varia: further points raised by Tech Committee members:
+   - Mike: Presents new design templates
+6. Review Tasks
+    - https://github.com/orgs/django-cms/projects/2
+7. News & updates for / from dCA Board and MarCom
+8. Review approve and post the meeting notes
+
+## 25.07.2025
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Participants: 
+3. Guest(s) intro
+    - (Name) 
+3. Review agenda and add missing points 
+4. Varia: further points raised by Tech Committee members:
+   - Move the technical committee jours fixe to 14:00 CE(S)T and 13:00 UK time?
+   - Convention of building JavaScript modules in future projects. Reason for this is, that Vinit and Jacob have different approaches. 
+6. Review Tasks
+    - https://github.com/orgs/django-cms/projects/2
+7. News & updates for / from dCA Board and MarCom
+8. Review approve and post the meeting notes
+
+## 11.07.2025 
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Participants: Mario, Jacob, Jens-Erik, Fabian
+3. Guest(s) intro
+    - (Name) 
+3. Review agenda and add missing points 
+4. Varia: further points raised by Tech Committee members:
+ * I would like to show an alternative to Text-enabled plugins using the TipTap richtext editor. By storing the content of such components inside the TipTap's internal structure, we can avoid queries onto the database. The current implementation djangocms-ckeditor uses the special pseudo element `<cms-plugin id="123" />` which then is resolved by fetching the content from the database. This N+1 approach then would become obsolete.
+ * I would like to show the integration of django-filer (finder branch) into django-CMS plugins using django-formset.
+ * We should question ourself, if we always need django-filer in projects using django-CMS. In my opinion, it could make sense for smaller projects to reference files directly rather than managing them through django-filer. This would imo simplify the usability of the CMS.
+
+6. Review Tasks
+    - https://github.com/orgs/django-cms/projects/2
+7. News & updates for / from dCA Board and MarCom
+8. Review approve and post the meeting notes
+
+## 27.06.2025 
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Participants: Jens-Erik, Fabian, AI
+3. Guest(s) intro
+    - (Name) 
+3. Review agenda and add missing points 
+4. Varia: further points raised by Tech Committee members:
+   - Announcement of djangocms-stories
+   - Open issues django CMS core: Be invited to pick some...
+6. Review Tasks
+    - https://github.com/orgs/django-cms/projects/2
+7. News & updates for / from dCA Board and MarCom
+8. Review approve and post the meeting notes
+
+## 13.06.2025 
+
+#### Agenda Points
+
+1. Add new entry for next meeting from template
+2. Participants: Mike, Jens-Erik, Jacob, Fabian
+3. Guest(s) intro
+    - 
+3. Review agenda and add missing points 
+4. Varia: further points raised by Tech Committee members:
+    - JAcob reports progess on integration django-formset with djangocms-cascade
+    - Fabian reports release of djangocms-text 0.9.1
+6. Review Tasks
+    - https://github.com/orgs/django-cms/projects/2
+7. News & updates for / from dCA Board and MarCom
+8. Review approve and post the meeting notes
+
+## 04.04.2025
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Participants: Mike, Jacob, Jens-Erik, Fabian
+3. Guest(s) intro
+    - (Name) 
+3. Review agenda and add missing points 
+4. Varia: further points raised by Tech Committee members:
+    - django CMS 5: Any issues with django CMS 5
+        - Plugin restriction issue: Not calculated correctly
+        - Jacob mentions an older discussion:  https://github.com/django-cms/django-cms/discussions/7969
+        - Jacob: Would it be possible to attach the event for opening a plugin editor to a customized JavaScript handler. Reason is that I would like to use an alternative Plugin-Editor-System.
+        - CMS Garden: Talk at their booth at Chemnitzer Linux-Tage (Jens-Erik)
+6. Review Tasks
+    - https://github.com/orgs/django-cms/projects/2
+7. News & updates for / from dCA Board and MarCom
+8. Review approve and post the meeting notes
+
+## 21.02.2025
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Participants: Mike, Jacob, Jens-Erik, Fabian
+3. Guest(s) intro
+    - (Name) 
+3. Review agenda and add missing points 
+4. Varia: further points raised by Tech Committee members:
+    - Demo django CMS 4.2 alpha
+    - 
+    - get_ancestors method for plugins: Oracle: reursive (Jacob points Fabian to the commit)
+    - CMS Garden: Talk at CLT Chemnitz at their booth (Jens-Erik)
+6. Review Tasks
+    - https://github.com/orgs/django-cms/projects/2
+7. News & updates for / from dCA Board and MarCom
+8. Review approve and post the meeting notes
+
+## 24.01.2025 
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Participants: Jacob, Mike, Fabian
+3. Guest(s) intro
+    - (Name) 
+3. Review agenda and add missing points 
+4. Varia: further points raised by Tech Committee members:
+   - Feature freeze django CMS 4.2
+       - Database refactor with page creators postponed
+   - Mike will propose a workforce for AI integration
+
+6. Review Tasks
+    - https://github.com/orgs/django-cms/projects/2
+7. News & updates for / from dCA Board and MarCom
+8. Review approve and post the meeting notes
+
+## 10.01.2025 
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Participants: Mike, Jacob, Jens-Erik, Bazan, Fabian
+3. Guest(s) intro
+    - (Name) 
+3. Review agenda and add missing points 
+4. Varia: further points raised by Tech Committee members:
+    - Official deprecation announcement of djangocms-ckeditor
+    - Bug: Language switch impossible
     - (please add here)
 6. Review Tasks
+    - https://github.com/orgs/django-cms/projects/2
+7. News & updates for / from dCA Board and MarCom
+8. Review approve and post the meeting notes
+
+
+## 27.12.2024 No meeting
+
+## 13.12.2024 
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Participants: Mike, Jacob, Fabian, Jens-Erik
+3. Guest(s) intro
+    - Abdulwasiu Apalowo
+3. Review agenda and add missing points 
+4. Varia: further points raised by Tech Committee members:
+    - Announcement of Djangonaut Intern
+    - Rough time line for filer
+    - (please add here)
+6. Review Tasks
+    - https://github.com/orgs/django-cms/projects/2
+7. News & updates for / from dCA Board and MarCom
+8. Review approve and post the meeting notes
+
+## 29.11.2024 
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Participants: Mike, Jens-Erik, Fabian
+3. Guest(s) intro
+    - (Name) 
+3. Review agenda and add missing points 
+4. Varia: further points raised by Tech Committee members:
+    - Should Django-CMS set the HTTP-header `Last-Modified` when serving 
+6. Review Tasks
+    - https://github.com/orgs/django-cms/projects/2
+7. News & updates for / from dCA Board and MarCom
+8. Review approve and post the meeting notes
+
+## 01.11.2024
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Participants: Mike, Mark, Jacob, Jens-Erik, Fabian
+3. Guest(s) intro
+    - Sal
+3. Review agenda and add missing points 
+4. Varia: further points raised by Tech Committee members:
+    - djangocms-link update
+    - Pre-commit `ruff format`
+        - Fabian: Either change precommit hook or run a formatting PR on the code base
+5. Open action items:
+    - Fabian: Possible ways to solve this [#8019](https://github.com/django-cms/django-cms/issues/8019). 
+        - Fabian will update language choosers and include a fix proposal for `Page.languages`.
+7. Review Tasks
+    - https://github.com/orgs/django-cms/projects/2
+8. News & updates for / from dCA Board and MarCom
+9. Review approve and post the meeting notes
+
+## 04.10.2024
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Participants: Jacob, Jens-Erik, Fabian
+3. Guest(s) intro
+    - (Name) 
+3. Review agenda and add missing points 
+4. Varia: further points raised by Tech Committee members:
+    - State of upcoming django-filer.
+    - Should we use bold letters to render page titles in the tree view?
+        - not bold, but grey
+    - Mailinglist proposal. Let's talk about alternatives.
+        - we might have a solution
+    - Possible ways to solve this [#8019](https://github.com/django-cms/django-cms/issues/8019). 
+        - Fabian will update language choosers and include a fix proposal for `Page.languages`.
+        - Jacob: Normalization of Page model (created_by, ...)
+6. Review Tasks
+    - https://github.com/orgs/django-cms/projects/2
+7. News & updates for / from dCA Board and MarCom
+8. Review approve and post the meeting notes
+
+## 20.09.2024 
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Participants: Jacob, Fabian
+3. Guest(s) intro
+    - ./.
+3. Review agenda and add missing points 
+4. Varia: further points raised by Tech Committee members:
+    - Djangonaut program (Fabian)
+    - 4.1.3 bugfix release (Fabian)
+    - `FrontendEditableAdmin` API for plugins (Fabian)?
+    - (please add here)
+6. Review Tasks
+    - https://github.com/orgs/django-cms/projects/2
+7. News & updates for / from dCA Board and MarCom
+8. Review approve and post the meeting notes
+
+## 06.09.2024
+
+#### Agenda Points
+<small>TBD in in the first 5 min of the meeting</small>
+
+1. Add new entry for next meeting from template
+2. Participants: 
+3. Guest(s) intro
+    - (Name) 
+3. Review agenda and add missing points 
+4. Varia: further points raised by Tech Committee members (take originally from last meeting):
+    - Missing easy-thumbnails release blocks support of django-filer for Django 5.1
+    - (Minimal) additional changes I propose for django CMS 4.2 (Fabian):
+      - Universal language menu (currently, versioning or alias have to bring their own)
+      - Normalization of `created_by` and `changed_by` fields in `PageContent` (https://github.com/django-cms/django-cms/discussions/7855)
+      - Configurable default for `in_navigation` property (https://github.com/django-cms/django-cms/discussions/7802)
+      - Permission for set home page (https://github.com/django-cms/django-cms/discussions/7779)
+    - django-filer discussion with Lincoln Loop
+    - Release of django-filer 3.2: permission cache and streamlined thumbnail creation (done)
+    - Update delete page view (done)
+    - (please add here)
+6. Review Tasks
+    - https://github.com/django-cms/django-cms/pull/7968
     - https://github.com/orgs/django-cms/projects/2
 7. News & updates for / from dCA Board and MarCom
 8. Review approve and post the meeting notes
