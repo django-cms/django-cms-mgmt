@@ -21,13 +21,12 @@
    to *Expired*. Anyone willing to champion it can reopen it.
 7. **Champions can step back.** A champion who can't continue says so.
    The item returns to *Wanted*, no questions asked.
-8. **Decisions can be made asynchronously.** A proposal posted in GitHub
-   Discussions with a champion and a deadline (at least 7 days) is decided
-   if no committee member objects by the deadline.
-9. **Decisions are not reversed silently.** A change of course is a new
+8. **Decisions are not reversed silently.** A change of course is a new
    entry that marks the old one *Superseded*.
-10. **Each meeting starts with the log.** Champions of *Open* items give a
+9. **Each meeting starts with the log.** Champions of *Open* items give a
     one-line status, and the Wanted list is checked for new volunteers.
+10. **Empty meetings are cancelled.** If there are no items on the agenda
+    30 minutes before the meeting, the meeting will be cancelled.
 
 **Status:** *In effect* = policy or convention that applies.
 *Done* = delivered. *Open* = decided, completion not yet confirmed by the
