@@ -88,10 +88,7 @@ The 6-month expiry clock starts when this log is adopted.
 | W6  | Performance workgroup (N+1 issues while editing) | 05.2024 | Lead | Fabian, Jacob | Benchmark repo exists (fsbraun/django-cms-benchmark). |
 | W7  | Formatting: `ruff format` via pre-commit vs one-off PR | 11.2023 – 11.2024 | Builder | Mark | Small, well-scoped. |
 | W8  | Convention for building JavaScript modules | 07.2025 | Decision | Jacob, Vinit | Two differing approaches in use. |
-| W9  | Is django-filer required? Purpose of `finder_public_private` | 07.2025 – 11.2025 | Decision | Jacob | |
-| W10 | Prune inactive workgroups | 10.2022 – 09.2025 | Builder | Fabian | Overview of active workgroups was to be produced. |
-| W11 | `CMSAppExtension` contract; async app hooks; MCP server | 01.2026 | Builder | Fabian, Mike | Recent; may already be in progress. |
-| W12 | AI integration workgroup | 01.2025 | Lead | Mike | |
+
 
 ## Expired
 
