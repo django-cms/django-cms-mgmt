@@ -7,7 +7,8 @@
     
 ## Tech Committee
    - [About the Tech Committee (mission, tasks & processes)](/tech-committee/about.md)
-   - [Tasks & Decisions Log](/tech-committee/tasks-and-decisions-log.md)
+   - [Decision Log](/tech-committee/decision-log.md)
+   - [Agenda Log](/tech-committee/tasks-and-decisions-log.md)
    
 ## Contribution 
    - [Community Heros](/community/community-heroes.md)
