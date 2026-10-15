@@ -6,7 +6,7 @@
 1. add new entry for next meeting from template
 1. Guest intro
 1. Review agenda and add missing points
-1. Varia: further points raised by Tech Committee members
+1. Varia: further points raised by Tech Committee members (mark either FYI, Feedback, Decision)
    - ...
    - ...
 1. Review Tasks
