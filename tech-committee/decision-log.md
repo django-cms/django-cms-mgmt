@@ -15,7 +15,7 @@
    reasonable time (e.g. two weeks). Without one, the item stays *Wanted*.
 5. **Wanted items are made visible.** Each Wanted item gets a GitHub issue
    labelled `help wanted`, linking its log entry. The list is shared with
-   sprints, Djangonauts, and dCA news, and given to the board as candidates
+   sprints and dCA news, and given to the board as candidates
    for funding.
 6. **Wanted items expire.** An item with no champion after 6 months moves
    to *Expired*. Anyone willing to champion it can reopen it.
@@ -74,7 +74,8 @@ champion. *Superseded* = replaced by a later entry.
 | D37 | 24.01.2025 | Page-creator DB refactor postponed beyond 4.2. Now W1. | — | ➖ |
 | D38 | 05.09.2025 | Discord channel for businesses using django CMS. | Fabian | ✔️ |
 | D39 | 31.10.2025 | Accidental "Delete all translations" handled via a "marked for removal" state; feature request filed (djangocms-versioning #490). | Jacob | Open |
-| D40 | 09.01.2026 | In 5.1: redirects marked in the page tree (#6509); "Show in menu" disabled for published pages (#7780). | ✔️ | Done |
+| D40 | 09.01.2026 | In 5.1: redirects marked in the page tree (#6509); "Show in menu" disabled for published pages (#7780). | Fabian | ✔️ |
+| D41 | 16.10.2026 | Development targets (#8868) and branch (`develop-6`) for django CMS 6.0 | Fabian  | ✔️ |
 
 ## Wanted
 
